@@ -1,0 +1,1436 @@
+[
+  {
+    "slug": "dublin",
+    "name": "더블린",
+    "code": "DUB",
+    "start": "2027-01-21",
+    "end": "2027-01-27",
+    "outbound": {
+      "times_raw": [
+        "오후 11:45",
+        "오전 11:45+1"
+      ],
+      "times24": [
+        "23:45",
+        "11:45+1"
+      ],
+      "airline": "SAS항공 · 운항  Sas Connect",
+      "duration": "21시간",
+      "route": "ICN–DUB",
+      "stops": "경유 1회",
+      "layover": "4시간 55분 CPH",
+      "price": 684900
+    },
+    "return": {
+      "times_raw": [
+        "오후 7:05",
+        "오후 7:00+1"
+      ],
+      "times24": [
+        "19:05",
+        "19:00+1"
+      ],
+      "airline": "SAS항공 · 운항  Sas Connect",
+      "duration": "14시간 55분",
+      "route": "DUB–ICN",
+      "stops": "경유 1회",
+      "layover": "1시간 10분 CPH",
+      "price": 684900
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2027-01-21",
+        "title": "더블린 도착",
+        "subtitle": "공항 · 템플바 산책",
+        "query": "Dublin Temple Bar"
+      },
+      {
+        "day": 2,
+        "date": "2027-01-22",
+        "title": "트리니티 칼리지",
+        "subtitle": "켈스의 서 · 그래프턴 스트리트",
+        "query": "Trinity College Dublin"
+      },
+      {
+        "day": 3,
+        "date": "2027-01-23",
+        "title": "더블린 역사 지구",
+        "subtitle": "더블린성 · 세인트 패트릭 대성당",
+        "query": "Dublin Castle"
+      },
+      {
+        "day": 4,
+        "date": "2027-01-24",
+        "title": "리버티스",
+        "subtitle": "기네스 스토어하우스 · 킬마이넘 감옥",
+        "query": "Guinness Storehouse Dublin"
+      },
+      {
+        "day": 5,
+        "date": "2027-01-25",
+        "title": "호스 해안",
+        "subtitle": "절벽 산책 · 항구 마을",
+        "query": "Howth cliffs Dublin"
+      },
+      {
+        "day": 6,
+        "date": "2027-01-26",
+        "title": "글렌달록",
+        "subtitle": "위클로 산맥 · 수도원 유적",
+        "query": "Glendalough Ireland"
+      },
+      {
+        "day": 7,
+        "date": "2027-01-27",
+        "title": "더블린 출국",
+        "subtitle": "시내 · 공항 · 코펜하겐 환승",
+        "query": "Dublin Airport"
+      }
+    ]
+  },
+  {
+    "slug": "krakow",
+    "name": "크라쿠프",
+    "code": "KRK",
+    "start": "2026-11-23",
+    "end": "2026-11-29",
+    "outbound": {
+      "times_raw": [
+        "오후 12:15",
+        "오후 8:50"
+      ],
+      "times24": [
+        "12:15",
+        "20:50"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "16시간 35분",
+      "route": "ICN–KRK",
+      "stops": "경유 1회",
+      "layover": "2시간 30분 WAW",
+      "price": 742500
+    },
+    "return": {
+      "times_raw": [
+        "오후 1:30",
+        "오전 10:30+1"
+      ],
+      "times24": [
+        "13:30",
+        "10:30+1"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "13시간",
+      "route": "KRK–ICN",
+      "stops": "경유 1회",
+      "layover": "55분 WAW",
+      "price": 742500
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-11-23",
+        "title": "크라쿠프 도착",
+        "subtitle": "공항 · 중앙광장 야경",
+        "query": "Krakow Main Square"
+      },
+      {
+        "day": 2,
+        "date": "2026-11-24",
+        "title": "구시가지",
+        "subtitle": "성 마리아 성당 · 직물회관",
+        "query": "Krakow Old Town"
+      },
+      {
+        "day": 3,
+        "date": "2026-11-25",
+        "title": "바벨 언덕",
+        "subtitle": "바벨성 · 비스와강",
+        "query": "Wawel Castle Krakow"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-26",
+        "title": "카지미에시",
+        "subtitle": "유대인 지구 · 플라츠 노비",
+        "query": "Kazimierz Krakow"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-27",
+        "title": "아우슈비츠",
+        "subtitle": "아우슈비츠-비르케나우 추모관",
+        "query": "Auschwitz Birkenau"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-28",
+        "title": "비엘리치카",
+        "subtitle": "소금광산 · 포드구제",
+        "query": "Wieliczka Salt Mine"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-29",
+        "title": "크라쿠프 출국",
+        "subtitle": "구시가지 · 공항 · 바르샤바 환승",
+        "query": "Krakow Airport"
+      }
+    ]
+  },
+  {
+    "slug": "milan",
+    "name": "밀라노",
+    "code": "MXP",
+    "start": "2027-01-29",
+    "end": "2027-02-04",
+    "outbound": {
+      "times_raw": [
+        "오후 1:30",
+        "오후 9:10"
+      ],
+      "times24": [
+        "13:30",
+        "21:10"
+      ],
+      "airline": "루프트한자, 에어 돌로미티",
+      "duration": "15시간 40분",
+      "route": "ICN–MXP",
+      "stops": "경유 1회",
+      "layover": "1시간 15분 MUC",
+      "price": 765200
+    },
+    "return": {
+      "times_raw": [
+        "오후 1:10",
+        "오전 11:15+1"
+      ],
+      "times24": [
+        "13:10",
+        "11:15+1"
+      ],
+      "airline": "에어 돌로미티, 루프트한자",
+      "duration": "14시간 5분",
+      "route": "MXP–ICN",
+      "stops": "경유 1회",
+      "layover": "1시간 45분 MUC",
+      "price": 765200
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2027-01-29",
+        "title": "밀라노 도착",
+        "subtitle": "말펜사 · 두오모 야경",
+        "query": "Milan Cathedral night"
+      },
+      {
+        "day": 2,
+        "date": "2027-01-30",
+        "title": "밀라노 중심",
+        "subtitle": "두오모 · 비토리오 에마누엘레 2세 갤러리아",
+        "query": "Milan Cathedral"
+      },
+      {
+        "day": 3,
+        "date": "2027-01-31",
+        "title": "브레라",
+        "subtitle": "최후의 만찬 · 브레라 골목",
+        "query": "Brera Milan"
+      },
+      {
+        "day": 4,
+        "date": "2027-02-01",
+        "title": "코모 호수",
+        "subtitle": "코모 · 벨라지오",
+        "query": "Lake Como Bellagio"
+      },
+      {
+        "day": 5,
+        "date": "2027-02-02",
+        "title": "베르가모",
+        "subtitle": "치타 알타 · 베네치아 성벽",
+        "query": "Bergamo Citta Alta"
+      },
+      {
+        "day": 6,
+        "date": "2027-02-03",
+        "title": "베로나",
+        "subtitle": "아레나 · 에르베 광장",
+        "query": "Verona Arena"
+      },
+      {
+        "day": 7,
+        "date": "2027-02-04",
+        "title": "밀라노 출국",
+        "subtitle": "나빌리 · 말펜사 · 뮌헨 환승",
+        "query": "Milan Navigli"
+      }
+    ]
+  },
+  {
+    "slug": "prague",
+    "name": "프라하",
+    "code": "PRG",
+    "start": "2027-01-29",
+    "end": "2027-02-04",
+    "outbound": {
+      "times_raw": [
+        "오후 1:30",
+        "오후 10:40"
+      ],
+      "times24": [
+        "13:30",
+        "22:40"
+      ],
+      "airline": "루프트한자",
+      "duration": "17시간 10분",
+      "route": "ICN–PRG",
+      "stops": "경유 1회",
+      "layover": "3시간 5분 MUC",
+      "price": 775500
+    },
+    "return": {
+      "times_raw": [
+        "오후 1:45",
+        "오전 11:15+1"
+      ],
+      "times24": [
+        "13:45",
+        "11:15+1"
+      ],
+      "airline": "루프트한자",
+      "duration": "13시간 30분",
+      "route": "PRG–ICN",
+      "stops": "경유 1회",
+      "layover": "1시간 25분 MUC",
+      "price": 775500
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2027-01-29",
+        "title": "프라하 도착",
+        "subtitle": "공항 · 구시가지 야경",
+        "query": "Prague Old Town night"
+      },
+      {
+        "day": 2,
+        "date": "2027-01-30",
+        "title": "구시가지",
+        "subtitle": "천문시계 · 카를교",
+        "query": "Prague Astronomical Clock"
+      },
+      {
+        "day": 3,
+        "date": "2027-01-31",
+        "title": "프라하성",
+        "subtitle": "성 비투스 대성당 · 말라 스트라나",
+        "query": "Prague Castle"
+      },
+      {
+        "day": 4,
+        "date": "2027-02-01",
+        "title": "요세포프",
+        "subtitle": "유대인 지구 · 루돌피눔",
+        "query": "Josefov Prague"
+      },
+      {
+        "day": 5,
+        "date": "2027-02-02",
+        "title": "쿠트나호라",
+        "subtitle": "성 바르바라 성당 · 세들레츠 납골당",
+        "query": "Kutna Hora"
+      },
+      {
+        "day": 6,
+        "date": "2027-02-03",
+        "title": "비셰흐라드",
+        "subtitle": "레트나 공원 · 강변",
+        "query": "Vysehrad Prague"
+      },
+      {
+        "day": 7,
+        "date": "2027-02-04",
+        "title": "프라하 출국",
+        "subtitle": "바츨라프 광장 · 공항 · 뮌헨 환승",
+        "query": "Prague Airport"
+      }
+    ]
+  },
+  {
+    "slug": "athens",
+    "name": "아테네",
+    "code": "ATH",
+    "start": "2027-01-29",
+    "end": "2027-02-04",
+    "outbound": {
+      "times_raw": [
+        "오후 1:30",
+        "오전 1:30+1"
+      ],
+      "times24": [
+        "13:30",
+        "01:30+1"
+      ],
+      "airline": "루프트한자",
+      "duration": "19시간",
+      "route": "ICN–ATH",
+      "stops": "경유 1회",
+      "layover": "3시간 15분 MUC",
+      "price": 780300
+    },
+    "return": {
+      "times_raw": [
+        "오후 12:55",
+        "오전 11:15+1"
+      ],
+      "times24": [
+        "12:55",
+        "11:15+1"
+      ],
+      "airline": "루프트한자",
+      "duration": "15시간 20분",
+      "route": "ATH–ICN",
+      "stops": "경유 1회",
+      "layover": "1시간 35분 MUC",
+      "price": 780300
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2027-01-29",
+        "title": "아테네 도착",
+        "subtitle": "공항 · 플라카 체크인",
+        "query": "Plaka Athens night"
+      },
+      {
+        "day": 2,
+        "date": "2027-01-30",
+        "title": "아크로폴리스",
+        "subtitle": "파르테논 · 아크로폴리스 박물관",
+        "query": "Acropolis Athens"
+      },
+      {
+        "day": 3,
+        "date": "2027-01-31",
+        "title": "고대 아고라",
+        "subtitle": "모나스티라키 · 프시리",
+        "query": "Ancient Agora Athens"
+      },
+      {
+        "day": 4,
+        "date": "2027-02-01",
+        "title": "수니온 곶",
+        "subtitle": "포세이돈 신전 · 에게해 일몰",
+        "query": "Temple of Poseidon Sounion"
+      },
+      {
+        "day": 5,
+        "date": "2027-02-02",
+        "title": "에게해 하루",
+        "subtitle": "에기나 섬 · 항구 산책",
+        "query": "Aegina Greece"
+      },
+      {
+        "day": 6,
+        "date": "2027-02-03",
+        "title": "아테네 전망",
+        "subtitle": "국립고고학박물관 · 리카비토스",
+        "query": "Mount Lycabettus Athens"
+      },
+      {
+        "day": 7,
+        "date": "2027-02-04",
+        "title": "아테네 출국",
+        "subtitle": "플라카 · 공항 · 뮌헨 환승",
+        "query": "Athens Airport"
+      }
+    ]
+  },
+  {
+    "slug": "london",
+    "name": "런던",
+    "code": "LHR",
+    "start": "2026-12-13",
+    "end": "2026-12-20",
+    "outbound": {
+      "times_raw": [
+        "오전 8:40",
+        "오후 5:20"
+      ],
+      "times24": [
+        "08:40",
+        "17:20"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "17시간 40분",
+      "route": "ICN–LHR",
+      "stops": "경유 1회",
+      "layover": "1시간 45분 WAW",
+      "price": 784200
+    },
+    "return": {
+      "times_raw": [
+        "오후 6:20",
+        "오전 10:30+2"
+      ],
+      "times24": [
+        "18:20",
+        "10:30+2"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "31시간 10분",
+      "route": "LHR–ICN",
+      "stops": "경유 1회",
+      "layover": "17시간 15분 WAW",
+      "price": 784200
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-12-13",
+        "title": "런던 도착",
+        "subtitle": "히스로 · 웨스트엔드",
+        "query": "London Piccadilly Circus"
+      },
+      {
+        "day": 2,
+        "date": "2026-12-14",
+        "title": "웨스트민스터",
+        "subtitle": "빅벤 · 웨스트민스터 사원 · 사우스뱅크",
+        "query": "Big Ben London"
+      },
+      {
+        "day": 3,
+        "date": "2026-12-15",
+        "title": "시티 오브 런던",
+        "subtitle": "타워 브리지 · 런던 타워",
+        "query": "Tower Bridge London"
+      },
+      {
+        "day": 4,
+        "date": "2026-12-16",
+        "title": "블룸즈버리",
+        "subtitle": "대영박물관 · 코벤트가든",
+        "query": "British Museum London"
+      },
+      {
+        "day": 5,
+        "date": "2026-12-17",
+        "title": "서런던과 캠든",
+        "subtitle": "노팅힐 · 포토벨로 · 캠든마켓",
+        "query": "Notting Hill London"
+      },
+      {
+        "day": 6,
+        "date": "2026-12-18",
+        "title": "그리니치",
+        "subtitle": "커티삭 · 왕립천문대",
+        "query": "Greenwich London"
+      },
+      {
+        "day": 7,
+        "date": "2026-12-19",
+        "title": "윈저",
+        "subtitle": "윈저성 · 템스 강변",
+        "query": "Windsor Castle"
+      },
+      {
+        "day": 8,
+        "date": "2026-12-20",
+        "title": "런던 출국",
+        "subtitle": "히스로 · 바르샤바 장기 환승",
+        "query": "Heathrow Airport"
+      }
+    ]
+  },
+  {
+    "slug": "munich",
+    "name": "뮌헨",
+    "code": "MUC",
+    "start": "2026-11-23",
+    "end": "2026-11-29",
+    "outbound": {
+      "times_raw": [
+        "오후 12:15",
+        "오후 10:25"
+      ],
+      "times24": [
+        "12:15",
+        "22:25"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "18시간 10분",
+      "route": "ICN–MUC",
+      "stops": "경유 1회",
+      "layover": "3시간 20분 WAW",
+      "price": 788600
+    },
+    "return": {
+      "times_raw": [
+        "오후 7:40",
+        "오전 10:30+2"
+      ],
+      "times24": [
+        "19:40",
+        "10:30+2"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "30시간 50분",
+      "route": "MUC–ICN",
+      "stops": "경유 1회",
+      "layover": "18시간 WAW",
+      "price": 788600
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-11-23",
+        "title": "뮌헨 도착",
+        "subtitle": "공항 · 마리엔 광장",
+        "query": "Marienplatz Munich night"
+      },
+      {
+        "day": 2,
+        "date": "2026-11-24",
+        "title": "구시가지",
+        "subtitle": "신시청사 · 프라우엔 교회",
+        "query": "Marienplatz Munich"
+      },
+      {
+        "day": 3,
+        "date": "2026-11-25",
+        "title": "왕궁과 미술관",
+        "subtitle": "레지덴츠 · 피나코테크",
+        "query": "Munich Residenz"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-26",
+        "title": "노이슈반슈타인",
+        "subtitle": "퓌센 · 호엔슈방가우",
+        "query": "Neuschwanstein Castle"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-27",
+        "title": "잘츠부르크",
+        "subtitle": "미라벨 정원 · 구시가지",
+        "query": "Salzburg Old Town"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-28",
+        "title": "현대 뮌헨",
+        "subtitle": "BMW 박물관 · 올림픽공원",
+        "query": "BMW Museum Munich"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-29",
+        "title": "뮌헨 출국",
+        "subtitle": "빅투알리엔 시장 · 바르샤바 장기 환승",
+        "query": "Munich Airport"
+      }
+    ]
+  },
+  {
+    "slug": "nice",
+    "name": "니스",
+    "code": "NCE",
+    "start": "2026-12-13",
+    "end": "2026-12-21",
+    "outbound": {
+      "times_raw": [
+        "오전 8:40",
+        "오후 7:00"
+      ],
+      "times24": [
+        "08:40",
+        "19:00"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "18시간 20분",
+      "route": "ICN–NCE",
+      "stops": "경유 1회",
+      "layover": "2시간 40분 WAW",
+      "price": 788800
+    },
+    "return": {
+      "times_raw": [
+        "오전 10:45",
+        "오전 10:30+1"
+      ],
+      "times24": [
+        "10:45",
+        "10:30+1"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "15시간 45분",
+      "route": "NCE–ICN",
+      "stops": "경유 1회",
+      "layover": "2시간 10분 WAW",
+      "price": 788800
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-12-13",
+        "title": "니스 도착",
+        "subtitle": "공항 · 프롬나드 데 장글레",
+        "query": "Promenade des Anglais Nice"
+      },
+      {
+        "day": 2,
+        "date": "2026-12-14",
+        "title": "니스 구시가지",
+        "subtitle": "쿠르 살레야 · 캐슬힐",
+        "query": "Nice Old Town"
+      },
+      {
+        "day": 3,
+        "date": "2026-12-15",
+        "title": "모나코",
+        "subtitle": "몬테카를로 · 모나코빌",
+        "query": "Monaco Monte Carlo"
+      },
+      {
+        "day": 4,
+        "date": "2026-12-16",
+        "title": "에즈",
+        "subtitle": "절벽 마을 · 열대정원",
+        "query": "Eze France"
+      },
+      {
+        "day": 5,
+        "date": "2026-12-17",
+        "title": "앙티브",
+        "subtitle": "구시가지 · 피카소 미술관",
+        "query": "Antibes Old Town"
+      },
+      {
+        "day": 6,
+        "date": "2026-12-18",
+        "title": "칸",
+        "subtitle": "크루아제트 · 르 쉬케",
+        "query": "Cannes France"
+      },
+      {
+        "day": 7,
+        "date": "2026-12-19",
+        "title": "망통",
+        "subtitle": "구시가지 · 지중해 정원",
+        "query": "Menton France"
+      },
+      {
+        "day": 8,
+        "date": "2026-12-20",
+        "title": "생폴드방스",
+        "subtitle": "성벽 마을 · 미술 골목",
+        "query": "Saint Paul de Vence"
+      },
+      {
+        "day": 9,
+        "date": "2026-12-21",
+        "title": "니스 출국",
+        "subtitle": "해안 산책 · 공항 · 바르샤바 환승",
+        "query": "Nice Airport"
+      }
+    ]
+  },
+  {
+    "slug": "amsterdam",
+    "name": "암스테르담",
+    "code": "AMS",
+    "start": "2026-12-12",
+    "end": "2026-12-20",
+    "outbound": {
+      "times_raw": [
+        "오후 1:15",
+        "오후 10:30"
+      ],
+      "times24": [
+        "13:15",
+        "22:30"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "17시간 15분",
+      "route": "ICN–AMS",
+      "stops": "경유 1회",
+      "layover": "1시간 50분 WAW",
+      "price": 789800
+    },
+    "return": {
+      "times_raw": [
+        "오후 7:45",
+        "오전 10:30+2"
+      ],
+      "times24": [
+        "19:45",
+        "10:30+2"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "30시간 45분",
+      "route": "AMS–ICN",
+      "stops": "경유 1회",
+      "layover": "17시간 30분 WAW",
+      "price": 789800
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-12-12",
+        "title": "암스테르담 도착",
+        "subtitle": "스키폴 · 운하 야경",
+        "query": "Amsterdam canals night"
+      },
+      {
+        "day": 2,
+        "date": "2026-12-13",
+        "title": "운하 지구",
+        "subtitle": "담 광장 · 운하 크루즈",
+        "query": "Amsterdam Canal Ring"
+      },
+      {
+        "day": 3,
+        "date": "2026-12-14",
+        "title": "뮤지엄플레인",
+        "subtitle": "국립미술관 · 반고흐 미술관",
+        "query": "Rijksmuseum Amsterdam"
+      },
+      {
+        "day": 4,
+        "date": "2026-12-15",
+        "title": "요르단",
+        "subtitle": "안네 프랑크 하우스 · 나인 스트리트",
+        "query": "Jordaan Amsterdam"
+      },
+      {
+        "day": 5,
+        "date": "2026-12-16",
+        "title": "잔세스칸스",
+        "subtitle": "풍차 마을 · 잔 강",
+        "query": "Zaanse Schans"
+      },
+      {
+        "day": 6,
+        "date": "2026-12-17",
+        "title": "위트레흐트",
+        "subtitle": "돔 타워 · 아우더흐라흐트",
+        "query": "Utrecht Oudegracht"
+      },
+      {
+        "day": 7,
+        "date": "2026-12-18",
+        "title": "하를럼",
+        "subtitle": "흐로터 마르크트 · 프란스 할스",
+        "query": "Haarlem Netherlands"
+      },
+      {
+        "day": 8,
+        "date": "2026-12-19",
+        "title": "더 파이프",
+        "subtitle": "알베르트 카위프 시장 · 암스텔강",
+        "query": "De Pijp Amsterdam"
+      },
+      {
+        "day": 9,
+        "date": "2026-12-20",
+        "title": "암스테르담 출국",
+        "subtitle": "스키폴 · 바르샤바 장기 환승",
+        "query": "Amsterdam Schiphol Airport"
+      }
+    ]
+  },
+  {
+    "slug": "berlin",
+    "name": "베를린",
+    "code": "BER",
+    "start": "2026-11-21",
+    "end": "2026-11-27",
+    "outbound": {
+      "times_raw": [
+        "오후 1:15",
+        "오전 10:45+1"
+      ],
+      "times24": [
+        "13:15",
+        "10:45+1"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "29시간 30분",
+      "route": "ICN–BER",
+      "stops": "경유 1회",
+      "layover": "15시간 WAW",
+      "price": 790100
+    },
+    "return": {
+      "times_raw": [
+        "오후 6:40",
+        "오전 7:00+2"
+      ],
+      "times24": [
+        "18:40",
+        "07:00+2"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "28시간 20분",
+      "route": "BER–ICN",
+      "stops": "경유 1회",
+      "layover": "16시간 WAW",
+      "price": 790100
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-11-21",
+        "title": "바르샤바 환승",
+        "subtitle": "쇼팽 공항 · 구시가지 환승 산책",
+        "query": "Warsaw Old Town"
+      },
+      {
+        "day": 2,
+        "date": "2026-11-22",
+        "title": "베를린 도착",
+        "subtitle": "브란덴부르크문 · 체크인",
+        "query": "Brandenburg Gate night"
+      },
+      {
+        "day": 3,
+        "date": "2026-11-23",
+        "title": "미테",
+        "subtitle": "브란덴부르크문 · 국회의사당 · 홀로코스트 기념관",
+        "query": "Brandenburg Gate Berlin"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-24",
+        "title": "박물관섬",
+        "subtitle": "베를린 대성당 · 훔볼트 포럼",
+        "query": "Museum Island Berlin"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-25",
+        "title": "냉전 베를린",
+        "subtitle": "이스트사이드 갤러리 · 체크포인트 찰리",
+        "query": "East Side Gallery Berlin"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-26",
+        "title": "샤를로텐부르크",
+        "subtitle": "궁전 · 쿠담 거리",
+        "query": "Charlottenburg Palace"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-27",
+        "title": "베를린 출국",
+        "subtitle": "BER 공항 · 바르샤바 장기 환승",
+        "query": "Berlin Brandenburg Airport"
+      }
+    ]
+  },
+  {
+    "slug": "paris",
+    "name": "파리",
+    "code": "CDG",
+    "start": "2027-01-23",
+    "end": "2027-01-30",
+    "outbound": {
+      "times_raw": [
+        "오후 1:15",
+        "오전 9:55+1"
+      ],
+      "times24": [
+        "13:15",
+        "09:55+1"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "28시간 40분",
+      "route": "ICN–CDG",
+      "stops": "경유 1회",
+      "layover": "12시간 55분 WAW",
+      "price": 790300
+    },
+    "return": {
+      "times_raw": [
+        "오전 11:40",
+        "오후 4:55+1"
+      ],
+      "times24": [
+        "11:40",
+        "16:55+1"
+      ],
+      "airline": "에어프랑스, KLM",
+      "duration": "21시간 15분",
+      "route": "CDG–ICN",
+      "stops": "경유 1회",
+      "layover": "7시간 50분 AMS",
+      "price": 1265200
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2027-01-23",
+        "title": "바르샤바 환승",
+        "subtitle": "쇼팽 공항 · 구시가지",
+        "query": "Warsaw Old Town"
+      },
+      {
+        "day": 2,
+        "date": "2027-01-24",
+        "title": "파리 도착",
+        "subtitle": "샤를드골 · 센강 야경",
+        "query": "Paris Seine night"
+      },
+      {
+        "day": 3,
+        "date": "2027-01-25",
+        "title": "파리 중심",
+        "subtitle": "에펠탑 · 트로카데로 · 센강",
+        "query": "Eiffel Tower Paris"
+      },
+      {
+        "day": 4,
+        "date": "2027-01-26",
+        "title": "루브르와 튈르리",
+        "subtitle": "루브르 박물관 · 팔레 루아얄",
+        "query": "Louvre Museum Paris"
+      },
+      {
+        "day": 5,
+        "date": "2027-01-27",
+        "title": "몽마르트르",
+        "subtitle": "사크레쾨르 · 아베스",
+        "query": "Montmartre Paris"
+      },
+      {
+        "day": 6,
+        "date": "2027-01-28",
+        "title": "베르사유",
+        "subtitle": "베르사유 궁전 · 정원",
+        "query": "Palace of Versailles"
+      },
+      {
+        "day": 7,
+        "date": "2027-01-29",
+        "title": "마레와 시테섬",
+        "subtitle": "노트르담 · 생트샤펠 · 마레",
+        "query": "Notre Dame Paris"
+      },
+      {
+        "day": 8,
+        "date": "2027-01-30",
+        "title": "파리 출국",
+        "subtitle": "샤를드골 · 암스테르담 환승",
+        "query": "Charles de Gaulle Airport"
+      }
+    ]
+  },
+  {
+    "slug": "copenhagen",
+    "name": "코펜하겐",
+    "code": "CPH",
+    "start": "2026-11-16",
+    "end": "2026-11-23",
+    "outbound": {
+      "times_raw": [
+        "오후 12:15",
+        "오후 10:15"
+      ],
+      "times24": [
+        "12:15",
+        "22:15"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "18시간",
+      "route": "ICN–CPH",
+      "stops": "경유 1회",
+      "layover": "3시간 15분 WAW",
+      "price": 790300
+    },
+    "return": {
+      "times_raw": [
+        "오후 7:50",
+        "오전 7:00+2"
+      ],
+      "times24": [
+        "19:50",
+        "07:00+2"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "27시간 10분",
+      "route": "CPH–ICN",
+      "stops": "경유 1회",
+      "layover": "14시간 40분 WAW",
+      "price": 790300
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-11-16",
+        "title": "코펜하겐 도착",
+        "subtitle": "공항 · 뉘하운 야경",
+        "query": "Nyhavn Copenhagen night"
+      },
+      {
+        "day": 2,
+        "date": "2026-11-17",
+        "title": "뉘하운",
+        "subtitle": "항구 · 스트뢰에 · 킹스뉴광장",
+        "query": "Nyhavn Copenhagen"
+      },
+      {
+        "day": 3,
+        "date": "2026-11-18",
+        "title": "왕실 코펜하겐",
+        "subtitle": "로센보르성 · 아말리엔보르",
+        "query": "Rosenborg Castle"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-19",
+        "title": "루이지애나",
+        "subtitle": "현대미술관 · 외레순 해안",
+        "query": "Louisiana Museum Denmark"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-20",
+        "title": "말뫼",
+        "subtitle": "외레순 열차 · 구시가지",
+        "query": "Malmo Sweden"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-21",
+        "title": "크리스티안스하운",
+        "subtitle": "운하 · 구세주교회",
+        "query": "Christianshavn Copenhagen"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-22",
+        "title": "노르브로",
+        "subtitle": "토르브할렌 · 디자인 거리",
+        "query": "Norrebrogade Copenhagen"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-23",
+        "title": "코펜하겐 출국",
+        "subtitle": "공항 · 바르샤바 장기 환승",
+        "query": "Copenhagen Airport"
+      }
+    ]
+  },
+  {
+    "slug": "vienna",
+    "name": "빈",
+    "code": "VIE",
+    "start": "2026-12-13",
+    "end": "2026-12-21",
+    "outbound": {
+      "times_raw": [
+        "오전 8:40",
+        "오후 4:50"
+      ],
+      "times24": [
+        "08:40",
+        "16:50"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "16시간 10분",
+      "route": "ICN–VIE",
+      "stops": "경유 1회",
+      "layover": "1시간 45분 WAW",
+      "price": 792500
+    },
+    "return": {
+      "times_raw": [
+        "오전 9:20",
+        "오전 10:30+1"
+      ],
+      "times24": [
+        "09:20",
+        "10:30+1"
+      ],
+      "airline": "LOT 폴란드항공오스트리아항공",
+      "duration": "17시간 10분",
+      "route": "VIE–ICN",
+      "stops": "경유 1회",
+      "layover": "4시간 40분 WAW",
+      "price": 792500
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-12-13",
+        "title": "빈 도착",
+        "subtitle": "공항 · 슈테판 대성당",
+        "query": "St Stephens Cathedral Vienna night"
+      },
+      {
+        "day": 2,
+        "date": "2026-12-14",
+        "title": "빈 구시가지",
+        "subtitle": "슈테판 대성당 · 호프부르크",
+        "query": "Vienna Hofburg"
+      },
+      {
+        "day": 3,
+        "date": "2026-12-15",
+        "title": "쇤브룬",
+        "subtitle": "쇤브룬 궁전 · 글로리에테",
+        "query": "Schonbrunn Palace"
+      },
+      {
+        "day": 4,
+        "date": "2026-12-16",
+        "title": "벨베데레",
+        "subtitle": "상궁 · 클림트 컬렉션",
+        "query": "Belvedere Vienna"
+      },
+      {
+        "day": 5,
+        "date": "2026-12-17",
+        "title": "뮤지엄스콰르티어",
+        "subtitle": "미술사박물관 · 레오폴트",
+        "query": "Museum of Art History Vienna"
+      },
+      {
+        "day": 6,
+        "date": "2026-12-18",
+        "title": "브라티슬라바",
+        "subtitle": "구시가지 · 다뉴브 강",
+        "query": "Bratislava Old Town"
+      },
+      {
+        "day": 7,
+        "date": "2026-12-19",
+        "title": "멜크",
+        "subtitle": "멜크 수도원 · 바하우 계곡",
+        "query": "Melk Abbey"
+      },
+      {
+        "day": 8,
+        "date": "2026-12-20",
+        "title": "빈 겨울 산책",
+        "subtitle": "시청사 광장 · 프라터",
+        "query": "Vienna Christmas Market Rathausplatz"
+      },
+      {
+        "day": 9,
+        "date": "2026-12-21",
+        "title": "빈 출국",
+        "subtitle": "나슈마르크트 · 바르샤바 환승",
+        "query": "Vienna Airport"
+      }
+    ]
+  },
+  {
+    "slug": "budapest",
+    "name": "부다페스트",
+    "code": "BUD",
+    "start": "2026-11-16",
+    "end": "2026-11-23",
+    "outbound": {
+      "times_raw": [
+        "오후 12:15",
+        "오후 7:45"
+      ],
+      "times24": [
+        "12:15",
+        "19:45"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "15시간 30분",
+      "route": "ICN–BUD",
+      "stops": "경유 1회",
+      "layover": "1시간 WAW",
+      "price": 793000
+    },
+    "return": {
+      "times_raw": [
+        "오후 8:25",
+        "오전 7:00+2"
+      ],
+      "times24": [
+        "20:25",
+        "07:00+2"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "26시간 35분",
+      "route": "BUD–ICN",
+      "stops": "경유 1회",
+      "layover": "14시간 10분 WAW",
+      "price": 793000
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-11-16",
+        "title": "부다페스트 도착",
+        "subtitle": "공항 · 다뉴브 야경",
+        "query": "Budapest Parliament night"
+      },
+      {
+        "day": 2,
+        "date": "2026-11-17",
+        "title": "부다 지구",
+        "subtitle": "어부의 요새 · 마차시 성당",
+        "query": "Fishermans Bastion Budapest"
+      },
+      {
+        "day": 3,
+        "date": "2026-11-18",
+        "title": "페스트 중심",
+        "subtitle": "국회의사당 · 다뉴브 산책로",
+        "query": "Hungarian Parliament Building"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-19",
+        "title": "온천의 날",
+        "subtitle": "세체니 온천 · 영웅광장",
+        "query": "Szechenyi Baths"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-20",
+        "title": "유대인 지구",
+        "subtitle": "대시나고그 · 루인바",
+        "query": "Dohany Street Synagogue"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-21",
+        "title": "센텐드레",
+        "subtitle": "다뉴브 예술 마을",
+        "query": "Szentendre Hungary"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-22",
+        "title": "겔레르트 언덕",
+        "subtitle": "중앙시장 · 자유의 다리",
+        "query": "Gellert Hill Budapest"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-23",
+        "title": "부다페스트 출국",
+        "subtitle": "공항 · 바르샤바 장기 환승",
+        "query": "Budapest Airport"
+      }
+    ]
+  },
+  {
+    "slug": "rome",
+    "name": "로마",
+    "code": "FCO",
+    "start": "2026-12-13",
+    "end": "2026-12-21",
+    "outbound": {
+      "times_raw": [
+        "오전 8:40",
+        "오후 6:35"
+      ],
+      "times24": [
+        "08:40",
+        "18:35"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "17시간 55분",
+      "route": "ICN–FCO",
+      "stops": "경유 1회",
+      "layover": "2시간 25분 WAW",
+      "price": 793500
+    },
+    "return": {
+      "times_raw": [
+        "오전 11:45",
+        "오전 10:30+1"
+      ],
+      "times24": [
+        "11:45",
+        "10:30+1"
+      ],
+      "airline": "LOT 폴란드항공",
+      "duration": "14시간 45분",
+      "route": "FCO–ICN",
+      "stops": "경유 1회",
+      "layover": "1시간 5분 WAW",
+      "price": 793500
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-12-13",
+        "title": "로마 도착",
+        "subtitle": "피우미치노 · 나보나 광장",
+        "query": "Piazza Navona night"
+      },
+      {
+        "day": 2,
+        "date": "2026-12-14",
+        "title": "고대 로마",
+        "subtitle": "콜로세움 · 포로 로마노 · 팔라티노",
+        "query": "Colosseum Rome"
+      },
+      {
+        "day": 3,
+        "date": "2026-12-15",
+        "title": "바티칸",
+        "subtitle": "바티칸 박물관 · 성 베드로 대성당",
+        "query": "St Peters Basilica Vatican"
+      },
+      {
+        "day": 4,
+        "date": "2026-12-16",
+        "title": "바로크 로마",
+        "subtitle": "판테온 · 나보나 · 트레비 분수",
+        "query": "Pantheon Rome"
+      },
+      {
+        "day": 5,
+        "date": "2026-12-17",
+        "title": "트라스테베레",
+        "subtitle": "자니콜로 언덕 · 골목",
+        "query": "Trastevere Rome"
+      },
+      {
+        "day": 6,
+        "date": "2026-12-18",
+        "title": "티볼리",
+        "subtitle": "빌라 데스테 · 하드리아누스 빌라",
+        "query": "Villa d Este Tivoli"
+      },
+      {
+        "day": 7,
+        "date": "2026-12-19",
+        "title": "오스티아 안티카",
+        "subtitle": "고대 항구 도시 유적",
+        "query": "Ostia Antica"
+      },
+      {
+        "day": 8,
+        "date": "2026-12-20",
+        "title": "로마 여유일",
+        "subtitle": "보르게세 · 스페인 계단 · 쇼핑",
+        "query": "Villa Borghese Rome"
+      },
+      {
+        "day": 9,
+        "date": "2026-12-21",
+        "title": "로마 출국",
+        "subtitle": "피우미치노 · 바르샤바 환승",
+        "query": "Fiumicino Airport"
+      }
+    ]
+  }
+]

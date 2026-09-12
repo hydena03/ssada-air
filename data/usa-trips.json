@@ -1,0 +1,1409 @@
+[
+  {
+    "slug": "honolulu",
+    "name": "호놀룰루",
+    "code": "HNL",
+    "start": "2026-10-09",
+    "end": "2026-10-18",
+    "outbound": {
+      "times24": [
+        "22:30",
+        "12:20"
+      ],
+      "airline": "에어프레미아",
+      "duration": "8시간 50분",
+      "route": "ICN–HNL",
+      "stops": "직항",
+      "layover": null,
+      "price": 912900,
+      "raw": "오후 10:30\n – \n오후 12:20\n에어프레미아\n8시간 50분\nICN–HNL\n직항\nCO2e 406kg\n-22% 배출\n₩912,900\n왕복"
+    },
+    "return": {
+      "times24": [
+        "14:30",
+        "19:05+1"
+      ],
+      "airline": "에어프레미아",
+      "duration": "9시간 35분",
+      "route": "HNL–ICN",
+      "stops": "직항",
+      "layover": null,
+      "price": 912900,
+      "raw": "오후 2:30\n – \n오후 7:05+1\n에어프레미아\n9시간 35분\nHNL–ICN\n직항\nCO2e 552kg\n-20% 배출\n₩912,900\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-10-09",
+        "title": "호놀룰루 도착",
+        "subtitle": "와이키키 · 해변 산책",
+        "query": "Waikiki Beach Honolulu"
+      },
+      {
+        "day": 2,
+        "date": "2026-10-10",
+        "title": "다이아몬드 헤드",
+        "subtitle": "분화구 트레일 · 카피올라니 공원",
+        "query": "Diamond Head Hawaii"
+      },
+      {
+        "day": 3,
+        "date": "2026-10-11",
+        "title": "진주만",
+        "subtitle": "USS 애리조나 · 포드 아일랜드",
+        "query": "Pearl Harbor Hawaii"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-12",
+        "title": "노스쇼어",
+        "subtitle": "할레이바 · 선셋 비치",
+        "query": "Haleiwa North Shore Oahu"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-13",
+        "title": "쿠알로아",
+        "subtitle": "랜치 · 카아아와 계곡",
+        "query": "Kualoa Ranch Hawaii"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-14",
+        "title": "하나우마 베이",
+        "subtitle": "스노클링 · 코코헤드 전망",
+        "query": "Hanauma Bay Hawaii"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-15",
+        "title": "카일루아",
+        "subtitle": "라니카이 비치 · 카약",
+        "query": "Lanikai Beach Oahu"
+      },
+      {
+        "day": 8,
+        "date": "2026-10-16",
+        "title": "호놀룰루 도심",
+        "subtitle": "이올라니 궁전 · 카카아코",
+        "query": "Iolani Palace Honolulu"
+      },
+      {
+        "day": 9,
+        "date": "2026-10-17",
+        "title": "오아후 여유일",
+        "subtitle": "와이키키 · 알라모아나 · 일몰",
+        "query": "Waikiki sunset"
+      },
+      {
+        "day": 10,
+        "date": "2026-10-18",
+        "title": "호놀룰루 출국",
+        "subtitle": "와이키키 · HNL · 인천",
+        "query": "Honolulu Airport"
+      }
+    ]
+  },
+  {
+    "slug": "los-angeles",
+    "name": "로스앤젤레스",
+    "code": "LAX",
+    "start": "2026-09-18",
+    "end": "2026-09-24",
+    "outbound": {
+      "times24": [
+        "13:00",
+        "08:20"
+      ],
+      "airline": "에어프레미아",
+      "duration": "11시간 20분",
+      "route": "ICN–LAX",
+      "stops": "직항",
+      "layover": null,
+      "price": 1015100,
+      "raw": "오후 1:00\n – \n오전 8:20\n에어프레미아\n11시간 20분\nICN–LAX\n직항\nCO2e 621kg\n+28% 배출\n₩1,015,100\n왕복"
+    },
+    "return": {
+      "times24": [
+        "10:50",
+        "15:50+1"
+      ],
+      "airline": "에어프레미아",
+      "duration": "13시간",
+      "route": "LAX–ICN",
+      "stops": "직항",
+      "layover": null,
+      "price": 1015100,
+      "raw": "오전 10:50\n – \n오후 3:50+1\n에어프레미아\n13시간\nLAX–ICN\n직항\nCO2e 663kg\n평균 배출량\n₩1,015,100\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-18",
+        "title": "LA 도착",
+        "subtitle": "LAX · 산타모니카",
+        "query": "Santa Monica Pier"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-19",
+        "title": "할리우드",
+        "subtitle": "워크 오브 페임 · 그리피스 천문대",
+        "query": "Griffith Observatory Los Angeles"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-20",
+        "title": "다운타운 LA",
+        "subtitle": "그랜드 센트럴 마켓 · 더 브로드 · 아츠 디스트릭트",
+        "query": "Los Angeles Downtown"
+      },
+      {
+        "day": 4,
+        "date": "2026-09-21",
+        "title": "게티와 베벌리힐스",
+        "subtitle": "게티 센터 · 로데오 드라이브",
+        "query": "Getty Center Los Angeles"
+      },
+      {
+        "day": 5,
+        "date": "2026-09-22",
+        "title": "베니스",
+        "subtitle": "베니스 비치 · 애벗 키니",
+        "query": "Venice Beach Los Angeles"
+      },
+      {
+        "day": 6,
+        "date": "2026-09-23",
+        "title": "말리부",
+        "subtitle": "퍼시픽 코스트 하이웨이 · 해변",
+        "query": "Malibu California"
+      },
+      {
+        "day": 7,
+        "date": "2026-09-24",
+        "title": "LA 출국",
+        "subtitle": "LAX · 인천 직항",
+        "query": "Los Angeles Airport"
+      }
+    ]
+  },
+  {
+    "slug": "san-francisco",
+    "name": "샌프란시스코",
+    "code": "SFO",
+    "start": "2026-09-26",
+    "end": "2026-10-02",
+    "outbound": {
+      "times24": [
+        "18:00",
+        "13:00"
+      ],
+      "airline": "에어프레미아",
+      "duration": "11시간",
+      "route": "ICN–SFO",
+      "stops": "직항",
+      "layover": null,
+      "price": 1055100,
+      "raw": "오후 6:00\n – \n오후 1:00\n에어프레미아\n11시간\nICN–SFO\n직항\nCO2e 452kg\n-21% 배출\n₩1,055,100\n왕복"
+    },
+    "return": {
+      "times24": [
+        "17:00",
+        "21:40+1"
+      ],
+      "airline": "에어프레미아",
+      "duration": "12시간 40분",
+      "route": "SFO–ICN",
+      "stops": "직항",
+      "layover": null,
+      "price": 1055100,
+      "raw": "오후 5:00\n – \n오후 9:40+1\n에어프레미아\n12시간 40분\nSFO–ICN\n직항\nCO2e 589kg\n-11% 배출\n₩1,055,100\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-26",
+        "title": "샌프란시스코 도착",
+        "subtitle": "SFO · 페리 빌딩",
+        "query": "San Francisco Ferry Building"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-27",
+        "title": "골든게이트",
+        "subtitle": "골든게이트 브리지 · 프레시디오",
+        "query": "Golden Gate Bridge"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-28",
+        "title": "베이 워터프런트",
+        "subtitle": "알카트라즈 · 피셔맨스 워프",
+        "query": "Alcatraz San Francisco"
+      },
+      {
+        "day": 4,
+        "date": "2026-09-29",
+        "title": "미션과 카스트로",
+        "subtitle": "미션 돌로레스 · 벽화 · 카스트로",
+        "query": "Mission District San Francisco"
+      },
+      {
+        "day": 5,
+        "date": "2026-09-30",
+        "title": "나파 밸리",
+        "subtitle": "와이너리 · 욘트빌",
+        "query": "Napa Valley California"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-01",
+        "title": "뮤어우즈",
+        "subtitle": "레드우드 · 소살리토",
+        "query": "Muir Woods California"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-02",
+        "title": "샌프란시스코 출국",
+        "subtitle": "SFO · 인천 직항",
+        "query": "San Francisco Airport"
+      }
+    ]
+  },
+  {
+    "slug": "new-york",
+    "name": "뉴욕",
+    "code": "JFK",
+    "start": "2026-11-20",
+    "end": "2026-11-26",
+    "outbound": {
+      "times24": [
+        "18:50",
+        "11:05+1"
+      ],
+      "airline": "아메리칸항공",
+      "duration": "30시간 15분",
+      "route": "ICN–JFK",
+      "stops": "경유 2회",
+      "layover": "DFW, CLT",
+      "price": 1131000,
+      "raw": "오후 6:50\n – \n오전 11:05+1\n아메리칸항공\n30시간 15분\nICN–JFK\n경유 2회\nDFW, CLT\nCO2e 782kg\n+15% 배출\n₩1,131,000\n왕복"
+    },
+    "return": {
+      "times24": [
+        "07:00",
+        "17:35+1"
+      ],
+      "airline": "알래스카항공",
+      "duration": "20시간 35분",
+      "route": "JFK–ICN",
+      "stops": "경유 1회",
+      "layover": "2시간 17분 SEA",
+      "price": 1538438,
+      "raw": "오전 7:00\n – \n오후 5:35+1\n알래스카항공\n20시간 35분\nJFK–ICN\n경유 1회\n2시간 17분 SEA\nCO2e 803kg\n평균 배출량\n₩1,538,438\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-11-20",
+        "title": "뉴욕 도착",
+        "subtitle": "JFK · 맨해튼 체크인",
+        "query": "Times Square New York night"
+      },
+      {
+        "day": 2,
+        "date": "2026-11-21",
+        "title": "미드타운",
+        "subtitle": "타임스스퀘어 · 록펠러 · 그랜드센트럴",
+        "query": "Times Square New York"
+      },
+      {
+        "day": 3,
+        "date": "2026-11-22",
+        "title": "로어 맨해튼",
+        "subtitle": "월스트리트 · 9·11 메모리얼 · 배터리 파크",
+        "query": "One World Trade Center New York"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-23",
+        "title": "브루클린",
+        "subtitle": "브루클린 브리지 · 덤보",
+        "query": "Brooklyn Bridge New York"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-24",
+        "title": "센트럴파크",
+        "subtitle": "메트로폴리탄 미술관 · 어퍼이스트",
+        "query": "Central Park New York"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-25",
+        "title": "웨스트사이드",
+        "subtitle": "하이라인 · 첼시마켓 · 허드슨야드",
+        "query": "High Line New York"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-26",
+        "title": "뉴욕 출국",
+        "subtitle": "JFK · 시애틀 환승 · 인천",
+        "query": "John F Kennedy Airport"
+      }
+    ]
+  },
+  {
+    "slug": "las-vegas",
+    "name": "라스베이거스",
+    "code": "LAS",
+    "start": "2026-10-26",
+    "end": "2026-11-04",
+    "outbound": {
+      "times24": [
+        "17:55",
+        "16:08"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Rouge",
+      "duration": "14시간 13분",
+      "route": "ICN–LAS",
+      "stops": "경유 1회",
+      "layover": "1시간 35분 YVR",
+      "price": 1160200,
+      "raw": "오후 5:55\n – \n오후 4:08\n에어캐나다운항사: Air Canada Rouge\n14시간 13분\nICN–LAS\n경유 1회\n1시간 35분 YVR\nCO2e 573kg\n평균 배출량\n₩1,160,200\n왕복"
+    },
+    "return": {
+      "times24": [
+        "07:20",
+        "17:10+1"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Express - Jazz",
+      "duration": "16시간 50분",
+      "route": "LAS–ICN",
+      "stops": "경유 1회",
+      "layover": "2시간 9분 YVR",
+      "price": 1160200,
+      "raw": "오전 7:20\n – \n오후 5:10+1\n에어캐나다운항사: Air Canada Express - Jazz\n16시간 50분\nLAS–ICN\n경유 1회\n2시간 9분 YVR\nCO2e 650kg\n-17% 배출\n₩1,160,200\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-10-26",
+        "title": "라스베이거스 도착",
+        "subtitle": "LAS · 스트립 야경",
+        "query": "Las Vegas Strip night"
+      },
+      {
+        "day": 2,
+        "date": "2026-10-27",
+        "title": "라스베이거스 스트립",
+        "subtitle": "벨라지오 · 시저스 팰리스",
+        "query": "Bellagio Las Vegas"
+      },
+      {
+        "day": 3,
+        "date": "2026-10-28",
+        "title": "다운타운",
+        "subtitle": "프리몬트 스트리트 · 네온 박물관",
+        "query": "Fremont Street Las Vegas"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-29",
+        "title": "그랜드캐니언 웨스트",
+        "subtitle": "스카이워크 · 콜로라도강",
+        "query": "Grand Canyon West"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-30",
+        "title": "레드록 캐니언",
+        "subtitle": "시닉 드라이브 · 트레일",
+        "query": "Red Rock Canyon Nevada"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-31",
+        "title": "후버댐",
+        "subtitle": "후버댐 · 미드호",
+        "query": "Hoover Dam"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-01",
+        "title": "밸리 오브 파이어",
+        "subtitle": "사암 지형 · 파이어 웨이브",
+        "query": "Valley of Fire Nevada"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-02",
+        "title": "자이언 캐니언",
+        "subtitle": "자이언 국립공원 당일치기",
+        "query": "Zion National Park"
+      },
+      {
+        "day": 9,
+        "date": "2026-11-03",
+        "title": "라스베이거스 여유일",
+        "subtitle": "아츠 디스트릭트 · 쇼 · 쇼핑",
+        "query": "Las Vegas Arts District"
+      },
+      {
+        "day": 10,
+        "date": "2026-11-04",
+        "title": "라스베이거스 출국",
+        "subtitle": "LAS · 밴쿠버 환승 · 인천",
+        "query": "Las Vegas Airport"
+      }
+    ]
+  },
+  {
+    "slug": "san-diego",
+    "name": "샌디에이고",
+    "code": "SAN",
+    "start": "2026-10-23",
+    "end": "2026-11-01",
+    "outbound": {
+      "times24": [
+        "17:45",
+        "16:00"
+      ],
+      "airline": "에어캐나다",
+      "duration": "14시간 15분",
+      "route": "ICN–SAN",
+      "stops": "경유 1회",
+      "layover": "1시간 30분 YVR",
+      "price": 1181300,
+      "raw": "오후 5:45\n – \n오후 4:00\n에어캐나다\n14시간 15분\nICN–SAN\n경유 1회\n1시간 30분 YVR\nCO2e 635kg\n+20% 배출\n₩1,181,300\n왕복"
+    },
+    "return": {
+      "times24": [
+        "17:15",
+        "17:10+2"
+      ],
+      "airline": "에어캐나다",
+      "duration": "30시간 55분",
+      "route": "SAN–ICN",
+      "stops": "경유 1회",
+      "layover": "15시간 48분 YVR",
+      "price": 1181300,
+      "raw": "오후 5:15\n – \n오후 5:10+2\n에어캐나다\n30시간 55분\nSAN–ICN\n경유 1회\n15시간 48분 YVR\nCO2e 620kg\n평균 배출량\n₩1,181,300\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-10-23",
+        "title": "샌디에이고 도착",
+        "subtitle": "SAN · 가스램프 쿼터",
+        "query": "Gaslamp Quarter San Diego"
+      },
+      {
+        "day": 2,
+        "date": "2026-10-24",
+        "title": "발보아 파크",
+        "subtitle": "박물관 · 스페인 식민지 건축",
+        "query": "Balboa Park San Diego"
+      },
+      {
+        "day": 3,
+        "date": "2026-10-25",
+        "title": "라호야",
+        "subtitle": "라호야 코브 · 해안 산책",
+        "query": "La Jolla Cove"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-26",
+        "title": "코로나도",
+        "subtitle": "코로나도 비치 · 호텔 델",
+        "query": "Coronado Beach San Diego"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-27",
+        "title": "워터프런트",
+        "subtitle": "USS 미드웨이 · 시포트 빌리지",
+        "query": "USS Midway San Diego"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-28",
+        "title": "토리 파인스",
+        "subtitle": "절벽 트레일 · 주립 보호구역",
+        "query": "Torrey Pines San Diego"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-29",
+        "title": "올드타운",
+        "subtitle": "올드타운 · 리버티 스테이션",
+        "query": "Old Town San Diego"
+      },
+      {
+        "day": 8,
+        "date": "2026-10-30",
+        "title": "엔시니타스",
+        "subtitle": "문라이트 비치 · 해안 마을",
+        "query": "Encinitas California"
+      },
+      {
+        "day": 9,
+        "date": "2026-10-31",
+        "title": "샌디에이고 여유일",
+        "subtitle": "리틀 이탈리 · 선셋 클리프",
+        "query": "Sunset Cliffs San Diego"
+      },
+      {
+        "day": 10,
+        "date": "2026-11-01",
+        "title": "샌디에이고 출국",
+        "subtitle": "SAN · 밴쿠버 장기 환승",
+        "query": "San Diego Airport"
+      }
+    ]
+  },
+  {
+    "slug": "portland",
+    "name": "포틀랜드",
+    "code": "PDX",
+    "start": "2026-10-16",
+    "end": "2026-10-25",
+    "outbound": {
+      "times24": [
+        "17:45",
+        "14:46"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Express - Jazz",
+      "duration": "13시간 1분",
+      "route": "ICN–PDX",
+      "stops": "경유 1회",
+      "layover": "2시간 YVR",
+      "price": 1181300,
+      "raw": "오후 5:45\n – \n오후 2:46\n에어캐나다운항사: Air Canada Express - Jazz\n13시간 1분\nICN–PDX\n경유 1회\n2시간 YVR\nCO2e 509kg\n평균 배출량\n₩1,181,300\n왕복"
+    },
+    "return": {
+      "times24": [
+        "19:15",
+        "16:10+2"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Express - Jazz",
+      "duration": "28시간 55분",
+      "route": "PDX–ICN",
+      "stops": "경유 1회",
+      "layover": "15시간 46분 YVR",
+      "price": 1181300,
+      "raw": "오후 7:15\n – \n오후 4:10+2\n에어캐나다운항사: Air Canada Express - Jazz\n28시간 55분\nPDX–ICN\n경유 1회\n15시간 46분 YVR\nCO2e 517kg\n-20% 배출\n₩1,181,300\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-10-16",
+        "title": "포틀랜드 도착",
+        "subtitle": "PDX · 펄 디스트릭트",
+        "query": "Portland Oregon skyline"
+      },
+      {
+        "day": 2,
+        "date": "2026-10-17",
+        "title": "도심 포틀랜드",
+        "subtitle": "파월스 북스 · 파이오니어 광장",
+        "query": "Powells Books Portland"
+      },
+      {
+        "day": 3,
+        "date": "2026-10-18",
+        "title": "워싱턴 파크",
+        "subtitle": "일본정원 · 장미정원",
+        "query": "Portland Japanese Garden"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-19",
+        "title": "컬럼비아 협곡",
+        "subtitle": "멀트노마 폭포 · 크라운 포인트",
+        "query": "Multnomah Falls Oregon"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-20",
+        "title": "마운트 후드",
+        "subtitle": "팀버라인 로지 · 후드 리버",
+        "query": "Mount Hood Oregon"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-21",
+        "title": "윌라멧 밸리",
+        "subtitle": "와이너리 · 뉴버그",
+        "query": "Willamette Valley Oregon"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-22",
+        "title": "앨버타와 미시시피",
+        "subtitle": "로컬 상점 · 푸드 카트",
+        "query": "Alberta Arts District Portland"
+      },
+      {
+        "day": 8,
+        "date": "2026-10-23",
+        "title": "캐넌 비치",
+        "subtitle": "헤이스택 록 · 오리건 해안",
+        "query": "Cannon Beach Oregon"
+      },
+      {
+        "day": 9,
+        "date": "2026-10-24",
+        "title": "포틀랜드 여유일",
+        "subtitle": "호손 · 디비전 · 커피",
+        "query": "Portland Oregon street"
+      },
+      {
+        "day": 10,
+        "date": "2026-10-25",
+        "title": "포틀랜드 출국",
+        "subtitle": "PDX · 밴쿠버 장기 환승",
+        "query": "Portland Airport"
+      }
+    ]
+  },
+  {
+    "slug": "seattle",
+    "name": "시애틀",
+    "code": "SEA",
+    "start": "2026-10-22",
+    "end": "2026-10-28",
+    "outbound": {
+      "times24": [
+        "17:45",
+        "14:22"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Express - Jazz",
+      "duration": "12시간 37분",
+      "route": "ICN–SEA",
+      "stops": "경유 1회",
+      "layover": "1시간 45분 YVR",
+      "price": 1202500,
+      "raw": "오후 5:45\n – \n오후 2:22\n에어캐나다운항사: Air Canada Express - Jazz\n12시간 37분\nICN–SEA\n경유 1회\n1시간 45분 YVR\nCO2e 543kg\n+8% 배출\n₩1,202,500\n왕복"
+    },
+    "return": {
+      "times24": [
+        "08:40",
+        "16:10+1"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Express - Jazz",
+      "duration": "15시간 30분",
+      "route": "SEA–ICN",
+      "stops": "경유 1회",
+      "layover": "2시간 29분 YVR",
+      "price": 1202500,
+      "raw": "오전 8:40\n – \n오후 4:10+1\n에어캐나다운항사: Air Canada Express - Jazz\n15시간 30분\nSEA–ICN\n경유 1회\n2시간 29분 YVR\nCO2e 497kg\n-11% 배출\n₩1,202,500\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-10-22",
+        "title": "시애틀 도착",
+        "subtitle": "SEA · 파이크 플레이스",
+        "query": "Pike Place Market Seattle"
+      },
+      {
+        "day": 2,
+        "date": "2026-10-23",
+        "title": "시애틀 센터",
+        "subtitle": "스페이스 니들 · 치훌리",
+        "query": "Space Needle Seattle"
+      },
+      {
+        "day": 3,
+        "date": "2026-10-24",
+        "title": "워터프런트",
+        "subtitle": "파이크 플레이스 · 올림픽 조각공원",
+        "query": "Seattle Waterfront"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-25",
+        "title": "베인브리지",
+        "subtitle": "페리 · 섬 마을",
+        "query": "Bainbridge Island Washington"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-26",
+        "title": "마운트 레이니어",
+        "subtitle": "국립공원 당일치기",
+        "query": "Mount Rainier National Park"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-27",
+        "title": "캐피톨힐과 프리몬트",
+        "subtitle": "커피 · 가스웍스 파크",
+        "query": "Gas Works Park Seattle"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-28",
+        "title": "시애틀 출국",
+        "subtitle": "SEA · 밴쿠버 환승 · 인천",
+        "query": "Seattle Airport"
+      }
+    ]
+  },
+  {
+    "slug": "denver",
+    "name": "덴버",
+    "code": "DEN",
+    "start": "2026-10-16",
+    "end": "2026-10-25",
+    "outbound": {
+      "times24": [
+        "17:45",
+        "17:13"
+      ],
+      "airline": "에어캐나다",
+      "duration": "14시간 28분",
+      "route": "ICN–DEN",
+      "stops": "경유 1회",
+      "layover": "1시간 45분 YVR",
+      "price": 1351300,
+      "raw": "오후 5:45\n – \n오후 5:13\n에어캐나다\n14시간 28분\nICN–DEN\n경유 1회\n1시간 45분 YVR\nCO2e 683kg\n+19% 배출\n₩1,351,300\n왕복"
+    },
+    "return": {
+      "times24": [
+        "19:00",
+        "16:10+2"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Express - Jazz",
+      "duration": "30시간 10분",
+      "route": "DEN–ICN",
+      "stops": "경유 1회",
+      "layover": "15시간 8분 YVR",
+      "price": 1351300,
+      "raw": "오후 7:00\n – \n오후 4:10+2\n에어캐나다운항사: Air Canada Express - Jazz\n30시간 10분\nDEN–ICN\n경유 1회\n15시간 8분 YVR\nCO2e 743kg\n+11% 배출\n₩1,351,300\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-10-16",
+        "title": "덴버 도착",
+        "subtitle": "DEN · 유니언 스테이션",
+        "query": "Denver Union Station"
+      },
+      {
+        "day": 2,
+        "date": "2026-10-17",
+        "title": "다운타운 덴버",
+        "subtitle": "16번가 · 주의사당",
+        "query": "Colorado State Capitol Denver"
+      },
+      {
+        "day": 3,
+        "date": "2026-10-18",
+        "title": "레드록스",
+        "subtitle": "원형극장 · 모리슨",
+        "query": "Red Rocks Amphitheatre"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-19",
+        "title": "로키마운틴",
+        "subtitle": "트레일 리지 · 에스테스 파크",
+        "query": "Rocky Mountain National Park"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-20",
+        "title": "볼더",
+        "subtitle": "펄 스트리트 · 플랫아이언",
+        "query": "Boulder Colorado Flatirons"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-21",
+        "title": "골든",
+        "subtitle": "쿠어스 지구 · 클리어 크릭",
+        "query": "Golden Colorado"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-22",
+        "title": "리노 아트 디스트릭트",
+        "subtitle": "벽화 · 현지 브루어리",
+        "query": "RiNo Denver"
+      },
+      {
+        "day": 8,
+        "date": "2026-10-23",
+        "title": "콜로라도 스프링스",
+        "subtitle": "가든 오브 더 갓스",
+        "query": "Garden of the Gods Colorado"
+      },
+      {
+        "day": 9,
+        "date": "2026-10-24",
+        "title": "덴버 여유일",
+        "subtitle": "미술관 · 메오 울프",
+        "query": "Denver Art Museum"
+      },
+      {
+        "day": 10,
+        "date": "2026-10-25",
+        "title": "덴버 출국",
+        "subtitle": "DEN · 밴쿠버 장기 환승",
+        "query": "Denver Airport"
+      }
+    ]
+  },
+  {
+    "slug": "phoenix",
+    "name": "피닉스",
+    "code": "PHX",
+    "start": "2026-09-28",
+    "end": "2026-10-04",
+    "outbound": {
+      "times24": [
+        "19:20",
+        "18:24"
+      ],
+      "airline": "델타항공대한항공",
+      "duration": "15시간 4분",
+      "route": "ICN–PHX",
+      "stops": "경유 1회",
+      "layover": "1시간 46분 SLC",
+      "price": 1370000,
+      "raw": "오후 7:20\n – \n오후 6:24\n델타항공대한항공\n15시간 4분\nICN–PHX\n경유 1회\n1시간 46분 SLC\nCO2e 671kg\n평균 배출량\n₩1,370,000\n왕복"
+    },
+    "return": {
+      "times24": [
+        "05:45",
+        "15:20+1"
+      ],
+      "airline": "델타항공대한항공",
+      "duration": "17시간 35분",
+      "route": "PHX–ICN",
+      "stops": "경유 1회",
+      "layover": "2시간 30분 SLC",
+      "price": 1370000,
+      "raw": "오전 5:45\n – \n오후 3:20+1\n델타항공대한항공\n17시간 35분\nPHX–ICN\n경유 1회\n2시간 30분 SLC\nCO2e 657kg\n-14% 배출\n₩1,370,000\n왕복\n나무 6,514그루가 하루에 흡수하는 양만큼 CO2e 배출이 방지됩니다."
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-28",
+        "title": "피닉스 도착",
+        "subtitle": "PHX · 다운타운",
+        "query": "Phoenix Arizona skyline"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-29",
+        "title": "사막 식물원",
+        "subtitle": "소노라 사막 · 파파고 파크",
+        "query": "Desert Botanical Garden Phoenix"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-30",
+        "title": "스코츠데일",
+        "subtitle": "올드타운 · 갤러리",
+        "query": "Old Town Scottsdale"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-01",
+        "title": "세도나",
+        "subtitle": "레드록 · 채플 오브 홀리 크로스",
+        "query": "Sedona Arizona"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-02",
+        "title": "그랜드캐니언 사우스",
+        "subtitle": "사우스림 · 매더 포인트",
+        "query": "Grand Canyon South Rim"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-03",
+        "title": "피닉스 문화일",
+        "subtitle": "허드 박물관 · 루스벨트 로우",
+        "query": "Heard Museum Phoenix"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-04",
+        "title": "피닉스 출국",
+        "subtitle": "PHX · 솔트레이크시티 환승",
+        "query": "Phoenix Airport"
+      }
+    ]
+  },
+  {
+    "slug": "atlanta",
+    "name": "애틀랜타",
+    "code": "ATL",
+    "start": "2026-10-01",
+    "end": "2026-10-07",
+    "outbound": {
+      "times24": [
+        "17:50",
+        "23:47"
+      ],
+      "airline": "아메리칸항공",
+      "duration": "18시간 57분",
+      "route": "ICN–ATL",
+      "stops": "경유 1회",
+      "layover": "3시간 40분 DFW",
+      "price": 1381000,
+      "raw": "오후 5:50\n – \n오후 11:47\n아메리칸항공\n18시간 57분\nICN–ATL\n경유 1회\n3시간 40분 DFW\nCO2e 682kg\n-8% 배출\n₩1,381,000\n왕복"
+    },
+    "return": {
+      "times24": [
+        "14:58",
+        "15:45+2"
+      ],
+      "airline": "아메리칸항공",
+      "duration": "35시간 47분",
+      "route": "ATL–ICN",
+      "stops": "경유 1회",
+      "layover": "17시간 55분 DFW",
+      "price": 1381000,
+      "raw": "오후 2:58\n – \n오후 3:45+2\n아메리칸항공\n35시간 47분\nATL–ICN\n경유 1회\n17시간 55분 DFW\nCO2e 1,005kg\n+16% 배출\n₩1,381,000\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-10-01",
+        "title": "애틀랜타 도착",
+        "subtitle": "ATL · 다운타운",
+        "query": "Atlanta skyline"
+      },
+      {
+        "day": 2,
+        "date": "2026-10-02",
+        "title": "시민권 역사",
+        "subtitle": "마틴 루서 킹 주니어 유적지",
+        "query": "Martin Luther King Jr National Historical Park"
+      },
+      {
+        "day": 3,
+        "date": "2026-10-03",
+        "title": "벨트라인",
+        "subtitle": "폰스 시티 마켓 · 이스트사이드 트레일",
+        "query": "Atlanta BeltLine"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-04",
+        "title": "센테니얼 파크",
+        "subtitle": "조지아 아쿠아리움 · 다운타운",
+        "query": "Georgia Aquarium Atlanta"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-05",
+        "title": "벅헤드",
+        "subtitle": "애틀랜타 역사센터 · 피드몬트 파크",
+        "query": "Piedmont Park Atlanta"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-06",
+        "title": "디케이터",
+        "subtitle": "로컬 거리 · 남부 음식",
+        "query": "Decatur Georgia"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-07",
+        "title": "애틀랜타 출국",
+        "subtitle": "ATL · 댈러스 장기 환승",
+        "query": "Atlanta Airport"
+      }
+    ]
+  },
+  {
+    "slug": "chicago",
+    "name": "시카고",
+    "code": "ORD",
+    "start": "2027-02-22",
+    "end": "2027-03-01",
+    "outbound": {
+      "times24": [
+        "07:30",
+        "16:55"
+      ],
+      "airline": "필리핀항공",
+      "duration": "24시간 25분",
+      "route": "ICN–ORD",
+      "stops": "경유 1회",
+      "layover": "5시간 55분 MNL",
+      "price": 1393400,
+      "raw": "오전 7:30\n – \n오후 4:55\n필리핀항공\n24시간 25분\nICN–ORD\n경유 1회\n5시간 55분 MNL\nCO2e 1,334kg\n+92% 배출\n₩1,393,400\n왕복"
+    },
+    "return": {
+      "times24": [
+        "22:45",
+        "19:10+2"
+      ],
+      "airline": "필리핀항공",
+      "duration": "29시간 25분",
+      "route": "ORD–ICN",
+      "stops": "경유 1회",
+      "layover": "8시간 50분 MNL",
+      "price": 1393400,
+      "raw": "오후 10:45\n – \n오후 7:10+2\n필리핀항공\n29시간 25분\nORD–ICN\n경유 1회\n8시간 50분 MNL\nCO2e 1,282kg\n+82% 배출\n₩1,393,400\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2027-02-22",
+        "title": "시카고 도착",
+        "subtitle": "ORD · 루프",
+        "query": "Chicago skyline night"
+      },
+      {
+        "day": 2,
+        "date": "2027-02-23",
+        "title": "시카고 루프",
+        "subtitle": "밀레니엄 파크 · 클라우드 게이트",
+        "query": "Cloud Gate Chicago"
+      },
+      {
+        "day": 3,
+        "date": "2027-02-24",
+        "title": "미술관 지구",
+        "subtitle": "시카고 미술관 · 그랜트 파크",
+        "query": "Art Institute of Chicago"
+      },
+      {
+        "day": 4,
+        "date": "2027-02-25",
+        "title": "건축의 도시",
+        "subtitle": "시카고강 크루즈 · 리버워크",
+        "query": "Chicago River architecture"
+      },
+      {
+        "day": 5,
+        "date": "2027-02-26",
+        "title": "뮤지엄 캠퍼스",
+        "subtitle": "필드 박물관 · 셰드 수족관",
+        "query": "Chicago Museum Campus"
+      },
+      {
+        "day": 6,
+        "date": "2027-02-27",
+        "title": "북부 동네",
+        "subtitle": "링컨 파크 · 위커 파크",
+        "query": "Lincoln Park Chicago"
+      },
+      {
+        "day": 7,
+        "date": "2027-02-28",
+        "title": "하이드파크",
+        "subtitle": "과학산업박물관 · 시카고대학교",
+        "query": "University of Chicago"
+      },
+      {
+        "day": 8,
+        "date": "2027-03-01",
+        "title": "시카고 출국",
+        "subtitle": "ORD · 마닐라 환승 · 인천",
+        "query": "Chicago OHare Airport"
+      }
+    ]
+  },
+  {
+    "slug": "miami",
+    "name": "마이애미",
+    "code": "FLL",
+    "start": "2027-01-21",
+    "end": "2027-01-29",
+    "outbound": {
+      "times24": [
+        "18:55",
+        "10:07+1"
+      ],
+      "airline": "에어캐나다",
+      "duration": "29시간 12분",
+      "route": "ICN–FLL",
+      "stops": "경유 2회",
+      "layover": "YVR, YOW",
+      "price": 1549300,
+      "raw": "오후 6:55\n – \n오전 10:07+1\n에어캐나다\n29시간 12분\nICN–FLL\n경유 2회\nYVR, YOW\nCO2e 984kg\n+24% 배출\n₩1,549,300\n왕복"
+    },
+    "return": {
+      "times24": [
+        "21:30",
+        "17:10+2"
+      ],
+      "airline": "에어캐나다",
+      "duration": "29시간 40분",
+      "route": "FLL–ICN",
+      "stops": "경유 2회",
+      "layover": "YYZ, YVR",
+      "price": 1549300,
+      "raw": "오후 9:30\n – \n오후 5:10+2\n에어캐나다\n29시간 40분\nFLL–ICN\n경유 2회\nYYZ, YVR\nCO2e 881kg\n-10% 배출\n₩1,549,300\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2027-01-21",
+        "title": "마이애미 도착",
+        "subtitle": "FLL · 사우스비치",
+        "query": "Miami South Beach night"
+      },
+      {
+        "day": 2,
+        "date": "2027-01-22",
+        "title": "아르데코 지구",
+        "subtitle": "오션 드라이브 · 사우스비치",
+        "query": "Ocean Drive Miami"
+      },
+      {
+        "day": 3,
+        "date": "2027-01-23",
+        "title": "윈우드",
+        "subtitle": "벽화 · 디자인 디스트릭트",
+        "query": "Wynwood Walls Miami"
+      },
+      {
+        "day": 4,
+        "date": "2027-01-24",
+        "title": "리틀 하바나",
+        "subtitle": "칼레 오초 · 쿠바 문화",
+        "query": "Little Havana Miami"
+      },
+      {
+        "day": 5,
+        "date": "2027-01-25",
+        "title": "키 비스케인",
+        "subtitle": "크랜든 파크 · 케이프 플로리다",
+        "query": "Key Biscayne Florida"
+      },
+      {
+        "day": 6,
+        "date": "2027-01-26",
+        "title": "에버글레이즈",
+        "subtitle": "습지 · 에어보트",
+        "query": "Everglades National Park"
+      },
+      {
+        "day": 7,
+        "date": "2027-01-27",
+        "title": "포트로더데일",
+        "subtitle": "라스 올라스 · 수로",
+        "query": "Fort Lauderdale Florida"
+      },
+      {
+        "day": 8,
+        "date": "2027-01-28",
+        "title": "마이애미 여유일",
+        "subtitle": "브리켈 · 베이사이드",
+        "query": "Miami Brickell"
+      },
+      {
+        "day": 9,
+        "date": "2027-01-29",
+        "title": "마이애미 출국",
+        "subtitle": "FLL · 토론토·밴쿠버 환승",
+        "query": "Fort Lauderdale Airport"
+      }
+    ]
+  },
+  {
+    "slug": "washington-dc",
+    "name": "워싱턴 D.C.",
+    "code": "DCA",
+    "start": "2026-10-24",
+    "end": "2026-11-02",
+    "outbound": {
+      "times24": [
+        "19:05",
+        "22:34"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Express - Jazz",
+      "duration": "16시간 29분",
+      "route": "ICN–DCA",
+      "stops": "경유 1회",
+      "layover": "1시간 40분 YYZ",
+      "price": 1616900,
+      "raw": "오후 7:05\n – \n오후 10:34\n에어캐나다운항사: Air Canada Express - Jazz\n16시간 29분\nICN–DCA\n경유 1회\n1시간 40분 YYZ\nCO2e 640kg\n-18% 배출\n₩1,616,900\n왕복"
+    },
+    "return": {
+      "times24": [
+        "09:40",
+        "18:25+1"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Express - Jazz",
+      "duration": "18시간 45분",
+      "route": "DCA–ICN",
+      "stops": "경유 1회",
+      "layover": "2시간 2분 YYZ",
+      "price": 1616900,
+      "raw": "오전 9:40\n – \n오후 6:25+1\n에어캐나다운항사: Air Canada Express - Jazz\n18시간 45분\nDCA–ICN\n경유 1회\n2시간 2분 YYZ\nCO2e 602kg\n-27% 배출\n₩1,616,900\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-10-24",
+        "title": "워싱턴 도착",
+        "subtitle": "DCA · 내셔널 몰",
+        "query": "Washington Monument night"
+      },
+      {
+        "day": 2,
+        "date": "2026-10-25",
+        "title": "내셔널 몰",
+        "subtitle": "워싱턴 기념탑 · 링컨 기념관",
+        "query": "National Mall Washington DC"
+      },
+      {
+        "day": 3,
+        "date": "2026-10-26",
+        "title": "스미스소니언",
+        "subtitle": "항공우주박물관 · 자연사박물관",
+        "query": "Smithsonian Air and Space Museum"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-27",
+        "title": "캐피톨 힐",
+        "subtitle": "국회의사당 · 의회도서관",
+        "query": "United States Capitol"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-28",
+        "title": "조지타운",
+        "subtitle": "C&O 운하 · 워터프런트",
+        "query": "Georgetown Washington DC"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-29",
+        "title": "알링턴",
+        "subtitle": "국립묘지 · 펜타곤 전망",
+        "query": "Arlington National Cemetery"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-30",
+        "title": "마운트 버넌",
+        "subtitle": "조지 워싱턴 저택",
+        "query": "Mount Vernon Virginia"
+      },
+      {
+        "day": 8,
+        "date": "2026-10-31",
+        "title": "올드타운 알렉산드리아",
+        "subtitle": "킹 스트리트 · 포토맥",
+        "query": "Old Town Alexandria Virginia"
+      },
+      {
+        "day": 9,
+        "date": "2026-11-01",
+        "title": "워싱턴 여유일",
+        "subtitle": "국립대성당 · 듀폰서클",
+        "query": "Washington National Cathedral"
+      },
+      {
+        "day": 10,
+        "date": "2026-11-02",
+        "title": "워싱턴 출국",
+        "subtitle": "DCA · 토론토 환승 · 인천",
+        "query": "Ronald Reagan Washington Airport"
+      }
+    ]
+  },
+  {
+    "slug": "austin",
+    "name": "오스틴",
+    "code": "AUS",
+    "start": "2027-01-15",
+    "end": "2027-01-21",
+    "outbound": {
+      "times24": [
+        "20:10",
+        "11:20+1"
+      ],
+      "airline": "에어캐나다",
+      "duration": "30시간 10분",
+      "route": "ICN–AUS",
+      "stops": "경유 1회",
+      "layover": "13시간 YYZ",
+      "price": 1616900,
+      "raw": "오후 8:10\n – \n오전 11:20+1\n에어캐나다\n30시간 10분\nICN–AUS\n경유 1회\n13시간 YYZ\nCO2e 783kg\n+18% 배출\n₩1,616,900\n왕복"
+    },
+    "return": {
+      "times24": [
+        "12:10",
+        "18:25+2"
+      ],
+      "airline": "에어캐나다",
+      "duration": "39시간 15분",
+      "route": "AUS–ICN",
+      "stops": "경유 1회",
+      "layover": "20시간 42분 YYZ",
+      "price": 1616900,
+      "raw": "오후 12:10\n – \n오후 6:25+2\n에어캐나다\n39시간 15분\nAUS–ICN\n경유 1회\n20시간 42분 YYZ\nCO2e 730kg\n-9% 배출\n₩1,616,900\n왕복"
+    },
+    "days": [
+      {
+        "day": 1,
+        "date": "2027-01-15",
+        "title": "오스틴 도착",
+        "subtitle": "AUS · 다운타운",
+        "query": "Austin Texas skyline"
+      },
+      {
+        "day": 2,
+        "date": "2027-01-16",
+        "title": "텍사스 역사",
+        "subtitle": "주의사당 · UT 캠퍼스",
+        "query": "Texas State Capitol Austin"
+      },
+      {
+        "day": 3,
+        "date": "2027-01-17",
+        "title": "사우스 콩그레스",
+        "subtitle": "SoCo · 콘티넨털 클럽",
+        "query": "South Congress Austin"
+      },
+      {
+        "day": 4,
+        "date": "2027-01-18",
+        "title": "바턴 스프링스",
+        "subtitle": "질커 파크 · 레이디버드 호수",
+        "query": "Barton Springs Austin"
+      },
+      {
+        "day": 5,
+        "date": "2027-01-19",
+        "title": "힐 컨트리",
+        "subtitle": "드리핑 스프링스 · 해밀턴 풀",
+        "query": "Texas Hill Country"
+      },
+      {
+        "day": 6,
+        "date": "2027-01-20",
+        "title": "이스트 오스틴",
+        "subtitle": "벽화 · 바비큐 · 라이브 음악",
+        "query": "East Austin Texas"
+      },
+      {
+        "day": 7,
+        "date": "2027-01-21",
+        "title": "오스틴 출국",
+        "subtitle": "AUS · 토론토 장기 환승",
+        "query": "Austin Airport"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1541 @@
+[
+  {
+    "slug": "danang",
+    "name": "다낭",
+    "code": "DAD",
+    "start": "2026-09-26",
+    "end": "2026-10-02",
+    "outbound": {
+      "times": [
+        "오후 9:30",
+        "오전 12:30+1"
+      ],
+      "price": 213935,
+      "airline": "제주항공",
+      "duration": "5시간",
+      "times24": [
+        "21:30",
+        "00:30+1"
+      ]
+    },
+    "return": {
+      "times": [
+        "오전 12:40",
+        "오전 7:15"
+      ],
+      "price": 213935,
+      "airline": "에어서울",
+      "duration": "4시간 35분",
+      "times24": [
+        "00:40",
+        "07:15"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:13:30.451Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-26",
+        "dateShort": "09.26",
+        "weekday": "토요일",
+        "title": "출국 · 다낭 도착",
+        "subtitle": "용다리 야경 · 호텔 체크인",
+        "photoQuery": "Da Nang Dragon Bridge night"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-27",
+        "dateShort": "09.27",
+        "weekday": "일요일",
+        "title": "미케비치",
+        "subtitle": "해변 산책 · 한시장 · 용다리",
+        "photoQuery": "My Khe Beach Da Nang"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-28",
+        "dateShort": "09.28",
+        "weekday": "월요일",
+        "title": "호이안",
+        "subtitle": "올드타운 · 내원교 · 소원배",
+        "photoQuery": "Hoi An Ancient Town lanterns"
+      },
+      {
+        "day": 4,
+        "date": "2026-09-29",
+        "dateShort": "09.29",
+        "weekday": "화요일",
+        "title": "바나힐",
+        "subtitle": "골든브리지 · 프렌치빌리지",
+        "photoQuery": "Golden Bridge Ba Na Hills Vietnam"
+      },
+      {
+        "day": 5,
+        "date": "2026-09-30",
+        "dateShort": "09.30",
+        "weekday": "수요일",
+        "title": "후에",
+        "subtitle": "황성 · 티엔무 사원 · 왕릉",
+        "photoQuery": "Imperial City Hue Vietnam"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-01",
+        "dateShort": "10.01",
+        "weekday": "목요일",
+        "title": "선짜반도",
+        "subtitle": "영응사 · 오행산 · 다낭 야경",
+        "photoQuery": "Linh Ung Pagoda Son Tra Da Nang"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-02",
+        "dateShort": "10.02",
+        "weekday": "금요일",
+        "title": "귀국",
+        "subtitle": "다낭 공항 → 인천",
+        "photoQuery": "Da Nang International Airport"
+      }
+    ]
+  },
+  {
+    "slug": "phu-quoc",
+    "name": "푸꾸옥",
+    "code": "PQC",
+    "start": "2026-09-18",
+    "end": "2026-09-24",
+    "outbound": {
+      "times": [
+        "오전 4:05",
+        "오전 7:35"
+      ],
+      "price": 238800,
+      "airline": "비엣젯항공",
+      "duration": "5시간 30분",
+      "times24": [
+        "04:05",
+        "07:35"
+      ]
+    },
+    "return": {
+      "times": [
+        "오후 10:25",
+        "오전 6:05+1"
+      ],
+      "price": 238800,
+      "airline": "제주항공",
+      "duration": "5시간 40분",
+      "times24": [
+        "22:25",
+        "06:05+1"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:13:41.558Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-18",
+        "dateShort": "09.18",
+        "weekday": "금요일",
+        "title": "푸꾸옥 도착",
+        "subtitle": "즈엉동 · 야시장",
+        "photoQuery": "Phu Quoc beach Vietnam"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-19",
+        "dateShort": "09.19",
+        "weekday": "토요일",
+        "title": "남부 섬투어",
+        "subtitle": "혼똠 케이블카 · 아쿠아토피아",
+        "photoQuery": "Hon Thom cable car Phu Quoc"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-20",
+        "dateShort": "09.20",
+        "weekday": "일요일",
+        "title": "사오비치",
+        "subtitle": "호꾸옥 사원 · 남부 해변",
+        "photoQuery": "Sao Beach Phu Quoc"
+      },
+      {
+        "day": 4,
+        "date": "2026-09-21",
+        "dateShort": "09.21",
+        "weekday": "월요일",
+        "title": "북부 자연",
+        "subtitle": "간저우 · 락벰 수상마을",
+        "photoQuery": "Rach Vem Phu Quoc"
+      },
+      {
+        "day": 5,
+        "date": "2026-09-22",
+        "dateShort": "09.22",
+        "weekday": "화요일",
+        "title": "빈원더스",
+        "subtitle": "사파리 · 그랜드월드",
+        "photoQuery": "VinWonders Phu Quoc"
+      },
+      {
+        "day": 6,
+        "date": "2026-09-23",
+        "dateShort": "09.23",
+        "weekday": "수요일",
+        "title": "선셋타운",
+        "subtitle": "키스브리지 · 야간 공연",
+        "photoQuery": "Sunset Town Phu Quoc"
+      },
+      {
+        "day": 7,
+        "date": "2026-09-24",
+        "dateShort": "09.24",
+        "weekday": "목요일",
+        "title": "여유 · 귀국",
+        "subtitle": "리조트 · 야시장 · 공항",
+        "photoQuery": "Phu Quoc International Airport"
+      }
+    ]
+  },
+  {
+    "slug": "hanoi",
+    "name": "하노이",
+    "code": "HAN",
+    "start": "2026-09-28",
+    "end": "2026-10-07",
+    "outbound": {
+      "times": [
+        "오후 8:40",
+        "오후 11:45"
+      ],
+      "price": 257128,
+      "airline": "제주항공",
+      "duration": "5시간 5분",
+      "times24": [
+        "20:40",
+        "23:45"
+      ]
+    },
+    "return": {
+      "times": [
+        "오후 11:15",
+        "오전 5:30+1"
+      ],
+      "price": 257128,
+      "airline": "비엣젯항공",
+      "duration": "4시간 15분",
+      "times24": [
+        "23:15",
+        "05:30+1"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:13:52.742Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-28",
+        "dateShort": "09.28",
+        "weekday": "월요일",
+        "title": "하노이 도착",
+        "subtitle": "호안끼엠 · 올드쿼터",
+        "photoQuery": "Hoan Kiem Lake Hanoi"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-29",
+        "dateShort": "09.29",
+        "weekday": "화요일",
+        "title": "하노이 핵심",
+        "subtitle": "호찌민 묘 · 문묘 · 기찻길",
+        "photoQuery": "Temple of Literature Hanoi"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-30",
+        "dateShort": "09.30",
+        "weekday": "수요일",
+        "title": "닌빈",
+        "subtitle": "짱안 보트 · 항무아 전망대",
+        "photoQuery": "Trang An Ninh Binh Vietnam"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-01",
+        "dateShort": "10.01",
+        "weekday": "목요일",
+        "title": "하롱베이",
+        "subtitle": "크루즈 · 석회암 카르스트",
+        "photoQuery": "Ha Long Bay Vietnam"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-02",
+        "dateShort": "10.02",
+        "weekday": "금요일",
+        "title": "깟바섬",
+        "subtitle": "란하베이 · 섬 산책",
+        "photoQuery": "Lan Ha Bay Cat Ba Vietnam"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-03",
+        "dateShort": "10.03",
+        "weekday": "토요일",
+        "title": "바딘 · 떠이호",
+        "subtitle": "쩐꾸옥 사원 · 서호",
+        "photoQuery": "Tran Quoc Pagoda Hanoi"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-04",
+        "dateShort": "10.04",
+        "weekday": "일요일",
+        "title": "밧짱 도자기마을",
+        "subtitle": "공방 · 로컬시장",
+        "photoQuery": "Bat Trang ceramic village Vietnam"
+      },
+      {
+        "day": 8,
+        "date": "2026-10-05",
+        "dateShort": "10.05",
+        "weekday": "월요일",
+        "title": "하노이 미식",
+        "subtitle": "분짜 · 반미 · 야시장",
+        "photoQuery": "Hanoi Old Quarter night"
+      },
+      {
+        "day": 9,
+        "date": "2026-10-06",
+        "dateShort": "10.06",
+        "weekday": "화요일",
+        "title": "여유일",
+        "subtitle": "박물관 · 카페 · 쇼핑",
+        "photoQuery": "Vietnam Museum of Ethnology Hanoi"
+      },
+      {
+        "day": 10,
+        "date": "2026-10-07",
+        "dateShort": "10.07",
+        "weekday": "수요일",
+        "title": "귀국",
+        "subtitle": "노이바이 공항 → 인천",
+        "photoQuery": "Noi Bai International Airport"
+      }
+    ]
+  },
+  {
+    "slug": "tokyo",
+    "name": "도쿄",
+    "code": "NRT",
+    "start": "2026-09-18",
+    "end": "2026-09-24",
+    "outbound": {
+      "times": [
+        "오후 3:10",
+        "오후 5:30"
+      ],
+      "price": 231400,
+      "airline": "이스타항공",
+      "duration": "2시간 20분",
+      "times24": [
+        "15:10",
+        "17:30"
+      ]
+    },
+    "return": {
+      "times": [
+        "오후 4:20",
+        "오후 7:10"
+      ],
+      "price": 214333,
+      "airline": "이스타항공",
+      "duration": "2시간 50분",
+      "times24": [
+        "16:20",
+        "19:10"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:14:04.093Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-18",
+        "dateShort": "09.18",
+        "weekday": "금요일",
+        "title": "도쿄 도착",
+        "subtitle": "나리타 · 시부야 야경",
+        "photoQuery": "Shibuya Crossing Tokyo"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-19",
+        "dateShort": "09.19",
+        "weekday": "토요일",
+        "title": "도쿄 동부",
+        "subtitle": "아사쿠사 · 센소지 · 스카이트리",
+        "photoQuery": "Sensoji Temple Tokyo"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-20",
+        "dateShort": "09.20",
+        "weekday": "일요일",
+        "title": "가마쿠라",
+        "subtitle": "대불 · 하세데라 · 에노시마",
+        "photoQuery": "Great Buddha Kamakura"
+      },
+      {
+        "day": 4,
+        "date": "2026-09-21",
+        "dateShort": "09.21",
+        "weekday": "월요일",
+        "title": "하코네",
+        "subtitle": "아시노코 · 오와쿠다니 · 온천",
+        "photoQuery": "Lake Ashi Hakone Mount Fuji"
+      },
+      {
+        "day": 5,
+        "date": "2026-09-22",
+        "dateShort": "09.22",
+        "weekday": "화요일",
+        "title": "도쿄 서부",
+        "subtitle": "메이지신궁 · 하라주쿠 · 신주쿠",
+        "photoQuery": "Meiji Shrine Tokyo"
+      },
+      {
+        "day": 6,
+        "date": "2026-09-23",
+        "dateShort": "09.23",
+        "weekday": "수요일",
+        "title": "도쿄 미식·쇼핑",
+        "subtitle": "츠키지 · 긴자 · 오다이바",
+        "photoQuery": "Tsukiji Outer Market Tokyo"
+      },
+      {
+        "day": 7,
+        "date": "2026-09-24",
+        "dateShort": "09.24",
+        "weekday": "목요일",
+        "title": "귀국",
+        "subtitle": "우에노 · 나리타 → 인천",
+        "photoQuery": "Narita International Airport terminal"
+      }
+    ]
+  },
+  {
+    "slug": "taipei",
+    "name": "타이베이",
+    "code": "TPE",
+    "start": "2026-10-24",
+    "end": "2026-10-31",
+    "outbound": {
+      "times": [
+        "오후 11:00",
+        "오전 12:35+1"
+      ],
+      "price": 252136,
+      "airline": "스쿳항공",
+      "duration": "2시간 35분",
+      "times24": [
+        "23:00",
+        "00:35+1"
+      ]
+    },
+    "return": {
+      "times": [
+        "오후 8:00",
+        "오후 11:30"
+      ],
+      "price": 252136,
+      "airline": "타이거항공 타이완",
+      "duration": "2시간 30분",
+      "times24": [
+        "20:00",
+        "23:30"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:14:15.249Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-10-24",
+        "dateShort": "10.24",
+        "weekday": "토요일",
+        "title": "출국 · 타이베이 도착",
+        "subtitle": "타오위안 · 시먼딩",
+        "photoQuery": "Ximending Taipei night"
+      },
+      {
+        "day": 2,
+        "date": "2026-10-25",
+        "dateShort": "10.25",
+        "weekday": "일요일",
+        "title": "타이베이 핵심",
+        "subtitle": "중정기념당 · 용산사 · 시먼딩",
+        "photoQuery": "Chiang Kai-shek Memorial Hall Taipei"
+      },
+      {
+        "day": 3,
+        "date": "2026-10-26",
+        "dateShort": "10.26",
+        "weekday": "월요일",
+        "title": "예류 · 지우펀",
+        "subtitle": "지질공원 · 홍등 골목",
+        "photoQuery": "Jiufen Taiwan lanterns"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-27",
+        "dateShort": "10.27",
+        "weekday": "화요일",
+        "title": "스펀 · 핑시",
+        "subtitle": "폭포 · 천등 · 철길마을",
+        "photoQuery": "Shifen Waterfall Taiwan"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-28",
+        "dateShort": "10.28",
+        "weekday": "수요일",
+        "title": "베이터우 · 단수이",
+        "subtitle": "온천 · 홍마오청 · 석양",
+        "photoQuery": "Tamsui sunset Taiwan"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-29",
+        "dateShort": "10.29",
+        "weekday": "목요일",
+        "title": "타이베이 101",
+        "subtitle": "신이구 · 샹산 야경",
+        "photoQuery": "Taipei 101 Elephant Mountain"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-30",
+        "dateShort": "10.30",
+        "weekday": "금요일",
+        "title": "근교 여유",
+        "subtitle": "마오콩 곤돌라 · 차밭",
+        "photoQuery": "Maokong gondola Taipei"
+      },
+      {
+        "day": 8,
+        "date": "2026-10-31",
+        "dateShort": "10.31",
+        "weekday": "토요일",
+        "title": "귀국",
+        "subtitle": "시먼딩 · 타오위안 → 인천",
+        "photoQuery": "Taoyuan International Airport"
+      }
+    ]
+  },
+  {
+    "slug": "ho-chi-minh",
+    "name": "호찌민",
+    "code": "SGN",
+    "start": "2026-09-18",
+    "end": "2026-09-24",
+    "outbound": {
+      "times": [
+        "오전 11:40",
+        "오후 2:55"
+      ],
+      "price": 253483,
+      "airline": "비엣젯항공",
+      "duration": "5시간 15분",
+      "times24": [
+        "11:40",
+        "14:55"
+      ]
+    },
+    "return": {
+      "times": [
+        "오전 2:35",
+        "오전 9:40"
+      ],
+      "price": 253483,
+      "airline": "비엣젯항공",
+      "duration": "5시간 5분",
+      "times24": [
+        "02:35",
+        "09:40"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:14:26.210Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-18",
+        "dateShort": "09.18",
+        "weekday": "금요일",
+        "title": "호찌민 도착",
+        "subtitle": "통일궁 · 중앙우체국",
+        "photoQuery": "Ho Chi Minh City Central Post Office"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-19",
+        "dateShort": "09.19",
+        "weekday": "토요일",
+        "title": "호찌민 핵심",
+        "subtitle": "노트르담 · 동커이 · 벤탄",
+        "photoQuery": "Ben Thanh Market Ho Chi Minh City"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-20",
+        "dateShort": "09.20",
+        "weekday": "일요일",
+        "title": "꾸찌터널",
+        "subtitle": "지하 유적 · 역사 투어",
+        "photoQuery": "Cu Chi Tunnels Vietnam"
+      },
+      {
+        "day": 4,
+        "date": "2026-09-21",
+        "dateShort": "09.21",
+        "weekday": "월요일",
+        "title": "메콩델타",
+        "subtitle": "미토 · 보트 · 과수원",
+        "photoQuery": "Mekong Delta Vietnam boat"
+      },
+      {
+        "day": 5,
+        "date": "2026-09-22",
+        "dateShort": "09.22",
+        "weekday": "화요일",
+        "title": "무이네",
+        "subtitle": "화이트샌듄 · 요정의 샘",
+        "photoQuery": "Mui Ne sand dunes Vietnam"
+      },
+      {
+        "day": 6,
+        "date": "2026-09-23",
+        "dateShort": "09.23",
+        "weekday": "수요일",
+        "title": "사이공 여유일",
+        "subtitle": "카페 · 타오디엔 · 야경",
+        "photoQuery": "Saigon river skyline night"
+      },
+      {
+        "day": 7,
+        "date": "2026-09-24",
+        "dateShort": "09.24",
+        "weekday": "목요일",
+        "title": "귀국",
+        "subtitle": "탄선녓 공항 → 인천",
+        "photoQuery": "Tan Son Nhat International Airport"
+      }
+    ]
+  },
+  {
+    "slug": "shanghai",
+    "name": "상하이",
+    "code": "PVG",
+    "start": "2026-10-01",
+    "end": "2026-10-09",
+    "outbound": {
+      "times": [
+        "오후 4:55",
+        "오후 6:05"
+      ],
+      "price": 261183,
+      "airline": "스프링항공",
+      "duration": "2시간 10분",
+      "times24": [
+        "16:55",
+        "18:05"
+      ]
+    },
+    "return": {
+      "times": [
+        "오후 12:50",
+        "오후 3:55"
+      ],
+      "price": 261183,
+      "airline": "스프링항공",
+      "duration": "2시간 5분",
+      "times24": [
+        "12:50",
+        "15:55"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:14:37.522Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-10-01",
+        "dateShort": "10.01",
+        "weekday": "목요일",
+        "title": "상하이 도착",
+        "subtitle": "와이탄 · 난징동루",
+        "photoQuery": "The Bund Shanghai night"
+      },
+      {
+        "day": 2,
+        "date": "2026-10-02",
+        "dateShort": "10.02",
+        "weekday": "금요일",
+        "title": "상하이 핵심",
+        "subtitle": "예원 · 성황묘 · 와이탄",
+        "photoQuery": "Yuyuan Garden Shanghai"
+      },
+      {
+        "day": 3,
+        "date": "2026-10-03",
+        "dateShort": "10.03",
+        "weekday": "토요일",
+        "title": "푸동",
+        "subtitle": "상하이타워 · 루자쭈이",
+        "photoQuery": "Lujiazui Shanghai skyline"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-04",
+        "dateShort": "10.04",
+        "weekday": "일요일",
+        "title": "프랑스 조계지",
+        "subtitle": "우캉루 · 신천지",
+        "photoQuery": "Wukang Road Shanghai"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-05",
+        "dateShort": "10.05",
+        "weekday": "월요일",
+        "title": "주자자오",
+        "subtitle": "수향마을 · 운하 보트",
+        "photoQuery": "Zhujiajiao water town"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-06",
+        "dateShort": "10.06",
+        "weekday": "화요일",
+        "title": "쑤저우",
+        "subtitle": "졸정원 · 산탕제",
+        "photoQuery": "Humble Administrators Garden Suzhou"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-07",
+        "dateShort": "10.07",
+        "weekday": "수요일",
+        "title": "디즈니 또는 미술관",
+        "subtitle": "푸동 문화 하루",
+        "photoQuery": "Shanghai Disneyland castle"
+      },
+      {
+        "day": 8,
+        "date": "2026-10-08",
+        "dateShort": "10.08",
+        "weekday": "목요일",
+        "title": "상하이 미식",
+        "subtitle": "티엔즈팡 · 난징시루",
+        "photoQuery": "Tianzifang Shanghai"
+      },
+      {
+        "day": 9,
+        "date": "2026-10-09",
+        "dateShort": "10.09",
+        "weekday": "금요일",
+        "title": "귀국",
+        "subtitle": "푸동 공항 → 인천",
+        "photoQuery": "Shanghai Pudong International Airport"
+      }
+    ]
+  },
+  {
+    "slug": "hong-kong",
+    "name": "홍콩",
+    "code": "HKG",
+    "start": "2026-09-27",
+    "end": "2026-10-06",
+    "outbound": {
+      "times": [
+        "오전 2:35",
+        "오전 5:25"
+      ],
+      "price": 271159,
+      "airline": "홍콩 익스프레스항공",
+      "duration": "3시간 50분",
+      "times24": [
+        "02:35",
+        "05:25"
+      ]
+    },
+    "return": {
+      "times": [
+        "오후 1:15",
+        "오후 6:05"
+      ],
+      "price": 271159,
+      "airline": "티웨이항공",
+      "duration": "3시간 50분",
+      "times24": [
+        "13:15",
+        "18:05"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:14:48.865Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-27",
+        "dateShort": "09.27",
+        "weekday": "일요일",
+        "title": "홍콩 도착",
+        "subtitle": "침사추이 · 빅토리아 하버",
+        "photoQuery": "Victoria Harbour Hong Kong night"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-28",
+        "dateShort": "09.28",
+        "weekday": "월요일",
+        "title": "홍콩섬",
+        "subtitle": "피크트램 · 소호 · 센트럴",
+        "photoQuery": "Victoria Peak Hong Kong"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-29",
+        "dateShort": "09.29",
+        "weekday": "화요일",
+        "title": "카오룽",
+        "subtitle": "몽콕 · 야우마테이 · 야시장",
+        "photoQuery": "Temple Street Night Market Hong Kong"
+      },
+      {
+        "day": 4,
+        "date": "2026-09-30",
+        "dateShort": "09.30",
+        "weekday": "수요일",
+        "title": "란타우",
+        "subtitle": "옹핑360 · 포린사 · 대불",
+        "photoQuery": "Tian Tan Buddha Hong Kong"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-01",
+        "dateShort": "10.01",
+        "weekday": "목요일",
+        "title": "마카오 당일치기",
+        "subtitle": "세나도 · 성바울 · 타이파",
+        "photoQuery": "Ruins of Saint Paul Macau"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-02",
+        "dateShort": "10.02",
+        "weekday": "금요일",
+        "title": "사이쿵",
+        "subtitle": "해안 트레일 · 해산물",
+        "photoQuery": "Sai Kung Hong Kong coast"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-03",
+        "dateShort": "10.03",
+        "weekday": "토요일",
+        "title": "디즈니랜드",
+        "subtitle": "란타우 테마파크",
+        "photoQuery": "Hong Kong Disneyland castle"
+      },
+      {
+        "day": 8,
+        "date": "2026-10-04",
+        "dateShort": "10.04",
+        "weekday": "일요일",
+        "title": "로컬 홍콩",
+        "subtitle": "샴수이포 · 웨스트카오룽",
+        "photoQuery": "West Kowloon Hong Kong"
+      },
+      {
+        "day": 9,
+        "date": "2026-10-05",
+        "dateShort": "10.05",
+        "weekday": "월요일",
+        "title": "여유일",
+        "subtitle": "미술관 · 하버 산책",
+        "photoQuery": "Hong Kong Museum of Art harbour"
+      },
+      {
+        "day": 10,
+        "date": "2026-10-06",
+        "dateShort": "10.06",
+        "weekday": "화요일",
+        "title": "귀국",
+        "subtitle": "첵랍콕 공항 → 인천",
+        "photoQuery": "Hong Kong International Airport"
+      }
+    ]
+  },
+  {
+    "slug": "manila",
+    "name": "마닐라",
+    "code": "MNL",
+    "start": "2026-11-29",
+    "end": "2026-12-07",
+    "outbound": {
+      "times": [
+        "오전 2:15",
+        "오전 5:40"
+      ],
+      "price": 244693,
+      "airline": "세부퍼시픽",
+      "duration": "4시간 25분",
+      "times24": [
+        "02:15",
+        "05:40"
+      ]
+    },
+    "return": {
+      "times": [
+        "오후 7:35",
+        "오전 12:45+1"
+      ],
+      "price": 244693,
+      "airline": "세부퍼시픽",
+      "duration": "4시간 10분",
+      "times24": [
+        "19:35",
+        "00:45+1"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:15:00.030Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-11-29",
+        "dateShort": "11.29",
+        "weekday": "일요일",
+        "title": "마닐라 도착",
+        "subtitle": "인트라무로스 · 마닐라베이",
+        "photoQuery": "Intramuros Manila Philippines"
+      },
+      {
+        "day": 2,
+        "date": "2026-11-30",
+        "dateShort": "11.30",
+        "weekday": "월요일",
+        "title": "인트라무로스",
+        "subtitle": "산티아고 요새 · 산아구스틴",
+        "photoQuery": "Fort Santiago Manila"
+      },
+      {
+        "day": 3,
+        "date": "2026-12-01",
+        "dateShort": "12.01",
+        "weekday": "화요일",
+        "title": "마카티",
+        "subtitle": "아얄라 박물관 · 그린벨트",
+        "photoQuery": "Makati skyline Philippines"
+      },
+      {
+        "day": 4,
+        "date": "2026-12-02",
+        "dateShort": "12.02",
+        "weekday": "수요일",
+        "title": "따가이따이",
+        "subtitle": "탈호수 · 화산 전망",
+        "photoQuery": "Taal Volcano Tagaytay"
+      },
+      {
+        "day": 5,
+        "date": "2026-12-03",
+        "dateShort": "12.03",
+        "weekday": "목요일",
+        "title": "코레히도르",
+        "subtitle": "섬 역사 투어",
+        "photoQuery": "Corregidor Island Philippines"
+      },
+      {
+        "day": 6,
+        "date": "2026-12-04",
+        "dateShort": "12.04",
+        "weekday": "금요일",
+        "title": "BGC",
+        "subtitle": "보니파시오 · 업타운 야경",
+        "photoQuery": "Bonifacio Global City Manila"
+      },
+      {
+        "day": 7,
+        "date": "2026-12-05",
+        "dateShort": "12.05",
+        "weekday": "토요일",
+        "title": "빈도 · 차이나타운",
+        "subtitle": "푸드 투어 · 퀴아포",
+        "photoQuery": "Binondo Manila Chinatown"
+      },
+      {
+        "day": 8,
+        "date": "2026-12-06",
+        "dateShort": "12.06",
+        "weekday": "일요일",
+        "title": "마닐라베이",
+        "subtitle": "몰오브아시아 · 석양",
+        "photoQuery": "Manila Bay sunset"
+      },
+      {
+        "day": 9,
+        "date": "2026-12-07",
+        "dateShort": "12.07",
+        "weekday": "월요일",
+        "title": "귀국",
+        "subtitle": "니노이 아키노 공항 → 인천",
+        "photoQuery": "Ninoy Aquino International Airport"
+      }
+    ]
+  },
+  {
+    "slug": "macau",
+    "name": "마카오",
+    "code": "MFM",
+    "start": "2026-09-28",
+    "end": "2026-10-07",
+    "outbound": {
+      "times": [
+        "오전 9:50",
+        "오후 12:50"
+      ],
+      "price": 299000,
+      "airline": "제주항공",
+      "duration": "4시간",
+      "times24": [
+        "09:50",
+        "12:50"
+      ]
+    },
+    "return": {
+      "times": [
+        "오후 1:50",
+        "오후 6:40"
+      ],
+      "price": 299000,
+      "airline": "제주항공",
+      "duration": "3시간 50분",
+      "times24": [
+        "13:50",
+        "18:40"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:15:11.328Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-28",
+        "dateShort": "09.28",
+        "weekday": "월요일",
+        "title": "마카오 도착",
+        "subtitle": "세나도 광장 · 야경",
+        "photoQuery": "Senado Square Macau"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-29",
+        "dateShort": "09.29",
+        "weekday": "화요일",
+        "title": "역사지구",
+        "subtitle": "성바울 · 몬테요새",
+        "photoQuery": "Ruins of Saint Paul Macau"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-30",
+        "dateShort": "09.30",
+        "weekday": "수요일",
+        "title": "타이파",
+        "subtitle": "타이파 빌리지 · 코타이",
+        "photoQuery": "Taipa Village Macau"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-01",
+        "dateShort": "10.01",
+        "weekday": "목요일",
+        "title": "콜로안",
+        "subtitle": "해변 · 로드스토우 베이커리",
+        "photoQuery": "Coloane Village Macau"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-02",
+        "dateShort": "10.02",
+        "weekday": "금요일",
+        "title": "코타이 리조트",
+        "subtitle": "베네시안 · 파리지앵",
+        "photoQuery": "Cotai Strip Macau night"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-03",
+        "dateShort": "10.03",
+        "weekday": "토요일",
+        "title": "홍콩 당일치기",
+        "subtitle": "센트럴 · 빅토리아 하버",
+        "photoQuery": "Victoria Harbour Hong Kong"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-04",
+        "dateShort": "10.04",
+        "weekday": "일요일",
+        "title": "마카오 문화",
+        "subtitle": "마카오박물관 · 기아요새",
+        "photoQuery": "Guia Fortress Macau"
+      },
+      {
+        "day": 8,
+        "date": "2026-10-05",
+        "dateShort": "10.05",
+        "weekday": "월요일",
+        "title": "남부 산책",
+        "subtitle": "아마사원 · 마카오타워",
+        "photoQuery": "A Ma Temple Macau"
+      },
+      {
+        "day": 9,
+        "date": "2026-10-06",
+        "dateShort": "10.06",
+        "weekday": "화요일",
+        "title": "여유일",
+        "subtitle": "카페 · 쇼핑 · 야경",
+        "photoQuery": "Macau skyline night"
+      },
+      {
+        "day": 10,
+        "date": "2026-10-07",
+        "dateShort": "10.07",
+        "weekday": "수요일",
+        "title": "귀국",
+        "subtitle": "마카오 공항 → 인천",
+        "photoQuery": "Macau International Airport"
+      }
+    ]
+  },
+  {
+    "slug": "chiang-mai",
+    "name": "치앙마이",
+    "code": "CNX",
+    "start": "2026-09-26",
+    "end": "2026-10-02",
+    "outbound": {
+      "times": [
+        "오후 7:55",
+        "오후 11:50"
+      ],
+      "price": 300210,
+      "airline": "에어부산",
+      "duration": "5시간 55분",
+      "times24": [
+        "19:55",
+        "23:50"
+      ]
+    },
+    "return": {
+      "times": [
+        "오후 11:00",
+        "오전 6:30+1"
+      ],
+      "price": 300210,
+      "airline": "제주항공",
+      "duration": "5시간 30분",
+      "times24": [
+        "23:00",
+        "06:30+1"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:15:22.493Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-26",
+        "dateShort": "09.26",
+        "weekday": "토요일",
+        "title": "치앙마이 도착",
+        "subtitle": "올드시티 · 나이트바자",
+        "photoQuery": "Chiang Mai Old City Thailand"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-27",
+        "dateShort": "09.27",
+        "weekday": "일요일",
+        "title": "올드시티 사원",
+        "subtitle": "왓체디루앙 · 왓프라싱",
+        "photoQuery": "Wat Chedi Luang Chiang Mai"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-28",
+        "dateShort": "09.28",
+        "weekday": "월요일",
+        "title": "도이수텝",
+        "subtitle": "사원 · 치앙마이 전망",
+        "photoQuery": "Wat Phra That Doi Suthep"
+      },
+      {
+        "day": 4,
+        "date": "2026-09-29",
+        "dateShort": "09.29",
+        "weekday": "화요일",
+        "title": "코끼리 보호구역",
+        "subtitle": "윤리적 체험 · 숲",
+        "photoQuery": "Elephant Nature Park Chiang Mai"
+      },
+      {
+        "day": 5,
+        "date": "2026-09-30",
+        "dateShort": "09.30",
+        "weekday": "수요일",
+        "title": "도이인타논",
+        "subtitle": "폭포 · 산악 국립공원",
+        "photoQuery": "Doi Inthanon National Park"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-01",
+        "dateShort": "10.01",
+        "weekday": "목요일",
+        "title": "님만해민",
+        "subtitle": "카페 · 마켓 · 마사지",
+        "photoQuery": "Nimman Chiang Mai"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-02",
+        "dateShort": "10.02",
+        "weekday": "금요일",
+        "title": "귀국",
+        "subtitle": "치앙마이 공항 → 인천",
+        "photoQuery": "Chiang Mai International Airport"
+      }
+    ]
+  },
+  {
+    "slug": "singapore",
+    "name": "싱가포르",
+    "code": "SIN",
+    "start": "2026-10-22",
+    "end": "2026-10-28",
+    "outbound": {
+      "times": [
+        "오후 6:10",
+        "오후 11:40"
+      ],
+      "price": 424200,
+      "airline": "제주항공",
+      "duration": "6시간 30분",
+      "times24": [
+        "18:10",
+        "23:40"
+      ]
+    },
+    "return": {
+      "times": [
+        "오전 1:10",
+        "오전 8:40"
+      ],
+      "price": 424200,
+      "airline": "제주항공",
+      "duration": "6시간 30분",
+      "times24": [
+        "01:10",
+        "08:40"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:15:33.731Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-10-22",
+        "dateShort": "10.22",
+        "weekday": "목요일",
+        "title": "싱가포르 도착",
+        "subtitle": "마리나베이 야경",
+        "photoQuery": "Marina Bay Singapore night"
+      },
+      {
+        "day": 2,
+        "date": "2026-10-23",
+        "dateShort": "10.23",
+        "weekday": "금요일",
+        "title": "마리나베이",
+        "subtitle": "가든스바이더베이 · 머라이언",
+        "photoQuery": "Gardens by the Bay Singapore"
+      },
+      {
+        "day": 3,
+        "date": "2026-10-24",
+        "dateShort": "10.24",
+        "weekday": "토요일",
+        "title": "차이나타운·캄퐁글램",
+        "subtitle": "사원 · 하지레인",
+        "photoQuery": "Haji Lane Singapore"
+      },
+      {
+        "day": 4,
+        "date": "2026-10-25",
+        "dateShort": "10.25",
+        "weekday": "일요일",
+        "title": "센토사",
+        "subtitle": "케이블카 · 해변 · 야경",
+        "photoQuery": "Sentosa Singapore beach"
+      },
+      {
+        "day": 5,
+        "date": "2026-10-26",
+        "dateShort": "10.26",
+        "weekday": "월요일",
+        "title": "주얼·동부",
+        "subtitle": "주얼 폭포 · 카통",
+        "photoQuery": "Jewel Changi Airport waterfall"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-27",
+        "dateShort": "10.27",
+        "weekday": "화요일",
+        "title": "동물원·나이트사파리",
+        "subtitle": "만다이 자연 하루",
+        "photoQuery": "Singapore Zoo"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-28",
+        "dateShort": "10.28",
+        "weekday": "수요일",
+        "title": "귀국",
+        "subtitle": "창이공항 → 인천",
+        "photoQuery": "Changi Airport terminal"
+      }
+    ]
+  },
+  {
+    "slug": "bangkok",
+    "name": "방콕",
+    "code": "BKK",
+    "start": "2026-09-26",
+    "end": "2026-10-02",
+    "outbound": {
+      "times": [
+        "오후 8:05",
+        "오전 12:10+1"
+      ],
+      "price": 336000,
+      "airline": "제주항공",
+      "duration": "6시간 5분",
+      "times24": [
+        "20:05",
+        "00:10+1"
+      ]
+    },
+    "return": {
+      "times": [
+        "오전 1:10",
+        "오전 8:55"
+      ],
+      "price": 336000,
+      "airline": "제주항공",
+      "duration": "5시간 45분",
+      "times24": [
+        "01:10",
+        "08:55"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:15:44.772Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-26",
+        "dateShort": "09.26",
+        "weekday": "토요일",
+        "title": "방콕 도착",
+        "subtitle": "카오산 · 차오프라야",
+        "photoQuery": "Wat Arun Bangkok night"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-27",
+        "dateShort": "09.27",
+        "weekday": "일요일",
+        "title": "왕궁 지구",
+        "subtitle": "왕궁 · 왓포 · 왓아룬",
+        "photoQuery": "Grand Palace Bangkok"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-28",
+        "dateShort": "09.28",
+        "weekday": "월요일",
+        "title": "아유타야",
+        "subtitle": "고대 사원 · 선셋",
+        "photoQuery": "Ayutthaya Thailand ruins"
+      },
+      {
+        "day": 4,
+        "date": "2026-09-29",
+        "dateShort": "09.29",
+        "weekday": "화요일",
+        "title": "시장 투어",
+        "subtitle": "매끌렁 · 담넌사두억",
+        "photoQuery": "Maeklong Railway Market Thailand"
+      },
+      {
+        "day": 5,
+        "date": "2026-09-30",
+        "dateShort": "09.30",
+        "weekday": "수요일",
+        "title": "현대 방콕",
+        "subtitle": "시암 · 짐톰슨 · 루프톱",
+        "photoQuery": "Bangkok skyline night"
+      },
+      {
+        "day": 6,
+        "date": "2026-10-01",
+        "dateShort": "10.01",
+        "weekday": "목요일",
+        "title": "짜뚜짝·톤부리",
+        "subtitle": "시장 · 운하 · 마사지",
+        "photoQuery": "Chatuchak Market Bangkok"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-02",
+        "dateShort": "10.02",
+        "weekday": "금요일",
+        "title": "귀국",
+        "subtitle": "수완나품 공항 → 인천",
+        "photoQuery": "Suvarnabhumi Airport"
+      }
+    ]
+  },
+  {
+    "slug": "beijing",
+    "name": "베이징",
+    "code": "PEK",
+    "start": "2026-09-25",
+    "end": "2026-10-04",
+    "outbound": {
+      "times": [
+        "오전 8:15",
+        "오전 9:40"
+      ],
+      "price": 369175,
+      "airline": "대한항공",
+      "duration": "2시간 25분",
+      "times24": [
+        "08:15",
+        "09:40"
+      ]
+    },
+    "return": {
+      "times": [
+        "오후 4:50",
+        "오후 8:05"
+      ],
+      "price": 369175,
+      "airline": "아시아나항공",
+      "duration": "2시간 15분",
+      "times24": [
+        "16:50",
+        "20:05"
+      ]
+    },
+    "checkedAt": "2026-09-12T16:15:55.693Z",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-09-25",
+        "dateShort": "09.25",
+        "weekday": "금요일",
+        "title": "베이징 도착",
+        "subtitle": "왕푸징 · 전먼",
+        "photoQuery": "Qianmen Beijing night"
+      },
+      {
+        "day": 2,
+        "date": "2026-09-26",
+        "dateShort": "09.26",
+        "weekday": "토요일",
+        "title": "자금성",
+        "subtitle": "천안문 · 고궁박물원",
+        "photoQuery": "Forbidden City Beijing"
+      },
+      {
+        "day": 3,
+        "date": "2026-09-27",
+        "dateShort": "09.27",
+        "weekday": "일요일",
+        "title": "만리장성",
+        "subtitle": "무톈위 장성",
+        "photoQuery": "Mutianyu Great Wall"
+      },
+      {
+        "day": 4,
+        "date": "2026-09-28",
+        "dateShort": "09.28",
+        "weekday": "월요일",
+        "title": "이화원",
+        "subtitle": "쿤밍호 · 장랑",
+        "photoQuery": "Summer Palace Beijing"
+      },
+      {
+        "day": 5,
+        "date": "2026-09-29",
+        "dateShort": "09.29",
+        "weekday": "화요일",
+        "title": "천단·후퉁",
+        "subtitle": "천단공원 · 난뤄구샹",
+        "photoQuery": "Temple of Heaven Beijing"
+      },
+      {
+        "day": 6,
+        "date": "2026-09-30",
+        "dateShort": "09.30",
+        "weekday": "수요일",
+        "title": "베이징 박물관",
+        "subtitle": "국가박물관 · 전문대가",
+        "photoQuery": "National Museum of China Beijing"
+      },
+      {
+        "day": 7,
+        "date": "2026-10-01",
+        "dateShort": "10.01",
+        "weekday": "목요일",
+        "title": "798 예술구",
+        "subtitle": "현대미술 · 싼리툰",
+        "photoQuery": "798 Art Zone Beijing"
+      },
+      {
+        "day": 8,
+        "date": "2026-10-02",
+        "dateShort": "10.02",
+        "weekday": "금요일",
+        "title": "용허궁·공묘",
+        "subtitle": "라마사원 · 국자감",
+        "photoQuery": "Yonghe Temple Beijing"
+      },
+      {
+        "day": 9,
+        "date": "2026-10-03",
+        "dateShort": "10.03",
+        "weekday": "토요일",
+        "title": "여유일",
+        "subtitle": "스차하이 · 쇼핑 · 카페",
+        "photoQuery": "Shichahai Beijing"
+      },
+      {
+        "day": 10,
+        "date": "2026-10-04",
+        "dateShort": "10.04",
+        "weekday": "일요일",
+        "title": "귀국",
+        "subtitle": "서우두 공항 → 인천",
+        "photoQuery": "Beijing Capital International Airport"
+      }
+    ]
+  }
+]

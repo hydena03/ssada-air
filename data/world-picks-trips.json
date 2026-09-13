@@ -1,0 +1,1622 @@
+[
+  {
+    "slug": "sydney",
+    "name": "시드니",
+    "code": "SYD",
+    "start": "2026-11-10",
+    "end": "2026-11-18",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "12:15",
+        "09:05+1"
+      ],
+      "airline": "동방항공",
+      "duration": "18시간 50분",
+      "route": "ICN–SYD",
+      "stops": "경유 1회",
+      "layover": "5시간 35분 NKG",
+      "price": 724949,
+      "raw": "오후 12:15\n – \n오전 9:05+1\n동방항공\n18시간 50분\nICN–SYD\n경유 1회\n5시간 35분 NKG\nCO2e 750kg\n+19% 배출\n₩724,949\n왕복"
+    },
+    "return": {
+      "times24": [
+        "11:10",
+        "11:15+1"
+      ],
+      "airline": "동방항공",
+      "duration": "26시간 5분",
+      "route": "SYD–ICN",
+      "stops": "경유 1회",
+      "layover": "13시간 25분 NKG",
+      "price": 724949,
+      "raw": "오전 11:10\n – \n오전 11:15+1\n동방항공\n26시간 5분\nSYD–ICN\n경유 1회\n13시간 25분 NKG\nCO2e 749kg\n+19% 배출\n₩724,949\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → SYD · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-11-10"
+      },
+      {
+        "title": "시드니 도착",
+        "subtitle": "SYD · 숙소 체크인 · 첫 산책",
+        "query": "sydney skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2026-11-11"
+      },
+      {
+        "title": "시드니 오페라하우스",
+        "subtitle": "시드니 오페라하우스 · 주변 지역 · 현지 동선",
+        "query": "Sydney Opera House",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-11-12"
+      },
+      {
+        "title": "하버브리지",
+        "subtitle": "하버브리지 · 주변 지역 · 현지 동선",
+        "query": "Sydney Harbour Bridge",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-11-13"
+      },
+      {
+        "title": "더 록스",
+        "subtitle": "더 록스 · 주변 지역 · 현지 동선",
+        "query": "The Rocks Sydney",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-11-14"
+      },
+      {
+        "title": "본다이 비치",
+        "subtitle": "본다이 비치 · 주변 지역 · 현지 동선",
+        "query": "Bondi Beach",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-11-15"
+      },
+      {
+        "title": "블루마운틴",
+        "subtitle": "블루마운틴 · 주변 지역 · 현지 동선",
+        "query": "Blue Mountains Australia",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-11-16"
+      },
+      {
+        "title": "맨리",
+        "subtitle": "맨리 · 주변 지역 · 현지 동선",
+        "query": "Manly Beach Sydney",
+        "kind": "visit",
+        "day": 8,
+        "date": "2026-11-17"
+      },
+      {
+        "title": "시드니 출국",
+        "subtitle": "SYD · 귀국 항공편",
+        "query": "SYD airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "slug": "melbourne",
+    "name": "멜버른",
+    "code": "MEL",
+    "start": "2026-11-10",
+    "end": "2026-11-18",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "20:50",
+        "11:00+2"
+      ],
+      "airline": "동방항공",
+      "duration": "36시간 10분",
+      "route": "ICN–MEL",
+      "stops": "경유 1회",
+      "layover": "23시간 5분 NKG",
+      "price": 816265,
+      "raw": "오후 8:50\n – \n오전 11:00+2\n동방항공\n36시간 10분\nICN–MEL\n경유 1회\n23시간 5분 NKG\nCO2e 743kg\n+27% 배출\n₩816,265\n왕복"
+    },
+    "return": {
+      "times24": [
+        "12:00",
+        "13:15+1"
+      ],
+      "airline": "동방항공",
+      "duration": "27시간 15분",
+      "route": "MEL–ICN",
+      "stops": "경유 2회",
+      "layover": "PVG, TAO",
+      "price": 838603,
+      "raw": "오후 12:00\n – \n오후 1:15+1\n동방항공\n27시간 15분\nMEL–ICN\n경유 2회\nPVG, TAO\nCO2e 640kg\n+9% 배출\n₩838,603\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → MEL · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-11-10"
+      },
+      {
+        "title": "환승·기내 이동",
+        "subtitle": "23시간 5분 NKG",
+        "query": "Nanjing Lukou International Airport",
+        "kind": "transit",
+        "day": 2,
+        "date": "2026-11-11"
+      },
+      {
+        "title": "멜버른 도착",
+        "subtitle": "MEL · 숙소 체크인 · 첫 산책",
+        "query": "melbourne skyline",
+        "kind": "arrival",
+        "day": 3,
+        "date": "2026-11-12"
+      },
+      {
+        "title": "페더레이션 스퀘어",
+        "subtitle": "페더레이션 스퀘어 · 주변 지역 · 현지 동선",
+        "query": "Federation Square Melbourne",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-11-13"
+      },
+      {
+        "title": "멜버른 레인웨이",
+        "subtitle": "멜버른 레인웨이 · 주변 지역 · 현지 동선",
+        "query": "Hosier Lane Melbourne",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-11-14"
+      },
+      {
+        "title": "빅토리아 국립미술관",
+        "subtitle": "빅토리아 국립미술관 · 주변 지역 · 현지 동선",
+        "query": "National Gallery of Victoria",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-11-15"
+      },
+      {
+        "title": "세인트킬다",
+        "subtitle": "세인트킬다 · 주변 지역 · 현지 동선",
+        "query": "St Kilda Melbourne",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-11-16"
+      },
+      {
+        "title": "그레이트 오션 로드",
+        "subtitle": "그레이트 오션 로드 · 주변 지역 · 현지 동선",
+        "query": "Great Ocean Road",
+        "kind": "visit",
+        "day": 8,
+        "date": "2026-11-17"
+      },
+      {
+        "title": "멜버른 출국",
+        "subtitle": "MEL · 귀국 항공편",
+        "query": "MEL airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "slug": "brisbane",
+    "name": "브리즈번",
+    "code": "BNE",
+    "start": "2026-11-10",
+    "end": "2026-11-18",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "16:20",
+        "09:00+1"
+      ],
+      "airline": "동방항공",
+      "duration": "15시간 40분",
+      "route": "ICN–BNE",
+      "stops": "경유 1회",
+      "layover": "3시간 10분 PVG",
+      "price": 908100,
+      "raw": "오후 4:20\n – \n오전 9:00+1\n동방항공\n15시간 40분\nICN–BNE\n경유 1회\n3시간 10분 PVG\nCO2e 554kg\n평균 배출량\n₩908,100\n왕복"
+    },
+    "return": {
+      "times24": [
+        "11:10",
+        "15:05+1"
+      ],
+      "airline": "동방항공",
+      "duration": "28시간 55분",
+      "route": "BNE–ICN",
+      "stops": "경유 1회",
+      "layover": "16시간 25분 PVG",
+      "price": 908100,
+      "raw": "오전 11:10\n – \n오후 3:05+1\n동방항공\n28시간 55분\nBNE–ICN\n경유 1회\n16시간 25분 PVG\nCO2e 562kg\n-6% 배출\n₩908,100\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → BNE · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-11-10"
+      },
+      {
+        "title": "브리즈번 도착",
+        "subtitle": "BNE · 숙소 체크인 · 첫 산책",
+        "query": "brisbane skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2026-11-11"
+      },
+      {
+        "title": "사우스뱅크",
+        "subtitle": "사우스뱅크 · 주변 지역 · 현지 동선",
+        "query": "South Bank Brisbane",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-11-12"
+      },
+      {
+        "title": "시티 보타닉가든",
+        "subtitle": "시티 보타닉가든 · 주변 지역 · 현지 동선",
+        "query": "City Botanic Gardens Brisbane",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-11-13"
+      },
+      {
+        "title": "론파인 코알라 보호구역",
+        "subtitle": "론파인 코알라 보호구역 · 주변 지역 · 현지 동선",
+        "query": "Lone Pine Koala Sanctuary",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-11-14"
+      },
+      {
+        "title": "스토리 브리지",
+        "subtitle": "스토리 브리지 · 주변 지역 · 현지 동선",
+        "query": "Story Bridge Brisbane",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-11-15"
+      },
+      {
+        "title": "모턴 아일랜드",
+        "subtitle": "모턴 아일랜드 · 주변 지역 · 현지 동선",
+        "query": "Moreton Island",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-11-16"
+      },
+      {
+        "title": "마운트 쿠사",
+        "subtitle": "마운트 쿠사 · 주변 지역 · 현지 동선",
+        "query": "Mount Coot-tha Brisbane",
+        "kind": "visit",
+        "day": 8,
+        "date": "2026-11-17"
+      },
+      {
+        "title": "브리즈번 출국",
+        "subtitle": "BNE · 귀국 항공편",
+        "query": "BNE airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "slug": "gold-coast",
+    "name": "골드코스트",
+    "code": "OOL",
+    "start": "2026-11-10",
+    "end": "2026-11-18",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "21:50",
+        "22:10+1"
+      ],
+      "airline": "젯스타",
+      "duration": "23시간 20분",
+      "route": "ICN–OOL",
+      "stops": "경유 1회",
+      "layover": "11시간 45분 SYD",
+      "price": 1176719,
+      "raw": "오후 9:50\n – \n오후 10:10+1\n젯스타\n23시간 20분\nICN–OOL\n경유 1회\n11시간 45분 SYD\nCO2e 562kg\n평균 배출량\n₩1,176,719\n왕복"
+    },
+    "return": {
+      "times24": [
+        "06:00",
+        "20:15"
+      ],
+      "airline": "젯스타",
+      "duration": "15시간 15분",
+      "route": "OOL–ICN",
+      "stops": "경유 1회",
+      "layover": "3시간 5분 SYD",
+      "price": 1176719,
+      "raw": "오전 6:00\n – \n오후 8:15\n젯스타\n15시간 15분\nOOL–ICN\n경유 1회\n3시간 5분 SYD\nCO2e 565kg\n평균 배출량\n₩1,176,719\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → OOL · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-11-10"
+      },
+      {
+        "title": "골드코스트 도착",
+        "subtitle": "OOL · 숙소 체크인 · 첫 산책",
+        "query": "gold coast skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2026-11-11"
+      },
+      {
+        "title": "서퍼스 파라다이스",
+        "subtitle": "서퍼스 파라다이스 · 주변 지역 · 현지 동선",
+        "query": "Surfers Paradise",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-11-12"
+      },
+      {
+        "title": "벌리 헤즈",
+        "subtitle": "벌리 헤즈 · 주변 지역 · 현지 동선",
+        "query": "Burleigh Heads",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-11-13"
+      },
+      {
+        "title": "스프링브룩 국립공원",
+        "subtitle": "스프링브룩 국립공원 · 주변 지역 · 현지 동선",
+        "query": "Springbrook National Park",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-11-14"
+      },
+      {
+        "title": "커럼빈 야생동물 보호구역",
+        "subtitle": "커럼빈 야생동물 보호구역 · 주변 지역 · 현지 동선",
+        "query": "Currumbin Wildlife Sanctuary",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-11-15"
+      },
+      {
+        "title": "탬버린 마운틴",
+        "subtitle": "탬버린 마운틴 · 주변 지역 · 현지 동선",
+        "query": "Tamborine Mountain",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-11-16"
+      },
+      {
+        "title": "브로드비치",
+        "subtitle": "브로드비치 · 주변 지역 · 현지 동선",
+        "query": "Broadbeach Gold Coast",
+        "kind": "visit",
+        "day": 8,
+        "date": "2026-11-17"
+      },
+      {
+        "title": "골드코스트 출국",
+        "subtitle": "OOL · 귀국 항공편",
+        "query": "OOL airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "slug": "cairns",
+    "name": "케언스",
+    "code": "CNS",
+    "start": "2026-11-10",
+    "end": "2026-11-18",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "21:30",
+        "17:15+1"
+      ],
+      "airline": "젯스타",
+      "duration": "18시간 45분",
+      "route": "ICN–CNS",
+      "stops": "경유 1회",
+      "layover": "6시간 55분 BNE",
+      "price": 1106015,
+      "raw": "오후 9:30\n – \n오후 5:15+1\n젯스타\n18시간 45분\nICN–CNS\n경유 1회\n6시간 55분 BNE\nCO2e 596kg\n평균 배출량\n₩1,106,015\n왕복"
+    },
+    "return": {
+      "times24": [
+        "11:45",
+        "23:05"
+      ],
+      "airline": "젯스타, 진에어",
+      "duration": "12시간 20분",
+      "route": "CNS–ICN",
+      "stops": "경유 1회",
+      "layover": "2시간 15분 NRT",
+      "price": 1106015,
+      "raw": "오전 11:45\n – \n오후 11:05\n다구간 항공권\n젯스타, 진에어\n12시간 20분\nCNS–ICN\n경유 1회\n2시간 15분 NRT\nCO2e 489kg\n-22% 배출\n₩1,106,015\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → CNS · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-11-10"
+      },
+      {
+        "title": "케언스 도착",
+        "subtitle": "CNS · 숙소 체크인 · 첫 산책",
+        "query": "cairns skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2026-11-11"
+      },
+      {
+        "title": "그레이트 배리어 리프",
+        "subtitle": "그레이트 배리어 리프 · 주변 지역 · 현지 동선",
+        "query": "Great Barrier Reef Cairns",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-11-12"
+      },
+      {
+        "title": "쿠란다",
+        "subtitle": "쿠란다 · 주변 지역 · 현지 동선",
+        "query": "Kuranda Queensland",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-11-13"
+      },
+      {
+        "title": "데인트리 열대우림",
+        "subtitle": "데인트리 열대우림 · 주변 지역 · 현지 동선",
+        "query": "Daintree Rainforest",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-11-14"
+      },
+      {
+        "title": "케이프 트리뷸레이션",
+        "subtitle": "케이프 트리뷸레이션 · 주변 지역 · 현지 동선",
+        "query": "Cape Tribulation",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-11-15"
+      },
+      {
+        "title": "애서턴 테이블랜즈",
+        "subtitle": "애서턴 테이블랜즈 · 주변 지역 · 현지 동선",
+        "query": "Atherton Tablelands",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-11-16"
+      },
+      {
+        "title": "팜 코브",
+        "subtitle": "팜 코브 · 주변 지역 · 현지 동선",
+        "query": "Palm Cove Queensland",
+        "kind": "visit",
+        "day": 8,
+        "date": "2026-11-17"
+      },
+      {
+        "title": "케언스 출국",
+        "subtitle": "CNS · 귀국 항공편",
+        "query": "CNS airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "slug": "auckland",
+    "name": "오클랜드",
+    "code": "AKL",
+    "start": "2026-11-10",
+    "end": "2026-11-18",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "16:10",
+        "16:35+1"
+      ],
+      "airline": "동방항공",
+      "duration": "20시간 25분",
+      "route": "ICN–AKL",
+      "stops": "경유 1회",
+      "layover": "6시간 50분 PVG",
+      "price": 1028743,
+      "raw": "오후 4:10\n – \n오후 4:35+1\n동방항공\n20시간 25분\nICN–AKL\n경유 1회\n6시간 50분 PVG\nCO2e 836kg\n+27% 배출\n₩1,028,743\n왕복"
+    },
+    "return": {
+      "times24": [
+        "22:00",
+        "15:05+1"
+      ],
+      "airline": "동방항공",
+      "duration": "21시간 5분",
+      "route": "AKL–ICN",
+      "stops": "경유 1회",
+      "layover": "6시간 25분 PVG",
+      "price": 1028852,
+      "raw": "오후 10:00\n – \n오후 3:05+1\n동방항공\n21시간 5분\nAKL–ICN\n경유 1회\n6시간 25분 PVG\nCO2e 832kg\n+25% 배출\n₩1,028,852\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → AKL · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-11-10"
+      },
+      {
+        "title": "오클랜드 도착",
+        "subtitle": "AKL · 숙소 체크인 · 첫 산책",
+        "query": "auckland skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2026-11-11"
+      },
+      {
+        "title": "스카이 타워",
+        "subtitle": "스카이 타워 · 주변 지역 · 현지 동선",
+        "query": "Sky Tower Auckland",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-11-12"
+      },
+      {
+        "title": "바이어덕트 하버",
+        "subtitle": "바이어덕트 하버 · 주변 지역 · 현지 동선",
+        "query": "Viaduct Harbour Auckland",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-11-13"
+      },
+      {
+        "title": "와이헤케섬",
+        "subtitle": "와이헤케섬 · 주변 지역 · 현지 동선",
+        "query": "Waiheke Island",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-11-14"
+      },
+      {
+        "title": "마운트 이든",
+        "subtitle": "마운트 이든 · 주변 지역 · 현지 동선",
+        "query": "Mount Eden Auckland",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-11-15"
+      },
+      {
+        "title": "오클랜드 박물관",
+        "subtitle": "오클랜드 박물관 · 주변 지역 · 현지 동선",
+        "query": "Auckland War Memorial Museum",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-11-16"
+      },
+      {
+        "title": "피하 비치",
+        "subtitle": "피하 비치 · 주변 지역 · 현지 동선",
+        "query": "Piha Beach",
+        "kind": "visit",
+        "day": 8,
+        "date": "2026-11-17"
+      },
+      {
+        "title": "오클랜드 출국",
+        "subtitle": "AKL · 귀국 항공편",
+        "query": "AKL airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "slug": "queenstown",
+    "name": "퀸스타운",
+    "code": "ZQN",
+    "start": "2026-11-10",
+    "end": "2026-11-18",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "08:50",
+        "13:30+1"
+      ],
+      "airline": "싱가포르항공, 뉴질랜드항공",
+      "duration": "24시간 40분",
+      "route": "ICN–ZQN",
+      "stops": "경유 2회",
+      "layover": "SIN, AKL",
+      "price": 1941685,
+      "raw": "오전 8:50\n – \n오후 1:30+1\n싱가포르항공, 뉴질랜드항공\n24시간 40분\nICN–ZQN\n경유 2회\nSIN, AKL\nCO2e 884kg\n+32% 배출\n₩1,941,685\n왕복"
+    },
+    "return": {
+      "times24": [
+        "07:00",
+        "15:40+1"
+      ],
+      "airline": "뉴질랜드항공, 싱가포르항공",
+      "duration": "36시간 40분",
+      "route": "ZQN–ICN",
+      "stops": "경유 2회",
+      "layover": "AKL, SIN",
+      "price": 1941685,
+      "raw": "오전 7:00\n – \n오후 3:40+1\n뉴질랜드항공, 싱가포르항공\n36시간 40분\nZQN–ICN\n경유 2회\nAKL, SIN\nCO2e 928kg\n+32% 배출\n₩1,941,685\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → ZQN · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-11-10"
+      },
+      {
+        "title": "퀸스타운 도착",
+        "subtitle": "ZQN · 숙소 체크인 · 첫 산책",
+        "query": "queenstown skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2026-11-11"
+      },
+      {
+        "title": "와카티푸 호수",
+        "subtitle": "와카티푸 호수 · 주변 지역 · 현지 동선",
+        "query": "Lake Wakatipu",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-11-12"
+      },
+      {
+        "title": "스카이라인 곤돌라",
+        "subtitle": "스카이라인 곤돌라 · 주변 지역 · 현지 동선",
+        "query": "Queenstown Skyline Gondola",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-11-13"
+      },
+      {
+        "title": "밀포드 사운드",
+        "subtitle": "밀포드 사운드 · 주변 지역 · 현지 동선",
+        "query": "Milford Sound",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-11-14"
+      },
+      {
+        "title": "글레노키",
+        "subtitle": "글레노키 · 주변 지역 · 현지 동선",
+        "query": "Glenorchy New Zealand",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-11-15"
+      },
+      {
+        "title": "애로타운",
+        "subtitle": "애로타운 · 주변 지역 · 현지 동선",
+        "query": "Arrowtown",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-11-16"
+      },
+      {
+        "title": "카와라우 브리지",
+        "subtitle": "카와라우 브리지 · 주변 지역 · 현지 동선",
+        "query": "Kawarau Bridge",
+        "kind": "visit",
+        "day": 8,
+        "date": "2026-11-17"
+      },
+      {
+        "title": "퀸스타운 출국",
+        "subtitle": "ZQN · 귀국 항공편",
+        "query": "ZQN airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "slug": "guam",
+    "name": "괌",
+    "code": "GUM",
+    "start": "2026-10-20",
+    "end": "2026-10-28",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "19:25",
+        "01:00+1"
+      ],
+      "airline": "에어서울",
+      "duration": "4시간 35분",
+      "route": "ICN–GUM",
+      "stops": "직항",
+      "layover": null,
+      "price": 278681,
+      "raw": "오후 7:25\n – \n오전 1:00+1\n에어서울\n4시간 35분\nICN–GUM\n직항\nCO2e 295kg\n-13% 배출\n₩278,681\n왕복"
+    },
+    "return": {
+      "times24": [
+        "02:20",
+        "06:10"
+      ],
+      "airline": "진에어",
+      "duration": "4시간 50분",
+      "route": "GUM–ICN",
+      "stops": "직항",
+      "layover": null,
+      "price": 278681,
+      "raw": "오전 2:20\n – \n오전 6:10\n다구간 항공권\n진에어\n4시간 50분\nGUM–ICN\n직항\nCO2e 266kg\n-21% 배출\n₩278,681\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → GUM · 직항",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-10-20"
+      },
+      {
+        "title": "괌 도착",
+        "subtitle": "GUM · 숙소 체크인 · 첫 산책",
+        "query": "guam skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2026-10-21"
+      },
+      {
+        "title": "투몬 베이",
+        "subtitle": "투몬 베이 · 주변 지역 · 현지 동선",
+        "query": "Tumon Bay Guam",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-10-22"
+      },
+      {
+        "title": "사랑의 절벽",
+        "subtitle": "사랑의 절벽 · 주변 지역 · 현지 동선",
+        "query": "Two Lovers Point Guam",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-10-23"
+      },
+      {
+        "title": "리티디안 비치",
+        "subtitle": "리티디안 비치 · 주변 지역 · 현지 동선",
+        "query": "Ritidian Point Guam",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-10-24"
+      },
+      {
+        "title": "하갓냐",
+        "subtitle": "하갓냐 · 주변 지역 · 현지 동선",
+        "query": "Hagatna Guam",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-10-25"
+      },
+      {
+        "title": "피시 아이 마린파크",
+        "subtitle": "피시 아이 마린파크 · 주변 지역 · 현지 동선",
+        "query": "Fish Eye Marine Park Guam",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-10-26"
+      },
+      {
+        "title": "코코스섬",
+        "subtitle": "코코스섬 · 주변 지역 · 현지 동선",
+        "query": "Cocos Island Guam",
+        "kind": "visit",
+        "day": 8,
+        "date": "2026-10-27"
+      },
+      {
+        "title": "괌 출국",
+        "subtitle": "GUM · 귀국 항공편",
+        "query": "GUM airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2026-10-28"
+      }
+    ]
+  },
+  {
+    "slug": "bali",
+    "name": "발리",
+    "code": "DPS",
+    "start": "2026-11-18",
+    "end": "2026-11-26",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "11:30",
+        "10:10+1"
+      ],
+      "airline": "스쿳항공",
+      "duration": "23시간 40분",
+      "route": "ICN–DPS",
+      "stops": "경유 1회",
+      "layover": "14시간 SIN",
+      "price": 484547,
+      "raw": "오전 11:30\n – \n오전 10:10+1\n스쿳항공\n23시간 40분\nICN–DPS\n경유 1회\n14시간 SIN\nCO2e 416kg\n평균 배출량\n₩484,547\n왕복"
+    },
+    "return": {
+      "times24": [
+        "10:30",
+        "22:00"
+      ],
+      "airline": "싱가포르항공",
+      "duration": "10시간 30분",
+      "route": "DPS–ICN",
+      "stops": "경유 1회",
+      "layover": "1시간 25분 SIN",
+      "price": 687900,
+      "raw": "오전 10:30\n – \n오후 10:00\n싱가포르항공\n10시간 30분\nDPS–ICN\n경유 1회\n1시간 25분 SIN\nCO2e 390kg\n-17% 배출\n₩687,900\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → DPS · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-11-18"
+      },
+      {
+        "title": "발리 도착",
+        "subtitle": "DPS · 숙소 체크인 · 첫 산책",
+        "query": "bali skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2026-11-19"
+      },
+      {
+        "title": "우붓 왕궁",
+        "subtitle": "우붓 왕궁 · 주변 지역 · 현지 동선",
+        "query": "Ubud Palace",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-11-20"
+      },
+      {
+        "title": "뜨갈랄랑 계단식 논",
+        "subtitle": "뜨갈랄랑 계단식 논 · 주변 지역 · 현지 동선",
+        "query": "Tegalalang Rice Terrace",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-11-21"
+      },
+      {
+        "title": "티르타 엠풀",
+        "subtitle": "티르타 엠풀 · 주변 지역 · 현지 동선",
+        "query": "Tirta Empul",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-11-22"
+      },
+      {
+        "title": "울루와투 사원",
+        "subtitle": "울루와투 사원 · 주변 지역 · 현지 동선",
+        "query": "Uluwatu Temple",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-11-23"
+      },
+      {
+        "title": "타나롯 사원",
+        "subtitle": "타나롯 사원 · 주변 지역 · 현지 동선",
+        "query": "Tanah Lot",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-11-24"
+      },
+      {
+        "title": "누사 페니다",
+        "subtitle": "누사 페니다 · 주변 지역 · 현지 동선",
+        "query": "Nusa Penida",
+        "kind": "visit",
+        "day": 8,
+        "date": "2026-11-25"
+      },
+      {
+        "title": "발리 출국",
+        "subtitle": "DPS · 귀국 항공편",
+        "query": "DPS airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "slug": "cebu",
+    "name": "세부",
+    "code": "CEB",
+    "start": "2026-11-18",
+    "end": "2026-11-26",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "06:40",
+        "19:20"
+      ],
+      "airline": "세부퍼시픽",
+      "duration": "13시간 40분",
+      "route": "ICN–CEB",
+      "stops": "경유 1회",
+      "layover": "7시간 45분 MNL",
+      "price": 474200,
+      "raw": "오전 6:40\n – \n오후 7:20\n세부퍼시픽\n13시간 40분\nICN–CEB\n경유 1회\n7시간 45분 MNL\nCO2e 223kg\n-17% 배출\n₩474,200\n왕복"
+    },
+    "return": {
+      "times24": [
+        "12:25",
+        "21:25"
+      ],
+      "airline": "캐세이패시픽항공",
+      "duration": "8시간",
+      "route": "CEB–ICN",
+      "stops": "경유 1회",
+      "layover": "1시간 30분 HKG",
+      "price": 496800,
+      "raw": "오후 12:25\n – \n오후 9:25\n캐세이패시픽항공\n8시간\nCEB–ICN\n경유 1회\n1시간 30분 HKG\nCO2e 280kg\n평균 배출량\n₩496,800\n왕복"
+    },
+    "days": [
+      {
+        "title": "세부 이동·도착",
+        "subtitle": "ICN → CEB · 경유 1회",
+        "query": "cebu skyline",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-11-18"
+      },
+      {
+        "title": "마젤란의 십자가",
+        "subtitle": "마젤란의 십자가 · 주변 지역 · 현지 동선",
+        "query": "Magellan Cross Cebu",
+        "kind": "visit",
+        "day": 2,
+        "date": "2026-11-19"
+      },
+      {
+        "title": "산토니뇨 성당",
+        "subtitle": "산토니뇨 성당 · 주변 지역 · 현지 동선",
+        "query": "Basilica del Santo Nino Cebu",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-11-20"
+      },
+      {
+        "title": "카와산 폭포",
+        "subtitle": "카와산 폭포 · 주변 지역 · 현지 동선",
+        "query": "Kawasan Falls",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-11-21"
+      },
+      {
+        "title": "모알보알",
+        "subtitle": "모알보알 · 주변 지역 · 현지 동선",
+        "query": "Moalboal Cebu",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-11-22"
+      },
+      {
+        "title": "오슬롭",
+        "subtitle": "오슬롭 · 주변 지역 · 현지 동선",
+        "query": "Oslob Cebu",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-11-23"
+      },
+      {
+        "title": "초콜릿 힐",
+        "subtitle": "초콜릿 힐 · 주변 지역 · 현지 동선",
+        "query": "Chocolate Hills Bohol",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-11-24"
+      },
+      {
+        "title": "막탄섬",
+        "subtitle": "막탄섬 · 주변 지역 · 현지 동선",
+        "query": "Mactan Island",
+        "kind": "visit",
+        "day": 8,
+        "date": "2026-11-25"
+      },
+      {
+        "title": "세부 출국",
+        "subtitle": "CEB · 귀국 항공편",
+        "query": "Mactan Cebu International Airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "slug": "dubai",
+    "name": "두바이",
+    "code": "DXB",
+    "start": "2027-01-15",
+    "end": "2027-01-23",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "06:40",
+        "18:10"
+      ],
+      "airline": "세부퍼시픽",
+      "duration": "16시간 30분",
+      "route": "ICN–DXB",
+      "stops": "경유 1회",
+      "layover": "2시간 25분 MNL",
+      "price": 1059900,
+      "raw": "오전 6:40\n – \n오후 6:10\n세부퍼시픽\n16시간 30분\nICN–DXB\n경유 1회\n2시간 25분 MNL\nCO2e 514kg\n-15% 배출\n₩1,059,900\n왕복"
+    },
+    "return": {
+      "times24": [
+        "22:50",
+        "17:15+1"
+      ],
+      "airline": "카타르항공",
+      "duration": "13시간 25분",
+      "route": "DXB–ICN",
+      "stops": "경유 1회",
+      "layover": "3시간 35분 DOH",
+      "price": 1131300,
+      "raw": "오후 10:50\n – \n오후 5:15+1\n카타르항공\n13시간 25분\nDXB–ICN\n경유 1회\n3시간 35분 DOH\nCO2e 487kg\n-6% 배출\n₩1,131,300\n왕복"
+    },
+    "days": [
+      {
+        "title": "두바이 이동·도착",
+        "subtitle": "ICN → DXB · 경유 1회",
+        "query": "dubai skyline",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-15"
+      },
+      {
+        "title": "부르즈 할리파",
+        "subtitle": "부르즈 할리파 · 주변 지역 · 현지 동선",
+        "query": "Burj Khalifa",
+        "kind": "visit",
+        "day": 2,
+        "date": "2027-01-16"
+      },
+      {
+        "title": "알 파히디",
+        "subtitle": "알 파히디 · 주변 지역 · 현지 동선",
+        "query": "Al Fahidi Historical Neighbourhood",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-17"
+      },
+      {
+        "title": "두바이 크릭",
+        "subtitle": "두바이 크릭 · 주변 지역 · 현지 동선",
+        "query": "Dubai Creek",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-18"
+      },
+      {
+        "title": "팜 주메이라",
+        "subtitle": "팜 주메이라 · 주변 지역 · 현지 동선",
+        "query": "Palm Jumeirah",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-19"
+      },
+      {
+        "title": "두바이 사막",
+        "subtitle": "두바이 사막 · 주변 지역 · 현지 동선",
+        "query": "Dubai desert safari",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "미래 박물관",
+        "subtitle": "미래 박물관 · 주변 지역 · 현지 동선",
+        "query": "Museum of the Future Dubai",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "두바이 마리나",
+        "subtitle": "두바이 마리나 · 주변 지역 · 현지 동선",
+        "query": "Dubai Marina",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "두바이 출국",
+        "subtitle": "DXB · 귀국 항공편",
+        "query": "DXB airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-01-23"
+      }
+    ]
+  },
+  {
+    "slug": "istanbul",
+    "name": "이스탄불",
+    "code": "IST",
+    "start": "2027-01-15",
+    "end": "2027-01-23",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "17:50",
+        "12:50+1"
+      ],
+      "airline": "에티하드항공",
+      "duration": "25시간",
+      "route": "ICN–IST",
+      "stops": "경유 1회",
+      "layover": "9시간 20분 AUH",
+      "price": 927500,
+      "raw": "오후 5:50\n – \n오후 12:50+1\n에티하드항공\n25시간\nICN–IST\n경유 1회\n9시간 20분 AUH\nCO2e 637kg\n평균 배출량\n₩927,500\n왕복"
+    },
+    "return": {
+      "times24": [
+        "13:50",
+        "17:15+1"
+      ],
+      "airline": "카타르항공",
+      "duration": "21시간 25분",
+      "route": "IST–ICN",
+      "stops": "경유 1회",
+      "layover": "8시간 35분 DOH",
+      "price": 965900,
+      "raw": "오후 1:50\n – \n오후 5:15+1\n카타르항공\n21시간 25분\nIST–ICN\n경유 1회\n8시간 35분 DOH\nCO2e 669kg\n+15% 배출\n₩965,900\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → IST · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-15"
+      },
+      {
+        "title": "이스탄불 도착",
+        "subtitle": "IST · 숙소 체크인 · 첫 산책",
+        "query": "istanbul skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-16"
+      },
+      {
+        "title": "술탄아흐메트",
+        "subtitle": "술탄아흐메트 · 주변 지역 · 현지 동선",
+        "query": "Sultanahmet Istanbul",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-17"
+      },
+      {
+        "title": "아야 소피아",
+        "subtitle": "아야 소피아 · 주변 지역 · 현지 동선",
+        "query": "Hagia Sophia",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-18"
+      },
+      {
+        "title": "톱카프 궁전",
+        "subtitle": "톱카프 궁전 · 주변 지역 · 현지 동선",
+        "query": "Topkapi Palace",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-19"
+      },
+      {
+        "title": "그랜드 바자르",
+        "subtitle": "그랜드 바자르 · 주변 지역 · 현지 동선",
+        "query": "Grand Bazaar Istanbul",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "보스포루스",
+        "subtitle": "보스포루스 · 주변 지역 · 현지 동선",
+        "query": "Bosphorus Istanbul",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "갈라타",
+        "subtitle": "갈라타 · 주변 지역 · 현지 동선",
+        "query": "Galata Tower",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "이스탄불 출국",
+        "subtitle": "IST · 귀국 항공편",
+        "query": "IST airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-01-23"
+      }
+    ]
+  },
+  {
+    "slug": "kathmandu",
+    "name": "카트만두",
+    "code": "KTM",
+    "start": "2027-02-01",
+    "end": "2027-02-09",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "12:05",
+        "20:40"
+      ],
+      "airline": "에어인디아",
+      "duration": "11시간 50분",
+      "route": "ICN–KTM",
+      "stops": "경유 1회",
+      "layover": "1시간 DEL",
+      "price": 717500,
+      "raw": "오후 12:05\n – \n오후 8:40\n에어인디아\n11시간 50분\nICN–KTM\n경유 1회\n1시간 DEL\nCO2e 484kg\n평균 배출량\n₩717,500\n왕복"
+    },
+    "return": {
+      "times24": [
+        "14:55",
+        "10:30+1"
+      ],
+      "airline": "에어인디아",
+      "duration": "16시간 20분",
+      "route": "KTM–ICN",
+      "stops": "경유 1회",
+      "layover": "7시간 40분 DEL",
+      "price": 717500,
+      "raw": "오후 2:55\n – \n오전 10:30+1\n에어인디아\n16시간 20분\nKTM–ICN\n경유 1회\n7시간 40분 DEL\nCO2e 483kg\n평균 배출량\n₩717,500\n왕복"
+    },
+    "days": [
+      {
+        "title": "카트만두 이동·도착",
+        "subtitle": "ICN → KTM · 경유 1회",
+        "query": "kathmandu skyline",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-02-01"
+      },
+      {
+        "title": "카트만두 더르바르 광장",
+        "subtitle": "카트만두 더르바르 광장 · 주변 지역 · 현지 동선",
+        "query": "Kathmandu Durbar Square",
+        "kind": "visit",
+        "day": 2,
+        "date": "2027-02-02"
+      },
+      {
+        "title": "스와얌부나트",
+        "subtitle": "스와얌부나트 · 주변 지역 · 현지 동선",
+        "query": "Swayambhunath",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-02-03"
+      },
+      {
+        "title": "보드나트",
+        "subtitle": "보드나트 · 주변 지역 · 현지 동선",
+        "query": "Boudhanath",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-02-04"
+      },
+      {
+        "title": "파슈파티나트",
+        "subtitle": "파슈파티나트 · 주변 지역 · 현지 동선",
+        "query": "Pashupatinath Temple",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-02-05"
+      },
+      {
+        "title": "박타푸르",
+        "subtitle": "박타푸르 · 주변 지역 · 현지 동선",
+        "query": "Bhaktapur Durbar Square",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-02-06"
+      },
+      {
+        "title": "파탄",
+        "subtitle": "파탄 · 주변 지역 · 현지 동선",
+        "query": "Patan Durbar Square",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-02-07"
+      },
+      {
+        "title": "나가르코트",
+        "subtitle": "나가르코트 · 주변 지역 · 현지 동선",
+        "query": "Nagarkot Nepal",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-02-08"
+      },
+      {
+        "title": "카트만두 출국",
+        "subtitle": "KTM · 귀국 항공편",
+        "query": "KTM airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-02-09"
+      }
+    ]
+  },
+  {
+    "slug": "cairo",
+    "name": "카이로",
+    "code": "CAI",
+    "start": "2027-01-20",
+    "end": "2027-01-28",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "17:50",
+        "04:50+1"
+      ],
+      "airline": "에티하드항공",
+      "duration": "18시간",
+      "route": "ICN–CAI",
+      "stops": "경유 1회",
+      "layover": "3시간 20분 AUH",
+      "price": 974400,
+      "raw": "오후 5:50\n – \n오전 4:50+1\n에티하드항공\n18시간\nICN–CAI\n경유 1회\n3시간 20분 AUH\nCO2e 600kg\n평균 배출량\n₩974,400\n왕복"
+    },
+    "return": {
+      "times24": [
+        "07:25",
+        "10:45+1"
+      ],
+      "airline": "에티하드항공",
+      "duration": "20시간 20분",
+      "route": "CAI–ICN",
+      "stops": "경유 1회",
+      "layover": "8시간 35분 AUH",
+      "price": 974400,
+      "raw": "오전 7:25\n – \n오전 10:45+1\n에티하드항공\n20시간 20분\nCAI–ICN\n경유 1회\n8시간 35분 AUH\nCO2e 602kg\n-7% 배출\n₩974,400\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → CAI · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "카이로 도착",
+        "subtitle": "CAI · 숙소 체크인 · 첫 산책",
+        "query": "cairo skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "기자 피라미드",
+        "subtitle": "기자 피라미드 · 주변 지역 · 현지 동선",
+        "query": "Giza pyramid complex",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "이집트 박물관",
+        "subtitle": "이집트 박물관 · 주변 지역 · 현지 동선",
+        "query": "Egyptian Museum Cairo",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "이슬람 카이로",
+        "subtitle": "이슬람 카이로 · 주변 지역 · 현지 동선",
+        "query": "Islamic Cairo",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "콥트 카이로",
+        "subtitle": "콥트 카이로 · 주변 지역 · 현지 동선",
+        "query": "Coptic Cairo",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "사카라",
+        "subtitle": "사카라 · 주변 지역 · 현지 동선",
+        "query": "Saqqara",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "칸 엘 칼릴리",
+        "subtitle": "칸 엘 칼릴리 · 주변 지역 · 현지 동선",
+        "query": "Khan el-Khalili",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-27"
+      },
+      {
+        "title": "카이로 출국",
+        "subtitle": "CAI · 귀국 항공편",
+        "query": "CAI airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-01-28"
+      }
+    ]
+  },
+  {
+    "slug": "maldives",
+    "name": "몰디브",
+    "code": "MLE",
+    "start": "2027-02-01",
+    "end": "2027-02-09",
+    "region": "WORLD PICKS",
+    "outbound": {
+      "times24": [
+        "12:05",
+        "11:50+1"
+      ],
+      "airline": "에어인디아",
+      "duration": "27시간 45분",
+      "route": "ICN–MLE",
+      "stops": "경유 1회",
+      "layover": "14시간 25분 DEL",
+      "price": 1020615,
+      "raw": "오후 12:05\n – \n오전 11:50+1\n에어인디아\n27시간 45분\nICN–MLE\n경유 1회\n14시간 25분 DEL\nCO2e 583kg\n평균 배출량\n₩1,020,615\n왕복"
+    },
+    "return": {
+      "times24": [
+        "12:50",
+        "10:30+1"
+      ],
+      "airline": "에어인디아",
+      "duration": "17시간 40분",
+      "route": "MLE–ICN",
+      "stops": "경유 1회",
+      "layover": "6시간 40분 DEL",
+      "price": 1020615,
+      "raw": "오후 12:50\n – \n오전 10:30+1\n에어인디아\n17시간 40분\nMLE–ICN\n경유 1회\n6시간 40분 DEL\nCO2e 590kg\n평균 배출량\n₩1,020,615\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → MLE · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-02-01"
+      },
+      {
+        "title": "몰디브 도착",
+        "subtitle": "MLE · 숙소 체크인 · 첫 산책",
+        "query": "maldives skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-02-02"
+      },
+      {
+        "title": "말레",
+        "subtitle": "말레 · 주변 지역 · 현지 동선",
+        "query": "Male Maldives",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-02-03"
+      },
+      {
+        "title": "훌루말레",
+        "subtitle": "훌루말레 · 주변 지역 · 현지 동선",
+        "query": "Hulhumale Maldives",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-02-04"
+      },
+      {
+        "title": "마푸시",
+        "subtitle": "마푸시 · 주변 지역 · 현지 동선",
+        "query": "Maafushi Maldives",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-02-05"
+      },
+      {
+        "title": "굴히",
+        "subtitle": "굴히 · 주변 지역 · 현지 동선",
+        "query": "Gulhi Maldives",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-02-06"
+      },
+      {
+        "title": "바두섬",
+        "subtitle": "바두섬 · 주변 지역 · 현지 동선",
+        "query": "Vaadhoo Island Maldives",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-02-07"
+      },
+      {
+        "title": "몰디브 하우스리프",
+        "subtitle": "몰디브 하우스리프 · 주변 지역 · 현지 동선",
+        "query": "Maldives coral reef",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-02-08"
+      },
+      {
+        "title": "몰디브 출국",
+        "subtitle": "MLE · 귀국 항공편",
+        "query": "MLE airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-02-09"
+      }
+    ]
+  }
+]

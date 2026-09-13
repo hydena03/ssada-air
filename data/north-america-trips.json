@@ -1,0 +1,1606 @@
+[
+  {
+    "slug": "vancouver",
+    "name": "밴쿠버",
+    "code": "YVR",
+    "start": "2026-10-16",
+    "end": "2026-10-25",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "20:45",
+        "07:40+1"
+      ],
+      "airline": "웨스트젯",
+      "duration": "26시간 55분",
+      "route": "ICN–YVR",
+      "stops": "경유 1회",
+      "layover": "14시간 45분 YYC",
+      "price": 1076779,
+      "raw": "오후 8:45\n – \n오전 7:40+1\n웨스트젯\n26시간 55분\nICN–YVR\n경유 1회\n14시간 45분 YYC\nCO2e 558kg\n+7% 배출\n₩1,076,779\n왕복"
+    },
+    "return": {
+      "times24": [
+        "01:15",
+        "05:30+1"
+      ],
+      "airline": "티웨이항공",
+      "duration": "12시간 15분",
+      "route": "YVR–ICN",
+      "stops": "직항",
+      "layover": null,
+      "price": 1076779,
+      "raw": "오전 1:15\n – \n오전 5:30+1\n다구간 항공권\n티웨이항공\n12시간 15분\nYVR–ICN\n직항\nCO2e 481kg\n-20% 배출\n₩1,076,779\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → YVR · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-10-16"
+      },
+      {
+        "title": "밴쿠버 도착",
+        "subtitle": "YVR · 숙소 체크인 · 첫 산책",
+        "query": "vancouver skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2026-10-17"
+      },
+      {
+        "title": "개스타운",
+        "subtitle": "개스타운 · 주변 지역 · 현지 동선",
+        "query": "Gastown Vancouver",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-10-18"
+      },
+      {
+        "title": "스탠리 파크",
+        "subtitle": "스탠리 파크 · 주변 지역 · 현지 동선",
+        "query": "Stanley Park Vancouver",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-10-19"
+      },
+      {
+        "title": "그랜빌 아일랜드",
+        "subtitle": "그랜빌 아일랜드 · 주변 지역 · 현지 동선",
+        "query": "Granville Island Vancouver",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-10-20"
+      },
+      {
+        "title": "캐필라노 현수교",
+        "subtitle": "캐필라노 현수교 · 주변 지역 · 현지 동선",
+        "query": "Capilano Suspension Bridge",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-10-21"
+      },
+      {
+        "title": "휘슬러",
+        "subtitle": "휘슬러 · 주변 지역 · 현지 동선",
+        "query": "Whistler British Columbia",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-10-22"
+      },
+      {
+        "title": "밴쿠버 미술관",
+        "subtitle": "밴쿠버 미술관 · 주변 지역 · 현지 동선",
+        "query": "Vancouver Art Gallery",
+        "kind": "visit",
+        "day": 8,
+        "date": "2026-10-23"
+      },
+      {
+        "title": "빅토리아 이너하버",
+        "subtitle": "빅토리아 이너하버 · 주변 지역 · 현지 동선",
+        "query": "Victoria Inner Harbour",
+        "kind": "visit",
+        "day": 9,
+        "date": "2026-10-24"
+      },
+      {
+        "title": "밴쿠버 출국",
+        "subtitle": "YVR · 귀국 항공편",
+        "query": "YVR airport",
+        "kind": "return",
+        "day": 10,
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "slug": "toronto",
+    "name": "토론토",
+    "code": "YYZ",
+    "start": "2026-11-20",
+    "end": "2026-11-27",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "11:40",
+        "20:20"
+      ],
+      "airline": "에바항공",
+      "duration": "22시간 40분",
+      "route": "ICN–YYZ",
+      "stops": "경유 1회",
+      "layover": "5시간 50분 TPE",
+      "price": 1743852,
+      "raw": "오전 11:40\n – \n오후 8:20\n에바항공\n22시간 40분\nICN–YYZ\n경유 1회\n5시간 50분 TPE\nCO2e 1,136kg\n+60% 배출\n₩1,743,852\n왕복"
+    },
+    "return": {
+      "times24": [
+        "08:45",
+        "17:10+1"
+      ],
+      "airline": "에어캐나다",
+      "duration": "18시간 25분",
+      "route": "YYZ–ICN",
+      "stops": "경유 1회",
+      "layover": "1시간 25분 YVR",
+      "price": 1743852,
+      "raw": "오전 8:45\n – \n오후 5:10+1\n다구간 항공권\n에어캐나다\n18시간 25분\nYYZ–ICN\n경유 1회\n1시간 25분 YVR\nCO2e 678kg\n평균 배출량\n₩1,743,852\n왕복"
+    },
+    "days": [
+      {
+        "title": "토론토 이동·도착",
+        "subtitle": "ICN → YYZ · 경유 1회",
+        "query": "YYZ airport",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-11-20"
+      },
+      {
+        "title": "CN 타워",
+        "subtitle": "CN 타워 · 주변 지역 · 현지 동선",
+        "query": "CN Tower landmark Toronto",
+        "kind": "visit",
+        "day": 2,
+        "date": "2026-11-21"
+      },
+      {
+        "title": "토론토 아일랜드",
+        "subtitle": "토론토 아일랜드 · 주변 지역 · 현지 동선",
+        "query": "Toronto Islands",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-11-22"
+      },
+      {
+        "title": "디스틸러리 디스트릭트",
+        "subtitle": "디스틸러리 디스트릭트 · 주변 지역 · 현지 동선",
+        "query": "Distillery District Toronto",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-11-23"
+      },
+      {
+        "title": "나이아가라 폭포",
+        "subtitle": "나이아가라 폭포 · 주변 지역 · 현지 동선",
+        "query": "Niagara Falls Horseshoe Falls Ontario",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-11-24"
+      },
+      {
+        "title": "로열 온타리오 박물관",
+        "subtitle": "로열 온타리오 박물관 · 주변 지역 · 현지 동선",
+        "query": "Royal Ontario Museum",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-11-25"
+      },
+      {
+        "title": "켄싱턴 마켓",
+        "subtitle": "켄싱턴 마켓 · 주변 지역 · 현지 동선",
+        "query": "Kensington Market Toronto",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-11-26"
+      },
+      {
+        "title": "토론토 출국",
+        "subtitle": "YYZ · 귀국 항공편",
+        "query": "Toronto Pearson International Airport terminal",
+        "kind": "return",
+        "day": 8,
+        "date": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "slug": "montreal",
+    "name": "몬트리올",
+    "code": "YUL",
+    "start": "2026-11-20",
+    "end": "2026-11-27",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "18:55",
+        "07:10+1"
+      ],
+      "airline": "에어캐나다",
+      "duration": "26시간 15분",
+      "route": "ICN–YUL",
+      "stops": "경유 1회",
+      "layover": "11시간 30분 YVR",
+      "price": 1986900,
+      "raw": "오후 6:55\n – \n오전 7:10+1\n에어캐나다\n26시간 15분\nICN–YUL\n경유 1회\n11시간 30분 YVR\nCO2e 779kg\n+9% 배출\n₩1,986,900\n왕복"
+    },
+    "return": {
+      "times24": [
+        "08:45",
+        "17:10+1"
+      ],
+      "airline": "에어캐나다",
+      "duration": "18시간 25분",
+      "route": "YUL–ICN",
+      "stops": "경유 1회",
+      "layover": "1시간 YVR",
+      "price": 1997900,
+      "raw": "오전 8:45\n – \n오후 5:10+1\n에어캐나다\n18시간 25분\nYUL–ICN\n경유 1회\n1시간 YVR\nCO2e 651kg\n-8% 배출\n₩1,997,900\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → YUL · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-11-20"
+      },
+      {
+        "title": "몬트리올 도착",
+        "subtitle": "YUL · 숙소 체크인 · 첫 산책",
+        "query": "Montreal skyline Canada",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2026-11-21"
+      },
+      {
+        "title": "올드 몬트리올",
+        "subtitle": "올드 몬트리올 · 주변 지역 · 현지 동선",
+        "query": "Old Montreal",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-11-22"
+      },
+      {
+        "title": "몽루아얄",
+        "subtitle": "몽루아얄 · 주변 지역 · 현지 동선",
+        "query": "Mount Royal Montreal",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-11-23"
+      },
+      {
+        "title": "플라토 몽루아얄",
+        "subtitle": "플라토 몽루아얄 · 주변 지역 · 현지 동선",
+        "query": "Plateau Mont Royal",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-11-24"
+      },
+      {
+        "title": "장탈롱 마켓",
+        "subtitle": "장탈롱 마켓 · 주변 지역 · 현지 동선",
+        "query": "Jean Talon Market",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-11-25"
+      },
+      {
+        "title": "몬트리올 미술관",
+        "subtitle": "몬트리올 미술관 · 주변 지역 · 현지 동선",
+        "query": "Montreal Museum of Fine Arts",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-11-26"
+      },
+      {
+        "title": "몬트리올 출국",
+        "subtitle": "YUL · 귀국 항공편",
+        "query": "YUL airport",
+        "kind": "return",
+        "day": 8,
+        "date": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "slug": "calgary",
+    "name": "캘거리",
+    "code": "YYC",
+    "start": "2026-10-16",
+    "end": "2026-10-25",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "20:45",
+        "16:15"
+      ],
+      "airline": "웨스트젯",
+      "duration": "10시간 30분",
+      "route": "ICN–YYC",
+      "stops": "직항",
+      "layover": null,
+      "price": 1297865,
+      "raw": "오후 8:45\n – \n오후 4:15\n웨스트젯\n10시간 30분\nICN–YYC\n직항\nCO2e 488kg\n-8% 배출\n₩1,297,865\n왕복"
+    },
+    "return": {
+      "times24": [
+        "09:40",
+        "16:10+1"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Express - Jazz",
+      "duration": "15시간 30분",
+      "route": "YYC–ICN",
+      "stops": "경유 1회",
+      "layover": "1시간 57분 YVR",
+      "price": 1297865,
+      "raw": "오전 9:40\n – \n오후 4:10+1\n다구간 항공권\n에어캐나다운항사: Air Canada Express - Jazz\n15시간 30분\nYYC–ICN\n경유 1회\n1시간 57분 YVR\nCO2e 543kg\n평균 배출량\n₩1,297,865\n왕복"
+    },
+    "days": [
+      {
+        "title": "캘거리 이동·도착",
+        "subtitle": "ICN → YYC · 직항",
+        "query": "YYC airport",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2026-10-16"
+      },
+      {
+        "title": "캘거리 타워",
+        "subtitle": "캘거리 타워 · 주변 지역 · 현지 동선",
+        "query": "Calgary Tower",
+        "kind": "visit",
+        "day": 2,
+        "date": "2026-10-17"
+      },
+      {
+        "title": "밴프",
+        "subtitle": "밴프 · 주변 지역 · 현지 동선",
+        "query": "Banff Alberta",
+        "kind": "visit",
+        "day": 3,
+        "date": "2026-10-18"
+      },
+      {
+        "title": "레이크 루이스",
+        "subtitle": "레이크 루이스 · 주변 지역 · 현지 동선",
+        "query": "Lake Louise Alberta",
+        "kind": "visit",
+        "day": 4,
+        "date": "2026-10-19"
+      },
+      {
+        "title": "아이스필즈 파크웨이",
+        "subtitle": "아이스필즈 파크웨이 · 주변 지역 · 현지 동선",
+        "query": "Icefields Parkway",
+        "kind": "visit",
+        "day": 5,
+        "date": "2026-10-20"
+      },
+      {
+        "title": "재스퍼",
+        "subtitle": "재스퍼 · 주변 지역 · 현지 동선",
+        "query": "Jasper National Park",
+        "kind": "visit",
+        "day": 6,
+        "date": "2026-10-21"
+      },
+      {
+        "title": "드럼헬러",
+        "subtitle": "드럼헬러 · 주변 지역 · 현지 동선",
+        "query": "Drumheller badlands Alberta",
+        "kind": "visit",
+        "day": 7,
+        "date": "2026-10-22"
+      },
+      {
+        "title": "헤리티지 파크",
+        "subtitle": "헤리티지 파크 · 주변 지역 · 현지 동선",
+        "query": "Heritage Park Calgary",
+        "kind": "visit",
+        "day": 8,
+        "date": "2026-10-23"
+      },
+      {
+        "title": "카나나스키스",
+        "subtitle": "카나나스키스 · 주변 지역 · 현지 동선",
+        "query": "Kananaskis Alberta",
+        "kind": "visit",
+        "day": 9,
+        "date": "2026-10-24"
+      },
+      {
+        "title": "캘거리 출국",
+        "subtitle": "YYC · 귀국 항공편",
+        "query": "YYC airport",
+        "kind": "return",
+        "day": 10,
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "slug": "mexico-city",
+    "name": "멕시코시티",
+    "code": "MEX",
+    "start": "2027-02-02",
+    "end": "2027-02-09",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "12:45",
+        "18:55"
+      ],
+      "airline": "유나이티드항공",
+      "duration": "21시간 10분",
+      "route": "ICN–MEX",
+      "stops": "경유 2회",
+      "layover": "SFO, IAH",
+      "price": 1756800,
+      "raw": "오후 12:45\n – \n오후 6:55\n유나이티드항공\n21시간 10분\nICN–MEX\n경유 2회\nSFO, IAH\nCO2e 862kg\n+8% 배출\n₩1,756,800\n왕복"
+    },
+    "return": {
+      "times24": [
+        "07:15",
+        "17:10+1"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Rouge",
+      "duration": "18시간 55분",
+      "route": "MEX–ICN",
+      "stops": "경유 1회",
+      "layover": "1시간 5분 YVR",
+      "price": 1918000,
+      "raw": "오전 7:15\n – \n오후 5:10+1\n에어캐나다운항사: Air Canada Rouge\n18시간 55분\nMEX–ICN\n경유 1회\n1시간 5분 YVR\nCO2e 698kg\n-20% 배출\n₩1,918,000\n왕복"
+    },
+    "days": [
+      {
+        "title": "멕시코시티 이동·도착",
+        "subtitle": "ICN → MEX · 경유 2회",
+        "query": "MEX airport",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-02-02"
+      },
+      {
+        "title": "소칼로",
+        "subtitle": "소칼로 · 주변 지역 · 현지 동선",
+        "query": "Zocalo Mexico City",
+        "kind": "visit",
+        "day": 2,
+        "date": "2027-02-03"
+      },
+      {
+        "title": "차풀테펙 성",
+        "subtitle": "차풀테펙 성 · 주변 지역 · 현지 동선",
+        "query": "Chapultepec Castle",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-02-04"
+      },
+      {
+        "title": "코요아칸",
+        "subtitle": "코요아칸 · 주변 지역 · 현지 동선",
+        "query": "Coyoacan Mexico City",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-02-05"
+      },
+      {
+        "title": "테오티우아칸",
+        "subtitle": "테오티우아칸 · 주변 지역 · 현지 동선",
+        "query": "Teotihuacan",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-02-06"
+      },
+      {
+        "title": "로마 노르테",
+        "subtitle": "로마 노르테 · 주변 지역 · 현지 동선",
+        "query": "Roma Norte Mexico City",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-02-07"
+      },
+      {
+        "title": "소치밀코",
+        "subtitle": "소치밀코 · 주변 지역 · 현지 동선",
+        "query": "Xochimilco",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-02-08"
+      },
+      {
+        "title": "멕시코시티 출국",
+        "subtitle": "MEX · 귀국 항공편",
+        "query": "Mexico City International Airport terminal",
+        "kind": "return",
+        "day": 8,
+        "date": "2027-02-09"
+      }
+    ]
+  },
+  {
+    "slug": "cancun",
+    "name": "칸쿤",
+    "code": "CUN",
+    "start": "2027-01-25",
+    "end": "2027-02-02",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "12:45",
+        "17:08"
+      ],
+      "airline": "유나이티드항공",
+      "duration": "18시간 23분",
+      "route": "ICN–CUN",
+      "stops": "경유 1회",
+      "layover": "2시간 15분 SFO",
+      "price": 1734300,
+      "raw": "오후 12:45\n – \n오후 5:08\n유나이티드항공\n18시간 23분\nICN–CUN\n경유 1회\n2시간 15분 SFO\nCO2e 815kg\n평균 배출량\n₩1,734,300\n왕복"
+    },
+    "return": {
+      "times24": [
+        "18:05",
+        "05:40+2"
+      ],
+      "airline": "유나이티드항공",
+      "duration": "21시간 35분",
+      "route": "CUN–ICN",
+      "stops": "경유 1회",
+      "layover": "2시간 37분 SFO",
+      "price": 1734300,
+      "raw": "오후 6:05\n – \n오전 5:40+2\n유나이티드항공\n21시간 35분\nCUN–ICN\n경유 1회\n2시간 37분 SFO\nCO2e 998kg\n평균 배출량\n₩1,734,300\n왕복"
+    },
+    "days": [
+      {
+        "title": "칸쿤 이동·도착",
+        "subtitle": "ICN → CUN · 경유 1회",
+        "query": "CUN airport",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "칸쿤 호텔존",
+        "subtitle": "칸쿤 호텔존 · 주변 지역 · 현지 동선",
+        "query": "Cancun Hotel Zone",
+        "kind": "visit",
+        "day": 2,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "이슬라 무헤레스",
+        "subtitle": "이슬라 무헤레스 · 주변 지역 · 현지 동선",
+        "query": "Isla Mujeres",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-27"
+      },
+      {
+        "title": "치첸이트사",
+        "subtitle": "치첸이트사 · 주변 지역 · 현지 동선",
+        "query": "Chichen Itza",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-28"
+      },
+      {
+        "title": "바야돌리드",
+        "subtitle": "바야돌리드 · 주변 지역 · 현지 동선",
+        "query": "Valladolid Yucatan",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-29"
+      },
+      {
+        "title": "툴룸 유적",
+        "subtitle": "툴룸 유적 · 주변 지역 · 현지 동선",
+        "query": "Tulum ruins",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-30"
+      },
+      {
+        "title": "세노테 도스 오호스",
+        "subtitle": "세노테 도스 오호스 · 주변 지역 · 현지 동선",
+        "query": "Cenote Dos Ojos",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-31"
+      },
+      {
+        "title": "플라야 델 카르멘",
+        "subtitle": "플라야 델 카르멘 · 주변 지역 · 현지 동선",
+        "query": "Playa del Carmen",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-02-01"
+      },
+      {
+        "title": "칸쿤 출국",
+        "subtitle": "CUN · 귀국 항공편",
+        "query": "CUN airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-02-02"
+      }
+    ]
+  },
+  {
+    "slug": "guadalajara",
+    "name": "과달라하라",
+    "code": "GDL",
+    "start": "2027-02-02",
+    "end": "2027-02-09",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "11:40",
+        "14:13"
+      ],
+      "airline": "멕시코항공",
+      "duration": "17시간 33분",
+      "route": "ICN–GDL",
+      "stops": "경유 1회",
+      "layover": "2시간 10분 MEX",
+      "price": 1694000,
+      "raw": "오전 11:40\n – \n오후 2:13\n멕시코항공\n17시간 33분\nICN–GDL\n경유 1회\n2시간 10분 MEX\nCO2e 806kg\n평균 배출량\n₩1,694,000\n왕복"
+    },
+    "return": {
+      "times24": [
+        "17:01",
+        "06:10+2"
+      ],
+      "airline": "멕시코항공",
+      "duration": "22시간 9분",
+      "route": "GDL–ICN",
+      "stops": "경유 2회",
+      "layover": "MEX, MTY",
+      "price": 1694000,
+      "raw": "오후 5:01\n – \n오전 6:10+2\n멕시코항공\n22시간 9분\nGDL–ICN\n경유 2회\nMEX, MTY\nCO2e 801kg\n-9% 배출\n₩1,694,000\n왕복"
+    },
+    "days": [
+      {
+        "title": "과달라하라 이동·도착",
+        "subtitle": "ICN → GDL · 경유 1회",
+        "query": "Guadalajara International Airport",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-02-02"
+      },
+      {
+        "title": "과달라하라 대성당",
+        "subtitle": "과달라하라 대성당 · 주변 지역 · 현지 동선",
+        "query": "Catedral de Guadalajara Jalisco",
+        "kind": "visit",
+        "day": 2,
+        "date": "2027-02-03"
+      },
+      {
+        "title": "호스피시오 카바냐스",
+        "subtitle": "호스피시오 카바냐스 · 주변 지역 · 현지 동선",
+        "query": "Hospicio Cabanas",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-02-04"
+      },
+      {
+        "title": "틀라케파케",
+        "subtitle": "틀라케파케 · 주변 지역 · 현지 동선",
+        "query": "Tlaquepaque Jalisco",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-02-05"
+      },
+      {
+        "title": "테킬라",
+        "subtitle": "테킬라 · 주변 지역 · 현지 동선",
+        "query": "Tequila Jalisco",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-02-06"
+      },
+      {
+        "title": "차팔라 호수",
+        "subtitle": "차팔라 호수 · 주변 지역 · 현지 동선",
+        "query": "Lake Chapala",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-02-07"
+      },
+      {
+        "title": "사포판 바실리카",
+        "subtitle": "사포판 바실리카 · 주변 지역 · 현지 동선",
+        "query": "Zapopan Basilica",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-02-08"
+      },
+      {
+        "title": "과달라하라 출국",
+        "subtitle": "GDL · 귀국 항공편",
+        "query": "GDL airport",
+        "kind": "return",
+        "day": 8,
+        "date": "2027-02-09"
+      }
+    ]
+  },
+  {
+    "slug": "puerto-vallarta",
+    "name": "푸에르토바야르타",
+    "code": "PVR",
+    "start": "2027-01-25",
+    "end": "2027-02-02",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "12:45",
+        "14:29"
+      ],
+      "airline": "유나이티드항공",
+      "duration": "16시간 44분",
+      "route": "ICN–PVR",
+      "stops": "경유 1회",
+      "layover": "2시간 9분 SFO",
+      "price": 1767500,
+      "raw": "오후 12:45\n – \n오후 2:29\n유나이티드항공\n16시간 44분\nICN–PVR\n경유 1회\n2시간 9분 SFO\nCO2e 753kg\n-13% 배출\n₩1,767,500\n왕복\n나무 6,879그루가 하루에 흡수하는 양만큼 CO2e 배출이 방지됩니다."
+    },
+    "return": {
+      "times24": [
+        "15:31",
+        "05:40+2"
+      ],
+      "airline": "유나이티드항공",
+      "duration": "23시간 9분",
+      "route": "PVR–ICN",
+      "stops": "경유 2회",
+      "layover": "IAH, SFO",
+      "price": 1767500,
+      "raw": "오후 3:31\n – \n오전 5:40+2\n유나이티드항공\n23시간 9분\nPVR–ICN\n경유 2회\nIAH, SFO\nCO2e 1,038kg\n+15% 배출\n₩1,767,500\n왕복"
+    },
+    "days": [
+      {
+        "title": "푸에르토바야르타 이동·도착",
+        "subtitle": "ICN → PVR · 경유 1회",
+        "query": "PVR airport",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "말레콘",
+        "subtitle": "말레콘 · 주변 지역 · 현지 동선",
+        "query": "Malecon Puerto Vallarta",
+        "kind": "visit",
+        "day": 2,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "로맨틱 존",
+        "subtitle": "로맨틱 존 · 주변 지역 · 현지 동선",
+        "query": "Zona Romantica Puerto Vallarta",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-27"
+      },
+      {
+        "title": "마리에타스 제도",
+        "subtitle": "마리에타스 제도 · 주변 지역 · 현지 동선",
+        "query": "Marietas Islands",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-28"
+      },
+      {
+        "title": "사율리타",
+        "subtitle": "사율리타 · 주변 지역 · 현지 동선",
+        "query": "Sayulita Mexico",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-29"
+      },
+      {
+        "title": "로스 아르코스",
+        "subtitle": "로스 아르코스 · 주변 지역 · 현지 동선",
+        "query": "Los Arcos Puerto Vallarta",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-30"
+      },
+      {
+        "title": "산세바스티안 델 오에스테",
+        "subtitle": "산세바스티안 델 오에스테 · 주변 지역 · 현지 동선",
+        "query": "San Sebastian del Oeste Jalisco town",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-31"
+      },
+      {
+        "title": "바야르타 식물원",
+        "subtitle": "바야르타 식물원 · 주변 지역 · 현지 동선",
+        "query": "Vallarta Botanical Garden",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-02-01"
+      },
+      {
+        "title": "푸에르토바야르타 출국",
+        "subtitle": "PVR · 귀국 항공편",
+        "query": "PVR airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-02-02"
+      }
+    ]
+  },
+  {
+    "slug": "los-cabos",
+    "name": "로스카보스",
+    "code": "SJD",
+    "start": "2027-01-25",
+    "end": "2027-02-02",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "12:45",
+        "13:10"
+      ],
+      "airline": "유나이티드항공",
+      "duration": "16시간 25분",
+      "route": "ICN–SJD",
+      "stops": "경유 1회",
+      "layover": "2시간 24분 SFO",
+      "price": 1767500,
+      "raw": "오후 12:45\n – \n오후 1:10\n유나이티드항공\n16시간 25분\nICN–SJD\n경유 1회\n2시간 24분 SFO\nCO2e 718kg\n-14% 배출\n₩1,767,500\n왕복\n나무 7,305그루가 하루에 흡수하는 양만큼 CO2e 배출이 방지됩니다."
+    },
+    "return": {
+      "times24": [
+        "14:20",
+        "05:40+2"
+      ],
+      "airline": "유나이티드항공",
+      "duration": "23시간 20분",
+      "route": "SJD–ICN",
+      "stops": "경유 1회",
+      "layover": "7시간 3분 SFO",
+      "price": 1767500,
+      "raw": "오후 2:20\n – \n오전 5:40+2\n유나이티드항공\n23시간 20분\nSJD–ICN\n경유 1회\n7시간 3분 SFO\nCO2e 898kg\n평균 배출량\n₩1,767,500\n왕복"
+    },
+    "days": [
+      {
+        "title": "로스카보스 이동·도착",
+        "subtitle": "ICN → SJD · 경유 1회",
+        "query": "SJD airport",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "엘 아르코",
+        "subtitle": "엘 아르코 · 주변 지역 · 현지 동선",
+        "query": "El Arco Cabo San Lucas",
+        "kind": "visit",
+        "day": 2,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "러버스 비치",
+        "subtitle": "러버스 비치 · 주변 지역 · 현지 동선",
+        "query": "Lovers Beach Cabo",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-27"
+      },
+      {
+        "title": "산호세 델 카보",
+        "subtitle": "산호세 델 카보 · 주변 지역 · 현지 동선",
+        "query": "San Jose del Cabo",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-28"
+      },
+      {
+        "title": "토도스 산토스",
+        "subtitle": "토도스 산토스 · 주변 지역 · 현지 동선",
+        "query": "Todos Santos Mexico",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-29"
+      },
+      {
+        "title": "칠레노 베이",
+        "subtitle": "칠레노 베이 · 주변 지역 · 현지 동선",
+        "query": "Chileno Beach Cabo San Lucas",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-30"
+      },
+      {
+        "title": "시에라 데 라 라구나",
+        "subtitle": "시에라 데 라 라구나 · 주변 지역 · 현지 동선",
+        "query": "Sierra de la Laguna Baja California Sur",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-31"
+      },
+      {
+        "title": "카보 풀모",
+        "subtitle": "카보 풀모 · 주변 지역 · 현지 동선",
+        "query": "Cabo Pulmo",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-02-01"
+      },
+      {
+        "title": "로스카보스 출국",
+        "subtitle": "SJD · 귀국 항공편",
+        "query": "SJD airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-02-02"
+      }
+    ]
+  },
+  {
+    "slug": "santo-domingo",
+    "name": "산토도밍고",
+    "code": "SDQ",
+    "start": "2027-01-20",
+    "end": "2027-01-28",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "11:40",
+        "07:15+1"
+      ],
+      "airline": "멕시코항공",
+      "duration": "32시간 35분",
+      "route": "ICN–SDQ",
+      "stops": "경유 1회",
+      "layover": "14시간 25분 MEX",
+      "price": 2218469,
+      "raw": "오전 11:40\n – \n오전 7:15+1\n멕시코항공\n32시간 35분\nICN–SDQ\n경유 1회\n14시간 25분 MEX\nCO2e 954kg\n-9% 배출\n₩2,218,469\n왕복"
+    },
+    "return": {
+      "times24": [
+        "11:01",
+        "06:10+2"
+      ],
+      "airline": "멕시코항공",
+      "duration": "30시간 9분",
+      "route": "SDQ–ICN",
+      "stops": "경유 2회",
+      "layover": "MEX, MTY",
+      "price": 2218469,
+      "raw": "오전 11:01\n – \n오전 6:10+2\n멕시코항공\n30시간 9분\nSDQ–ICN\n경유 2회\nMEX, MTY\nCO2e 965kg\n-14% 배출\n₩2,218,469\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → SDQ · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "산토도밍고 도착",
+        "subtitle": "SDQ · 숙소 체크인 · 첫 산책",
+        "query": "santo domingo skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "조나 콜로니알",
+        "subtitle": "조나 콜로니알 · 주변 지역 · 현지 동선",
+        "query": "Zona Colonial Santo Domingo",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "알카사르 데 콜론",
+        "subtitle": "알카사르 데 콜론 · 주변 지역 · 현지 동선",
+        "query": "Alcazar de Colon",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "말레콘",
+        "subtitle": "말레콘 · 주변 지역 · 현지 동선",
+        "query": "Malecon Santo Domingo",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "로스 트레스 오호스",
+        "subtitle": "로스 트레스 오호스 · 주변 지역 · 현지 동선",
+        "query": "Los Tres Ojos",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "보카 치카",
+        "subtitle": "보카 치카 · 주변 지역 · 현지 동선",
+        "query": "Boca Chica Dominican Republic",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "후안 돌리오",
+        "subtitle": "후안 돌리오 · 주변 지역 · 현지 동선",
+        "query": "Juan Dolio Dominican Republic beach",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-27"
+      },
+      {
+        "title": "산토도밍고 출국",
+        "subtitle": "SDQ · 귀국 항공편",
+        "query": "SDQ airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-01-28"
+      }
+    ]
+  },
+  {
+    "slug": "punta-cana",
+    "name": "푼타카나",
+    "code": "PUJ",
+    "start": "2027-01-20",
+    "end": "2027-01-28",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "18:55",
+        "15:50+1"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Rouge",
+      "duration": "33시간 55분",
+      "route": "ICN–PUJ",
+      "stops": "경유 2회",
+      "layover": "YVR, YWG",
+      "price": 2404300,
+      "raw": "오후 6:55\n – \n오후 3:50+1\n에어캐나다운항사: Air Canada Rouge\n33시간 55분\nICN–PUJ\n경유 2회\nYVR, YWG\nCO2e 898kg\n-16% 배출\n₩2,404,300\n왕복"
+    },
+    "return": {
+      "times24": [
+        "17:30",
+        "17:10+2"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Rouge",
+      "duration": "34시간 40분",
+      "route": "PUJ–ICN",
+      "stops": "경유 2회",
+      "layover": "YWG, YVR",
+      "price": 2467300,
+      "raw": "오후 5:30\n – \n오후 5:10+2\n에어캐나다운항사: Air Canada Rouge\n34시간 40분\nPUJ–ICN\n경유 2회\nYWG, YVR\nCO2e 889kg\n-22% 배출\n₩2,467,300\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → PUJ · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "푼타카나 도착",
+        "subtitle": "PUJ · 숙소 체크인 · 첫 산책",
+        "query": "Punta Cana Dominican Republic",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "바바로 비치",
+        "subtitle": "바바로 비치 · 주변 지역 · 현지 동선",
+        "query": "Bavaro Beach",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "사오나섬",
+        "subtitle": "사오나섬 · 주변 지역 · 현지 동선",
+        "query": "Saona Island",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "오요 아술",
+        "subtitle": "오요 아술 · 주변 지역 · 현지 동선",
+        "query": "Hoyo Azul Dominican Republic",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "마카오 비치",
+        "subtitle": "마카오 비치 · 주변 지역 · 현지 동선",
+        "query": "Macao Beach Dominican Republic",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "알토스 데 차본",
+        "subtitle": "알토스 데 차본 · 주변 지역 · 현지 동선",
+        "query": "Altos de Chavon",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "코토바나마 국립공원",
+        "subtitle": "코토바나마 국립공원 · 주변 지역 · 현지 동선",
+        "query": "Parque Nacional del Este Dominican Republic",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-27"
+      },
+      {
+        "title": "푼타카나 출국",
+        "subtitle": "PUJ · 귀국 항공편",
+        "query": "Punta Cana International Airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-01-28"
+      }
+    ]
+  },
+  {
+    "slug": "san-jose",
+    "name": "산호세",
+    "code": "SJO",
+    "start": "2027-01-20",
+    "end": "2027-01-28",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "11:40",
+        "08:35+1"
+      ],
+      "airline": "에바항공, 아비앙카항공 · 운항  Avianca Costa Rica S.a., Avianca Costa Rica S.a.",
+      "duration": "35시간 55분",
+      "route": "ICN–SJO",
+      "stops": "경유 3회",
+      "layover": "TPE, JFK, GUA",
+      "price": 2341800,
+      "raw": "오전 11:40\n – \n오전 8:35+1\n에바항공, 아비앙카항공운항사: Avianca Costa Rica S.a., Avianca Costa Rica S.a.\n35시간 55분\nICN–SJO\n경유 3회\nTPE, JFK, GUA\nCO2e 1,454kg\n+71% 배출\n₩2,341,800\n왕복"
+    },
+    "return": {
+      "times24": [
+        "15:10",
+        "11:20+2"
+      ],
+      "airline": "아비앙카항공, 중화항공 · 운항  Avianca Costa Rica S.a., Taca International Airlines - Taca",
+      "duration": "29시간 10분",
+      "route": "SJO–ICN",
+      "stops": "경유 3회",
+      "layover": "SAL, SFO, TPE",
+      "price": 2597800,
+      "raw": "오후 3:10\n – \n오전 11:20+2\n아비앙카항공, 중화항공운항사: Avianca Costa Rica S.a., Taca International Airlines - Taca\n29시간 10분\nSJO–ICN\n경유 3회\nSAL, SFO, TPE\nCO2e 1,149kg\n+6% 배출\n₩2,597,800\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → SJO · 경유 3회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "산호세 도착",
+        "subtitle": "SJO · 숙소 체크인 · 첫 산책",
+        "query": "san jose skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "산호세 국립극장",
+        "subtitle": "산호세 국립극장 · 주변 지역 · 현지 동선",
+        "query": "National Theatre Costa Rica",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "포아스 화산",
+        "subtitle": "포아스 화산 · 주변 지역 · 현지 동선",
+        "query": "Poas Volcano",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "라파스 폭포 정원",
+        "subtitle": "라파스 폭포 정원 · 주변 지역 · 현지 동선",
+        "query": "La Paz Waterfall Gardens",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "아레날 화산",
+        "subtitle": "아레날 화산 · 주변 지역 · 현지 동선",
+        "query": "Arenal Volcano Costa Rica",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "라포르투나 폭포",
+        "subtitle": "라포르투나 폭포 · 주변 지역 · 현지 동선",
+        "query": "La Fortuna Waterfall",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "몬테베르데",
+        "subtitle": "몬테베르데 · 주변 지역 · 현지 동선",
+        "query": "Monteverde Costa Rica",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-27"
+      },
+      {
+        "title": "산호세 출국",
+        "subtitle": "SJO · 귀국 항공편",
+        "query": "Juan Santamaria International Airport Costa Rica",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-01-28"
+      }
+    ]
+  },
+  {
+    "slug": "panama-city",
+    "name": "파나마시티",
+    "code": "PTY",
+    "start": "2027-01-20",
+    "end": "2027-01-28",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "19:40",
+        "06:37+1"
+      ],
+      "airline": "대한항공, 코파항공",
+      "duration": "24시간 57분",
+      "route": "ICN–PTY",
+      "stops": "경유 1회",
+      "layover": "7시간 35분 LAX",
+      "price": 2519100,
+      "raw": "오후 7:40\n – \n오전 6:37+1\n대한항공, 코파항공\n24시간 57분\nICN–PTY\n경유 1회\n7시간 35분 LAX\nCO2e 1,029kg\n평균 배출량\n₩2,519,100\n왕복"
+    },
+    "return": {
+      "times24": [
+        "11:57",
+        "11:20+2"
+      ],
+      "airline": "코파항공, 중화항공",
+      "duration": "33시간 23분",
+      "route": "PTY–ICN",
+      "stops": "경유 2회",
+      "layover": "LAX, TPE",
+      "price": 2577000,
+      "raw": "오전 11:57\n – \n오전 11:20+2\n코파항공, 중화항공\n33시간 23분\nPTY–ICN\n경유 2회\nLAX, TPE\nCO2e 1,149kg\n평균 배출량\n₩2,577,000\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → PTY · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "파나마시티 도착",
+        "subtitle": "PTY · 숙소 체크인 · 첫 산책",
+        "query": "panama city skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "카스코 비에호",
+        "subtitle": "카스코 비에호 · 주변 지역 · 현지 동선",
+        "query": "Casco Viejo Panama",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "파나마 운하",
+        "subtitle": "파나마 운하 · 주변 지역 · 현지 동선",
+        "query": "Panama Canal",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "아마도르 코즈웨이",
+        "subtitle": "아마도르 코즈웨이 · 주변 지역 · 현지 동선",
+        "query": "Amador Causeway",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "가툰 호수",
+        "subtitle": "가툰 호수 · 주변 지역 · 현지 동선",
+        "query": "Gatun Lake Panama",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "소베라니아 국립공원",
+        "subtitle": "소베라니아 국립공원 · 주변 지역 · 현지 동선",
+        "query": "Soberania National Park",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "타보가섬",
+        "subtitle": "타보가섬 · 주변 지역 · 현지 동선",
+        "query": "Taboga Island",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-27"
+      },
+      {
+        "title": "파나마시티 출국",
+        "subtitle": "PTY · 귀국 항공편",
+        "query": "PTY airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-01-28"
+      }
+    ]
+  },
+  {
+    "slug": "belize-city",
+    "name": "벨리즈시티",
+    "code": "BZE",
+    "start": "2027-01-20",
+    "end": "2027-01-28",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "19:45",
+        "17:52+1"
+      ],
+      "airline": "에바항공, 알래스카항공",
+      "duration": "37시간 7분",
+      "route": "ICN–BZE",
+      "stops": "경유 2회",
+      "layover": "TPE, LAX",
+      "price": 2288500,
+      "raw": "오후 7:45\n – \n오후 5:52+1\n에바항공, 알래스카항공\n37시간 7분\nICN–BZE\n경유 2회\nTPE, LAX\nCO2e 1,046kg\n+24% 배출\n₩2,288,500\n왕복"
+    },
+    "return": {
+      "times24": [
+        "09:50",
+        "11:20+2"
+      ],
+      "airline": "알래스카항공, 중화항공",
+      "duration": "34시간 30분",
+      "route": "BZE–ICN",
+      "stops": "경유 2회",
+      "layover": "LAX, TPE",
+      "price": 2663400,
+      "raw": "오전 9:50\n – \n오전 11:20+2\n알래스카항공, 중화항공\n34시간 30분\nBZE–ICN\n경유 2회\nLAX, TPE\nCO2e 1,145kg\n+9% 배출\n₩2,663,400\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → BZE · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "벨리즈시티 도착",
+        "subtitle": "BZE · 숙소 체크인 · 첫 산책",
+        "query": "Belize City Belize",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "벨리즈시티 스윙 브리지",
+        "subtitle": "벨리즈시티 스윙 브리지 · 주변 지역 · 현지 동선",
+        "query": "Belize City Swing Bridge",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "키 콜커",
+        "subtitle": "키 콜커 · 주변 지역 · 현지 동선",
+        "query": "Caye Caulker Belize",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "홀찬 해양보호구역",
+        "subtitle": "홀찬 해양보호구역 · 주변 지역 · 현지 동선",
+        "query": "Hol Chan Marine Reserve",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "알툰하",
+        "subtitle": "알툰하 · 주변 지역 · 현지 동선",
+        "query": "Altun Ha Belize",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "산이그나시오",
+        "subtitle": "산이그나시오 · 주변 지역 · 현지 동선",
+        "query": "San Ignacio Belize",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "슈난투니치",
+        "subtitle": "슈난투니치 · 주변 지역 · 현지 동선",
+        "query": "Xunantunich",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-27"
+      },
+      {
+        "title": "벨리즈시티 출국",
+        "subtitle": "BZE · 귀국 항공편",
+        "query": "BZE airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-01-28"
+      }
+    ]
+  },
+  {
+    "slug": "nassau",
+    "name": "나소",
+    "code": "NAS",
+    "start": "2027-01-20",
+    "end": "2027-01-28",
+    "region": "북미",
+    "outbound": {
+      "times24": [
+        "18:55",
+        "11:30+1"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Rouge",
+      "duration": "30시간 35분",
+      "route": "ICN–NAS",
+      "stops": "경유 2회",
+      "layover": "YVR, YYZ",
+      "price": 2477400,
+      "raw": "오후 6:55\n – \n오전 11:30+1\n에어캐나다운항사: Air Canada Rouge\n30시간 35분\nICN–NAS\n경유 2회\nYVR, YYZ\nCO2e 885kg\n-10% 배출\n₩2,477,400\n왕복"
+    },
+    "return": {
+      "times24": [
+        "21:25",
+        "17:10+2"
+      ],
+      "airline": "에어캐나다 · 운항  Air Canada Rouge",
+      "duration": "29시간 45분",
+      "route": "NAS–ICN",
+      "stops": "경유 2회",
+      "layover": "YYZ, YVR",
+      "price": 2477400,
+      "raw": "오후 9:25\n – \n오후 5:10+2\n에어캐나다운항사: Air Canada Rouge\n29시간 45분\nNAS–ICN\n경유 2회\nYYZ, YVR\nCO2e 876kg\n-18% 배출\n₩2,477,400\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → NAS · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "나소 도착",
+        "subtitle": "NAS · 숙소 체크인 · 첫 산책",
+        "query": "nassau skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "다운타운 나소",
+        "subtitle": "다운타운 나소 · 주변 지역 · 현지 동선",
+        "query": "Nassau Bahamas",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "파라다이스 아일랜드",
+        "subtitle": "파라다이스 아일랜드 · 주변 지역 · 현지 동선",
+        "query": "Paradise Island Bahamas",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "블루 라군",
+        "subtitle": "블루 라군 · 주변 지역 · 현지 동선",
+        "query": "Blue Lagoon Island Bahamas",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "케이블 비치",
+        "subtitle": "케이블 비치 · 주변 지역 · 현지 동선",
+        "query": "Cable Beach Nassau",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "클리프턴 헤리티지 공원",
+        "subtitle": "클리프턴 헤리티지 공원 · 주변 지역 · 현지 동선",
+        "query": "Clifton Heritage National Park",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "엑수마",
+        "subtitle": "엑수마 · 주변 지역 · 현지 동선",
+        "query": "Exuma Bahamas",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-27"
+      },
+      {
+        "title": "나소 출국",
+        "subtitle": "NAS · 귀국 항공편",
+        "query": "NAS airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-01-28"
+      }
+    ]
+  }
+]

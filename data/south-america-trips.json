@@ -1,0 +1,1702 @@
+[
+  {
+    "slug": "bogota",
+    "name": "보고타",
+    "code": "BOG",
+    "start": "2027-02-01",
+    "end": "2027-02-09",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "13:20",
+        "19:25+1"
+      ],
+      "airline": "에어프랑스",
+      "duration": "44시간 5분",
+      "route": "ICN–BOG",
+      "stops": "경유 1회",
+      "layover": "18시간 35분 CDG",
+      "price": 2248900,
+      "raw": "오후 1:20\n – \n오후 7:25+1\n에어프랑스\n44시간 5분\nICN–BOG\n경유 1회\n18시간 35분 CDG\nCO2e 956kg\n-17% 배출\n₩2,248,900\n왕복"
+    },
+    "return": {
+      "times24": [
+        "01:47",
+        "06:10+2"
+      ],
+      "airline": "멕시코항공",
+      "duration": "38시간 23분",
+      "route": "BOG–ICN",
+      "stops": "경유 2회",
+      "layover": "MEX, MTY",
+      "price": 2206879,
+      "raw": "오전 1:47\n – \n오전 6:10+2\n멕시코항공\n38시간 23분\nBOG–ICN\n경유 2회\nMEX, MTY\nCO2e 976kg\n-7% 배출\n₩2,206,879\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → BOG · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-02-01"
+      },
+      {
+        "title": "보고타 도착",
+        "subtitle": "BOG · 숙소 체크인 · 첫 산책",
+        "query": "bogota skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-02-02"
+      },
+      {
+        "title": "라 칸델라리아",
+        "subtitle": "라 칸델라리아 · 주변 지역 · 현지 동선",
+        "query": "La Candelaria Bogota",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-02-03"
+      },
+      {
+        "title": "몬세라테",
+        "subtitle": "몬세라테 · 주변 지역 · 현지 동선",
+        "query": "Monserrate Bogota",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-02-04"
+      },
+      {
+        "title": "보테로 미술관",
+        "subtitle": "보테로 미술관 · 주변 지역 · 현지 동선",
+        "query": "Botero Museum",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-02-05"
+      },
+      {
+        "title": "우사켄",
+        "subtitle": "우사켄 · 주변 지역 · 현지 동선",
+        "query": "Usaquen Bogota",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-02-06"
+      },
+      {
+        "title": "시파키라 소금 대성당",
+        "subtitle": "시파키라 소금 대성당 · 주변 지역 · 현지 동선",
+        "query": "Salt Cathedral Zipaquira",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-02-07"
+      },
+      {
+        "title": "과타비타 호수",
+        "subtitle": "과타비타 호수 · 주변 지역 · 현지 동선",
+        "query": "Lake Guatavita",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-02-08"
+      },
+      {
+        "title": "보고타 출국",
+        "subtitle": "BOG · 귀국 항공편",
+        "query": "BOG airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-02-09"
+      }
+    ]
+  },
+  {
+    "slug": "lima",
+    "name": "리마",
+    "code": "LIM",
+    "start": "2027-02-01",
+    "end": "2027-02-09",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "11:40",
+        "23:00"
+      ],
+      "airline": "멕시코항공, 라탐항공 · 운항  Aeromexico for Latam Airlines Brasil, Latam Airlines Peru",
+      "duration": "25시간 20분",
+      "route": "ICN–LIM",
+      "stops": "경유 1회",
+      "layover": "5시간 25분 MEX",
+      "price": 2440483,
+      "raw": "오전 11:40\n – \n오후 11:00\n멕시코항공, 라탐항공운항사: Aeromexico for Latam Airlines Brasil, Latam Airlines Peru\n25시간 20분\nICN–LIM\n경유 1회\n5시간 25분 MEX\nCO2e 1,064kg\n-9% 배출\n₩2,440,483\n왕복\n나무 6,453그루가 하루에 흡수하는 양만큼 CO2e 배출이 방지됩니다."
+    },
+    "return": {
+      "times24": [
+        "08:45",
+        "06:10+2"
+      ],
+      "airline": "라탐항공, 멕시코항공 · 운항  Latam Airlines Peru, Aeromexico for Latam Airlines Brasil, Aeromexico for Latam Airlines Brasil",
+      "duration": "31시간 25분",
+      "route": "LIM–ICN",
+      "stops": "경유 2회",
+      "layover": "MEX, MTY",
+      "price": 2440483,
+      "raw": "오전 8:45\n – \n오전 6:10+2\n라탐항공, 멕시코항공운항사: Latam Airlines Peru, Aeromexico for Latam Airlines Brasil, Aeromexico for Latam Airlines Brasil\n31시간 25분\nLIM–ICN\n경유 2회\nMEX, MTY\nCO2e 1,074kg\n-7% 배출\n₩2,440,483\n왕복"
+    },
+    "days": [
+      {
+        "title": "리마 이동·도착",
+        "subtitle": "ICN → LIM · 경유 1회",
+        "query": "LIM airport",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-02-01"
+      },
+      {
+        "title": "미라플로레스",
+        "subtitle": "미라플로레스 · 주변 지역 · 현지 동선",
+        "query": "Miraflores Lima",
+        "kind": "visit",
+        "day": 2,
+        "date": "2027-02-02"
+      },
+      {
+        "title": "바랑코",
+        "subtitle": "바랑코 · 주변 지역 · 현지 동선",
+        "query": "Barranco district Lima Peru",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-02-03"
+      },
+      {
+        "title": "리마 역사센터",
+        "subtitle": "리마 역사센터 · 주변 지역 · 현지 동선",
+        "query": "Historic Centre Lima",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-02-04"
+      },
+      {
+        "title": "파차카막",
+        "subtitle": "파차카막 · 주변 지역 · 현지 동선",
+        "query": "Pachacamac",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-02-05"
+      },
+      {
+        "title": "라르코 박물관",
+        "subtitle": "라르코 박물관 · 주변 지역 · 현지 동선",
+        "query": "Larco Museum Lima",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-02-06"
+      },
+      {
+        "title": "팔로미노 제도",
+        "subtitle": "팔로미노 제도 · 주변 지역 · 현지 동선",
+        "query": "Islas Palomino Callao Peru",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-02-07"
+      },
+      {
+        "title": "카야오",
+        "subtitle": "카야오 · 주변 지역 · 현지 동선",
+        "query": "Callao Peru",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-02-08"
+      },
+      {
+        "title": "리마 출국",
+        "subtitle": "LIM · 귀국 항공편",
+        "query": "LIM airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-02-09"
+      }
+    ]
+  },
+  {
+    "slug": "santiago",
+    "name": "산티아고",
+    "code": "SCL",
+    "start": "2027-02-01",
+    "end": "2027-02-09",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "10:40",
+        "10:00+1"
+      ],
+      "airline": "터키항공",
+      "duration": "35시간 20분",
+      "route": "ICN–SCL",
+      "stops": "경유 2회",
+      "layover": "IST, GRU",
+      "price": 2617100,
+      "raw": "오전 10:40\n – \n오전 10:00+1\n터키항공\n35시간 20분\nICN–SCL\n경유 2회\nIST, GRU\nCO2e 1,339kg\n+19% 배출\n₩2,617,100\n왕복"
+    },
+    "return": {
+      "times24": [
+        "08:25",
+        "17:10+2"
+      ],
+      "airline": "에어캐나다",
+      "duration": "44시간 45분",
+      "route": "SCL–ICN",
+      "stops": "경유 2회",
+      "layover": "YUL, YVR",
+      "price": 2744700,
+      "raw": "오전 8:25\n – \n오후 5:10+2\n에어캐나다\n44시간 45분\nSCL–ICN\n경유 2회\nYUL, YVR\nCO2e 1,186kg\n-8% 배출\n₩2,744,700\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → SCL · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-02-01"
+      },
+      {
+        "title": "산티아고 도착",
+        "subtitle": "SCL · 숙소 체크인 · 첫 산책",
+        "query": "santiago skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-02-02"
+      },
+      {
+        "title": "아르마스 광장",
+        "subtitle": "아르마스 광장 · 주변 지역 · 현지 동선",
+        "query": "Plaza de Armas Santiago",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-02-03"
+      },
+      {
+        "title": "산 크리스토발 언덕",
+        "subtitle": "산 크리스토발 언덕 · 주변 지역 · 현지 동선",
+        "query": "Cerro San Cristobal Santiago",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-02-04"
+      },
+      {
+        "title": "벨라비스타",
+        "subtitle": "벨라비스타 · 주변 지역 · 현지 동선",
+        "query": "Bellavista Santiago",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-02-05"
+      },
+      {
+        "title": "발파라이소",
+        "subtitle": "발파라이소 · 주변 지역 · 현지 동선",
+        "query": "Valparaiso Chile",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-02-06"
+      },
+      {
+        "title": "비냐 델 마르",
+        "subtitle": "비냐 델 마르 · 주변 지역 · 현지 동선",
+        "query": "Vina del Mar",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-02-07"
+      },
+      {
+        "title": "마이포 밸리",
+        "subtitle": "마이포 밸리 · 주변 지역 · 현지 동선",
+        "query": "Maipo Valley",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-02-08"
+      },
+      {
+        "title": "산티아고 출국",
+        "subtitle": "SCL · 귀국 항공편",
+        "query": "SCL airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-02-09"
+      }
+    ]
+  },
+  {
+    "slug": "buenos-aires",
+    "name": "부에노스아이레스",
+    "code": "EZE",
+    "start": "2027-02-01",
+    "end": "2027-02-09",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "10:40",
+        "22:25+1"
+      ],
+      "airline": "터키항공",
+      "duration": "47시간 45분",
+      "route": "ICN–EZE",
+      "stops": "경유 2회",
+      "layover": "IST, GRU",
+      "price": 2578100,
+      "raw": "오전 10:40\n – \n오후 10:25+1\n터키항공\n47시간 45분\nICN–EZE\n경유 2회\nIST, GRU\nCO2e 1,269kg\n+8% 배출\n₩2,578,100\n왕복"
+    },
+    "return": {
+      "times24": [
+        "22:25",
+        "11:15+3"
+      ],
+      "airline": "ITA, 루프트한자",
+      "duration": "48시간 50분",
+      "route": "EZE–ICN",
+      "stops": "경유 2회",
+      "layover": "FCO, MUC",
+      "price": 2768600,
+      "raw": "오후 10:25\n – \n오전 11:15+3\nITA, 루프트한자\n48시간 50분\nEZE–ICN\n경유 2회\nFCO, MUC\nCO2e 1,232kg\n평균 배출량\n₩2,768,600\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → EZE · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-02-01"
+      },
+      {
+        "title": "부에노스아이레스 도착",
+        "subtitle": "EZE · 숙소 체크인 · 첫 산책",
+        "query": "buenos aires skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-02-02"
+      },
+      {
+        "title": "마요 광장",
+        "subtitle": "마요 광장 · 주변 지역 · 현지 동선",
+        "query": "Plaza de Mayo Buenos Aires",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-02-03"
+      },
+      {
+        "title": "산텔모",
+        "subtitle": "산텔모 · 주변 지역 · 현지 동선",
+        "query": "San Telmo Buenos Aires",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-02-04"
+      },
+      {
+        "title": "라 보카",
+        "subtitle": "라 보카 · 주변 지역 · 현지 동선",
+        "query": "Caminito Buenos Aires",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-02-05"
+      },
+      {
+        "title": "레콜레타",
+        "subtitle": "레콜레타 · 주변 지역 · 현지 동선",
+        "query": "Recoleta Buenos Aires",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-02-06"
+      },
+      {
+        "title": "팔레르모",
+        "subtitle": "팔레르모 · 주변 지역 · 현지 동선",
+        "query": "Palermo Buenos Aires",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-02-07"
+      },
+      {
+        "title": "테아트로 콜론",
+        "subtitle": "테아트로 콜론 · 주변 지역 · 현지 동선",
+        "query": "Teatro Colon",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-02-08"
+      },
+      {
+        "title": "부에노스아이레스 출국",
+        "subtitle": "EZE · 귀국 항공편",
+        "query": "EZE airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-02-09"
+      }
+    ]
+  },
+  {
+    "slug": "sao-paulo",
+    "name": "상파울루",
+    "code": "GRU",
+    "start": "2027-02-01",
+    "end": "2027-02-09",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "18:30",
+        "07:10+1"
+      ],
+      "airline": "유나이티드항공",
+      "duration": "24시간 40분",
+      "route": "ICN–GRU",
+      "stops": "경유 1회",
+      "layover": "1시간 20분 EWR",
+      "price": 2431700,
+      "raw": "오후 6:30\n – \n오전 7:10+1\n유나이티드항공\n24시간 40분\nICN–GRU\n경유 1회\n1시간 20분 EWR\nCO2e 1,017kg\n-12% 배출\n₩2,431,700\n왕복\n나무 8,096그루가 하루에 흡수하는 양만큼 CO2e 배출이 방지됩니다."
+    },
+    "return": {
+      "times24": [
+        "21:45",
+        "16:25+2"
+      ],
+      "airline": "유나이티드항공",
+      "duration": "30시간 40분",
+      "route": "GRU–ICN",
+      "stops": "경유 1회",
+      "layover": "5시간 EWR",
+      "price": 2431700,
+      "raw": "오후 9:45\n – \n오후 4:25+2\n유나이티드항공\n30시간 40분\nGRU–ICN\n경유 1회\n5시간 EWR\nCO2e 998kg\n-12% 배출\n₩2,431,700\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → GRU · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-02-01"
+      },
+      {
+        "title": "상파울루 도착",
+        "subtitle": "GRU · 숙소 체크인 · 첫 산책",
+        "query": "sao paulo skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-02-02"
+      },
+      {
+        "title": "파울리스타 대로",
+        "subtitle": "파울리스타 대로 · 주변 지역 · 현지 동선",
+        "query": "Avenida Paulista Sao Paulo",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-02-03"
+      },
+      {
+        "title": "세 대성당",
+        "subtitle": "세 대성당 · 주변 지역 · 현지 동선",
+        "query": "Sao Paulo Cathedral",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-02-04"
+      },
+      {
+        "title": "리베르다지",
+        "subtitle": "리베르다지 · 주변 지역 · 현지 동선",
+        "query": "Liberdade Sao Paulo",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-02-05"
+      },
+      {
+        "title": "이비라푸에라 공원",
+        "subtitle": "이비라푸에라 공원 · 주변 지역 · 현지 동선",
+        "query": "Ibirapuera Park",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-02-06"
+      },
+      {
+        "title": "베쿠 두 배트맨",
+        "subtitle": "베쿠 두 배트맨 · 주변 지역 · 현지 동선",
+        "query": "Beco do Batman",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-02-07"
+      },
+      {
+        "title": "피나코테카",
+        "subtitle": "피나코테카 · 주변 지역 · 현지 동선",
+        "query": "Pinacoteca Sao Paulo",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-02-08"
+      },
+      {
+        "title": "상파울루 출국",
+        "subtitle": "GRU · 귀국 항공편",
+        "query": "GRU airport",
+        "kind": "return",
+        "day": 9,
+        "date": "2027-02-09"
+      }
+    ]
+  },
+  {
+    "slug": "rio",
+    "name": "리우데자네이루",
+    "code": "GIG",
+    "start": "2027-01-18",
+    "end": "2027-01-27",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "13:20",
+        "18:30+1"
+      ],
+      "airline": "에어프랑스",
+      "duration": "41시간 10분",
+      "route": "ICN–GIG",
+      "stops": "경유 1회",
+      "layover": "15시간 10분 CDG",
+      "price": 2570800,
+      "raw": "오후 1:20\n – \n오후 6:30+1\n에어프랑스\n41시간 10분\nICN–GIG\n경유 1회\n15시간 10분 CDG\nCO2e 979kg\n-13% 배출\n₩2,570,800\n왕복"
+    },
+    "return": {
+      "times24": [
+        "16:40",
+        "11:15+2"
+      ],
+      "airline": "GOL 브라질항공, 에어프랑스",
+      "duration": "30시간 35분",
+      "route": "GIG–ICN",
+      "stops": "경유 2회",
+      "layover": "FOR, CDG",
+      "price": 2570800,
+      "raw": "오후 4:40\n – \n오전 11:15+2\nGOL 브라질항공, 에어프랑스\n30시간 35분\nGIG–ICN\n경유 2회\nFOR, CDG\nCO2e 1,071kg\n평균 배출량\n₩2,570,800\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → GIG · 경유 1회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-18"
+      },
+      {
+        "title": "리우데자네이루 도착",
+        "subtitle": "GIG · 숙소 체크인 · 첫 산책",
+        "query": "rio skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-19"
+      },
+      {
+        "title": "코파카바나",
+        "subtitle": "코파카바나 · 주변 지역 · 현지 동선",
+        "query": "Copacabana Rio",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "코르코바두",
+        "subtitle": "코르코바두 · 주변 지역 · 현지 동선",
+        "query": "Christ the Redeemer Rio",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "팡지아수카르",
+        "subtitle": "팡지아수카르 · 주변 지역 · 현지 동선",
+        "query": "Sugarloaf Mountain Rio",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "산타테레사",
+        "subtitle": "산타테레사 · 주변 지역 · 현지 동선",
+        "query": "Santa Teresa Rio de Janeiro",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "이파네마",
+        "subtitle": "이파네마 · 주변 지역 · 현지 동선",
+        "query": "Ipanema Rio",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "내일박물관",
+        "subtitle": "내일박물관 · 주변 지역 · 현지 동선",
+        "query": "Museum of Tomorrow Rio",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "니테로이 현대미술관",
+        "subtitle": "니테로이 현대미술관 · 주변 지역 · 현지 동선",
+        "query": "Niteroi Contemporary Art Museum",
+        "kind": "visit",
+        "day": 9,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "리우데자네이루 출국",
+        "subtitle": "GIG · 귀국 항공편",
+        "query": "GIG airport",
+        "kind": "return",
+        "day": 10,
+        "date": "2027-01-27"
+      }
+    ]
+  },
+  {
+    "slug": "quito",
+    "name": "키토",
+    "code": "UIO",
+    "start": "2027-01-18",
+    "end": "2027-01-27",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "13:20",
+        "16:20+1"
+      ],
+      "airline": "에어프랑스, KLM",
+      "duration": "41시간",
+      "route": "ICN–UIO",
+      "stops": "경유 2회",
+      "layover": "CDG, AMS",
+      "price": 2353000,
+      "raw": "오후 1:20\n – \n오후 4:20+1\n에어프랑스, KLM\n41시간\nICN–UIO\n경유 2회\nCDG, AMS\nCO2e 1,069kg\n평균 배출량\n₩2,353,000\n왕복"
+    },
+    "return": {
+      "times24": [
+        "15:20",
+        "11:15+2"
+      ],
+      "airline": "아비앙카항공, 에어프랑스",
+      "duration": "29시간 55분",
+      "route": "UIO–ICN",
+      "stops": "경유 2회",
+      "layover": "BOG, CDG",
+      "price": 2353000,
+      "raw": "오후 3:20\n – \n오전 11:15+2\n아비앙카항공, 에어프랑스\n29시간 55분\nUIO–ICN\n경유 2회\nBOG, CDG\nCO2e 1,040kg\n평균 배출량\n₩2,353,000\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → UIO · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-18"
+      },
+      {
+        "title": "키토 도착",
+        "subtitle": "UIO · 숙소 체크인 · 첫 산책",
+        "query": "Quito Ecuador skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-19"
+      },
+      {
+        "title": "키토 구시가지",
+        "subtitle": "키토 구시가지 · 주변 지역 · 현지 동선",
+        "query": "Centro Historico Quito Ecuador",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "텔레페리코",
+        "subtitle": "텔레페리코 · 주변 지역 · 현지 동선",
+        "query": "Quito Teleferico",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "미타드 델 문도",
+        "subtitle": "미타드 델 문도 · 주변 지역 · 현지 동선",
+        "query": "Mitad del Mundo",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "오타발로",
+        "subtitle": "오타발로 · 주변 지역 · 현지 동선",
+        "query": "Otavalo Ecuador",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "코토팍시",
+        "subtitle": "코토팍시 · 주변 지역 · 현지 동선",
+        "query": "Cotopaxi National Park",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "킬로토아",
+        "subtitle": "킬로토아 · 주변 지역 · 현지 동선",
+        "query": "Quilotoa Ecuador",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "라 론다",
+        "subtitle": "라 론다 · 주변 지역 · 현지 동선",
+        "query": "La Ronda Quito",
+        "kind": "visit",
+        "day": 9,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "키토 출국",
+        "subtitle": "UIO · 귀국 항공편",
+        "query": "UIO airport",
+        "kind": "return",
+        "day": 10,
+        "date": "2027-01-27"
+      }
+    ]
+  },
+  {
+    "slug": "guayaquil",
+    "name": "과야킬",
+    "code": "GYE",
+    "start": "2027-01-18",
+    "end": "2027-01-27",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "00:20",
+        "05:16+1"
+      ],
+      "airline": "카타르항공, 제트블루항공",
+      "duration": "42시간 56분",
+      "route": "ICN–GYE",
+      "stops": "경유 2회",
+      "layover": "DOH, JFK",
+      "price": 2464400,
+      "raw": "오전 12:20\n – \n오전 5:16+1\n카타르항공, 제트블루항공\n42시간 56분\nICN–GYE\n경유 2회\nDOH, JFK\nCO2e 1,651kg\n+42% 배출\n₩2,464,400\n왕복"
+    },
+    "return": {
+      "times24": [
+        "07:45",
+        "10:30+2"
+      ],
+      "airline": "제트블루항공, 카타르항공",
+      "duration": "36시간 45분",
+      "route": "GYE–ICN",
+      "stops": "경유 2회",
+      "layover": "JFK, DOH",
+      "price": 2464400,
+      "raw": "오전 7:45\n – \n오전 10:30+2\n제트블루항공, 카타르항공\n36시간 45분\nGYE–ICN\n경유 2회\nJFK, DOH\nCO2e 1,615kg\n+30% 배출\n₩2,464,400\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → GYE · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-18"
+      },
+      {
+        "title": "과야킬 도착",
+        "subtitle": "GYE · 숙소 체크인 · 첫 산책",
+        "query": "guayaquil skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-19"
+      },
+      {
+        "title": "말레콘 2000",
+        "subtitle": "말레콘 2000 · 주변 지역 · 현지 동선",
+        "query": "Malecon 2000 Guayaquil",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "라스 페냐스",
+        "subtitle": "라스 페냐스 · 주변 지역 · 현지 동선",
+        "query": "Las Penas Guayaquil",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "과야킬 역사공원",
+        "subtitle": "과야킬 역사공원 · 주변 지역 · 현지 동선",
+        "query": "Parque Historico Guayaquil",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "산타이섬",
+        "subtitle": "산타이섬 · 주변 지역 · 현지 동선",
+        "query": "Isla Santay",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "플라야스",
+        "subtitle": "플라야스 · 주변 지역 · 현지 동선",
+        "query": "Playas Ecuador beach",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "세로 블랑코",
+        "subtitle": "세로 블랑코 · 주변 지역 · 현지 동선",
+        "query": "Cerro Blanco Guayaquil",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "삼보론돈",
+        "subtitle": "삼보론돈 · 주변 지역 · 현지 동선",
+        "query": "Samborondon Guayas Ecuador",
+        "kind": "visit",
+        "day": 9,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "과야킬 출국",
+        "subtitle": "GYE · 귀국 항공편",
+        "query": "GYE airport",
+        "kind": "return",
+        "day": 10,
+        "date": "2027-01-27"
+      }
+    ]
+  },
+  {
+    "slug": "cusco",
+    "name": "쿠스코",
+    "code": "CUZ",
+    "start": "2027-01-18",
+    "end": "2027-01-27",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "19:40",
+        "11:10+1"
+      ],
+      "airline": "대한항공, 라탐항공 · 운항  Latam Airlines Peru, Latam Airlines Peru",
+      "duration": "29시간 30분",
+      "route": "ICN–CUZ",
+      "stops": "경유 2회",
+      "layover": "LAX, LIM",
+      "price": 2821900,
+      "raw": "오후 7:40\n – \n오전 11:10+1\n대한항공, 라탐항공운항사: Latam Airlines Peru, Latam Airlines Peru\n29시간 30분\nICN–CUZ\n경유 2회\nLAX, LIM\nCO2e 1,244kg\n+8% 배출\n₩2,821,900\n왕복"
+    },
+    "return": {
+      "times24": [
+        "05:00",
+        "06:10+2"
+      ],
+      "airline": "라탐항공, 멕시코항공 · 운항  Latam Airlines Peru, Latam Airlines Peru, Aeromexico for Latam Airlines Brasil, Aeromexico for Latam Airlines Brasil",
+      "duration": "35시간 10분",
+      "route": "CUZ–ICN",
+      "stops": "경유 3회",
+      "layover": "LIM, MEX, MTY",
+      "price": 3030300,
+      "raw": "오전 5:00\n – \n오전 6:10+2\n라탐항공, 멕시코항공운항사: Latam Airlines Peru, Latam Airlines Peru, Aeromexico for Latam Airlines Brasil, Aeromexico for Latam Airlines Brasil\n35시간 10분\nCUZ–ICN\n경유 3회\nLIM, MEX, MTY\nCO2e 1,150kg\n-6% 배출\n₩3,030,300\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → CUZ · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-18"
+      },
+      {
+        "title": "쿠스코 도착",
+        "subtitle": "CUZ · 숙소 체크인 · 첫 산책",
+        "query": "cusco skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-19"
+      },
+      {
+        "title": "쿠스코 아르마스 광장",
+        "subtitle": "쿠스코 아르마스 광장 · 주변 지역 · 현지 동선",
+        "query": "Plaza de Armas Cusco",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "삭사이와만",
+        "subtitle": "삭사이와만 · 주변 지역 · 현지 동선",
+        "query": "Sacsayhuaman",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "성스러운 계곡",
+        "subtitle": "성스러운 계곡 · 주변 지역 · 현지 동선",
+        "query": "Sacred Valley Peru",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "오얀타이탐보",
+        "subtitle": "오얀타이탐보 · 주변 지역 · 현지 동선",
+        "query": "Ollantaytambo",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "마추픽추",
+        "subtitle": "마추픽추 · 주변 지역 · 현지 동선",
+        "query": "Machu Picchu",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "마라스와 모라이",
+        "subtitle": "마라스와 모라이 · 주변 지역 · 현지 동선",
+        "query": "Maras Moray",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "레인보우 마운틴",
+        "subtitle": "레인보우 마운틴 · 주변 지역 · 현지 동선",
+        "query": "Vinicunca Rainbow Mountain Peru",
+        "kind": "visit",
+        "day": 9,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "쿠스코 출국",
+        "subtitle": "CUZ · 귀국 항공편",
+        "query": "CUZ airport",
+        "kind": "return",
+        "day": 10,
+        "date": "2027-01-27"
+      }
+    ]
+  },
+  {
+    "slug": "montevideo",
+    "name": "몬테비데오",
+    "code": "MVD",
+    "start": "2027-01-18",
+    "end": "2027-01-27",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "12:55",
+        "11:00+1"
+      ],
+      "airline": "루프트한자, 라탐항공 · 운항  Latam Airlines Brasil",
+      "duration": "34시간 5분",
+      "route": "ICN–MVD",
+      "stops": "경유 2회",
+      "layover": "FRA, GRU",
+      "price": 2643600,
+      "raw": "오후 12:55\n – \n오전 11:00+1\n루프트한자, 라탐항공운항사: Latam Airlines Brasil\n34시간 5분\nICN–MVD\n경유 2회\nFRA, GRU\nCO2e 1,247kg\n평균 배출량\n₩2,643,600\n왕복"
+    },
+    "return": {
+      "times24": [
+        "11:55",
+        "11:00+2"
+      ],
+      "airline": "라탐항공, 루프트한자 · 운항  Latam Airlines Brasil for Latam Airlines Group",
+      "duration": "35시간 5분",
+      "route": "MVD–ICN",
+      "stops": "경유 2회",
+      "layover": "GRU, FRA",
+      "price": 2758900,
+      "raw": "오전 11:55\n – \n오전 11:00+2\n라탐항공, 루프트한자운항사: Latam Airlines Brasil for Latam Airlines Group\n35시간 5분\nMVD–ICN\n경유 2회\nGRU, FRA\nCO2e 1,249kg\n평균 배출량\n₩2,758,900\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → MVD · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-18"
+      },
+      {
+        "title": "몬테비데오 도착",
+        "subtitle": "MVD · 숙소 체크인 · 첫 산책",
+        "query": "montevideo skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-19"
+      },
+      {
+        "title": "시우다드 비에하",
+        "subtitle": "시우다드 비에하 · 주변 지역 · 현지 동선",
+        "query": "Ciudad Vieja Montevideo",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "람블라",
+        "subtitle": "람블라 · 주변 지역 · 현지 동선",
+        "query": "Rambla Montevideo",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "메르카도 델 푸에르토",
+        "subtitle": "메르카도 델 푸에르토 · 주변 지역 · 현지 동선",
+        "query": "Mercado del Puerto",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "프라도",
+        "subtitle": "프라도 · 주변 지역 · 현지 동선",
+        "query": "Prado Montevideo",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "푼타 델 에스테",
+        "subtitle": "푼타 델 에스테 · 주변 지역 · 현지 동선",
+        "query": "Punta del Este",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "콜로니아 델 사크라멘토",
+        "subtitle": "콜로니아 델 사크라멘토 · 주변 지역 · 현지 동선",
+        "query": "Colonia del Sacramento",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "카넬로네스",
+        "subtitle": "카넬로네스 · 주변 지역 · 현지 동선",
+        "query": "Canelones Uruguay",
+        "kind": "visit",
+        "day": 9,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "몬테비데오 출국",
+        "subtitle": "MVD · 귀국 항공편",
+        "query": "MVD airport",
+        "kind": "return",
+        "day": 10,
+        "date": "2027-01-27"
+      }
+    ]
+  },
+  {
+    "slug": "la-paz",
+    "name": "라파스",
+    "code": "LPB",
+    "start": "2027-01-18",
+    "end": "2027-01-27",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "00:05",
+        "02:20+1"
+      ],
+      "airline": "터키항공, 아비앙카항공",
+      "duration": "39시간 15분",
+      "route": "ICN–LPB",
+      "stops": "경유 2회",
+      "layover": "IST, BOG",
+      "price": 2651800,
+      "raw": "오전 12:05\n – \n오전 2:20+1\n터키항공, 아비앙카항공\n39시간 15분\nICN–LPB\n경유 2회\nIST, BOG\nCO2e 1,319kg\n평균 배출량\n₩2,651,800\n왕복"
+    },
+    "return": {
+      "times24": [
+        "03:25",
+        "08:55+2"
+      ],
+      "airline": "아비앙카항공, 터키항공",
+      "duration": "40시간 30분",
+      "route": "LPB–ICN",
+      "stops": "경유 3회",
+      "layover": "BOG, PTY, IST",
+      "price": 2760800,
+      "raw": "오전 3:25\n – \n오전 8:55+2\n아비앙카항공, 터키항공\n40시간 30분\nLPB–ICN\n경유 3회\nBOG, PTY, IST\nCO2e 1,425kg\n+8% 배출\n₩2,760,800\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → LPB · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-18"
+      },
+      {
+        "title": "라파스 도착",
+        "subtitle": "LPB · 숙소 체크인 · 첫 산책",
+        "query": "la paz skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-19"
+      },
+      {
+        "title": "무리요 광장",
+        "subtitle": "무리요 광장 · 주변 지역 · 현지 동선",
+        "query": "Plaza Murillo La Paz",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "미 텔레페리코",
+        "subtitle": "미 텔레페리코 · 주변 지역 · 현지 동선",
+        "query": "Mi Teleferico Bolivia",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "달의 계곡",
+        "subtitle": "달의 계곡 · 주변 지역 · 현지 동선",
+        "query": "Valle de la Luna La Paz",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "티와나쿠",
+        "subtitle": "티와나쿠 · 주변 지역 · 현지 동선",
+        "query": "Tiwanaku",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "코파카바나",
+        "subtitle": "코파카바나 · 주변 지역 · 현지 동선",
+        "query": "Copacabana Bolivia",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "태양의 섬",
+        "subtitle": "태양의 섬 · 주변 지역 · 현지 동선",
+        "query": "Isla del Sol",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "차칼타야",
+        "subtitle": "차칼타야 · 주변 지역 · 현지 동선",
+        "query": "Chacaltaya Bolivia",
+        "kind": "visit",
+        "day": 9,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "라파스 출국",
+        "subtitle": "LPB · 귀국 항공편",
+        "query": "LPB airport",
+        "kind": "return",
+        "day": 10,
+        "date": "2027-01-27"
+      }
+    ]
+  },
+  {
+    "slug": "recife",
+    "name": "헤시피",
+    "code": "REC",
+    "start": "2027-01-18",
+    "end": "2027-01-27",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "00:20",
+        "16:45+1"
+      ],
+      "airline": "카타르항공, 이베리아항공",
+      "duration": "52시간 25분",
+      "route": "ICN–REC",
+      "stops": "경유 2회",
+      "layover": "DOH, MAD",
+      "price": 3123300,
+      "raw": "오전 12:20\n – \n오후 4:45+1\n카타르항공, 이베리아항공\n52시간 25분\nICN–REC\n경유 2회\nDOH, MAD\nCO2e 1,192kg\n평균 배출량\n₩3,123,300\n왕복"
+    },
+    "return": {
+      "times24": [
+        "12:55",
+        "10:30+2"
+      ],
+      "airline": "GOL 브라질항공, 카타르항공",
+      "duration": "33시간 35분",
+      "route": "REC–ICN",
+      "stops": "경유 2회",
+      "layover": "GRU, DOH",
+      "price": 3123300,
+      "raw": "오후 12:55\n – \n오전 10:30+2\nGOL 브라질항공, 카타르항공\n33시간 35분\nREC–ICN\n경유 2회\nGRU, DOH\nCO2e 1,359kg\n+26% 배출\n₩3,123,300\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → REC · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-18"
+      },
+      {
+        "title": "헤시피 도착",
+        "subtitle": "REC · 숙소 체크인 · 첫 산책",
+        "query": "recife skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-19"
+      },
+      {
+        "title": "헤시피 안티구",
+        "subtitle": "헤시피 안티구 · 주변 지역 · 현지 동선",
+        "query": "Recife Antigo",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "보아 비아젬",
+        "subtitle": "보아 비아젬 · 주변 지역 · 현지 동선",
+        "query": "Boa Viagem Recife",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "올린다",
+        "subtitle": "올린다 · 주변 지역 · 현지 동선",
+        "query": "Olinda Brazil",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "히카르두 브레넌드 연구소",
+        "subtitle": "히카르두 브레넌드 연구소 · 주변 지역 · 현지 동선",
+        "query": "Instituto Ricardo Brennand Recife Brazil",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "포르투 지 갈리냐스",
+        "subtitle": "포르투 지 갈리냐스 · 주변 지역 · 현지 동선",
+        "query": "Porto de Galinhas",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "이타마라카섬",
+        "subtitle": "이타마라카섬 · 주변 지역 · 현지 동선",
+        "query": "Itamaraca Brazil",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "카루아루",
+        "subtitle": "카루아루 · 주변 지역 · 현지 동선",
+        "query": "Caruaru Brazil",
+        "kind": "visit",
+        "day": 9,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "헤시피 출국",
+        "subtitle": "REC · 귀국 항공편",
+        "query": "REC airport",
+        "kind": "return",
+        "day": 10,
+        "date": "2027-01-27"
+      }
+    ]
+  },
+  {
+    "slug": "asuncion",
+    "name": "아순시온",
+    "code": "ASU",
+    "start": "2027-01-18",
+    "end": "2027-01-27",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "12:55",
+        "10:35+1"
+      ],
+      "airline": "루프트한자, 라탐항공 · 운항  Latam Airlines Paraguay",
+      "duration": "33시간 40분",
+      "route": "ICN–ASU",
+      "stops": "경유 2회",
+      "layover": "FRA, GRU",
+      "price": 2813500,
+      "raw": "오후 12:55\n – \n오전 10:35+1\n루프트한자, 라탐항공운항사: Latam Airlines Paraguay\n33시간 40분\nICN–ASU\n경유 2회\nFRA, GRU\nCO2e 1,216kg\n평균 배출량\n₩2,813,500\n왕복"
+    },
+    "return": {
+      "times24": [
+        "13:15",
+        "17:15+2"
+      ],
+      "airline": "라탐항공, 카타르항공 · 운항  Latam Airlines Brasil, Qatar Airways for Latam Airlines Group, Qatar Airways for Latam Airlines Group",
+      "duration": "40시간",
+      "route": "ASU–ICN",
+      "stops": "경유 2회",
+      "layover": "GRU, DOH",
+      "price": 2826424,
+      "raw": "오후 1:15\n – \n오후 5:15+2\n라탐항공, 카타르항공운항사: Latam Airlines Brasil, Qatar Airways for Latam Airlines Group, Qatar Airways for Latam Airlines Group\n40시간\nASU–ICN\n경유 2회\nGRU, DOH\nCO2e 1,296kg\n평균 배출량\n₩2,826,424\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → ASU · 경유 2회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-18"
+      },
+      {
+        "title": "아순시온 도착",
+        "subtitle": "ASU · 숙소 체크인 · 첫 산책",
+        "query": "Asuncion Paraguay city skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-19"
+      },
+      {
+        "title": "아순시온 역사센터",
+        "subtitle": "아순시온 역사센터 · 주변 지역 · 현지 동선",
+        "query": "Panteon Nacional de los Heroes Paraguay",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "코스타네라",
+        "subtitle": "코스타네라 · 주변 지역 · 현지 동선",
+        "query": "Costanera Asuncion",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "카사 데 라 인데펜덴시아",
+        "subtitle": "카사 데 라 인데펜덴시아 · 주변 지역 · 현지 동선",
+        "query": "Independence House Asuncion",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "산베르나르디노",
+        "subtitle": "산베르나르디노 · 주변 지역 · 현지 동선",
+        "query": "San Bernardino Paraguay lake",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "아레과",
+        "subtitle": "아레과 · 주변 지역 · 현지 동선",
+        "query": "Aregua Paraguay",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "이타우구아",
+        "subtitle": "이타우구아 · 주변 지역 · 현지 동선",
+        "query": "Itaugua Paraguay church",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "아순시온 식물원",
+        "subtitle": "아순시온 식물원 · 주변 지역 · 현지 동선",
+        "query": "Jardin Botanico Asuncion",
+        "kind": "visit",
+        "day": 9,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "아순시온 출국",
+        "subtitle": "ASU · 귀국 항공편",
+        "query": "ASU airport",
+        "kind": "return",
+        "day": 10,
+        "date": "2027-01-27"
+      }
+    ]
+  },
+  {
+    "slug": "medellin",
+    "name": "메데인",
+    "code": "MDE",
+    "start": "2027-01-18",
+    "end": "2027-01-27",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "20:15",
+        "23:05+1"
+      ],
+      "airline": "중화항공, 멕시코항공",
+      "duration": "40시간 50분",
+      "route": "ICN–MDE",
+      "stops": "경유 3회",
+      "layover": "TPE, SFO, MEX",
+      "price": 2738200,
+      "raw": "오후 8:15\n – \n오후 11:05+1\n중화항공, 멕시코항공\n40시간 50분\nICN–MDE\n경유 3회\nTPE, SFO, MEX\nCO2e 1,119kg\n평균 배출량\n₩2,738,200\n왕복"
+    },
+    "return": {
+      "times24": [
+        "15:09",
+        "16:25+2"
+      ],
+      "airline": "아메리칸항공",
+      "duration": "35시간 16분",
+      "route": "MDE–ICN",
+      "stops": "경유 2회",
+      "layover": "MIA, DFW",
+      "price": 2952500,
+      "raw": "오후 3:09\n – \n오후 4:25+2\n아메리칸항공\n35시간 16분\nMDE–ICN\n경유 2회\nMIA, DFW\nCO2e 1,010kg\n-19% 배출\n₩2,952,500\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → MDE · 경유 3회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-18"
+      },
+      {
+        "title": "메데인 도착",
+        "subtitle": "MDE · 숙소 체크인 · 첫 산책",
+        "query": "medellin skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-19"
+      },
+      {
+        "title": "코무나 13",
+        "subtitle": "코무나 13 · 주변 지역 · 현지 동선",
+        "query": "Comuna 13 Medellin",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "플라자 보테로",
+        "subtitle": "플라자 보테로 · 주변 지역 · 현지 동선",
+        "query": "Plaza Botero",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "아르비 공원",
+        "subtitle": "아르비 공원 · 주변 지역 · 현지 동선",
+        "query": "Parque Arvi",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "엘 포블라도",
+        "subtitle": "엘 포블라도 · 주변 지역 · 현지 동선",
+        "query": "El Poblado Medellin",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "과타페",
+        "subtitle": "과타페 · 주변 지역 · 현지 동선",
+        "query": "Guatape Colombia",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "산타페 데 안티오키아",
+        "subtitle": "산타페 데 안티오키아 · 주변 지역 · 현지 동선",
+        "query": "Santa Fe de Antioquia",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "메데인 식물원",
+        "subtitle": "메데인 식물원 · 주변 지역 · 현지 동선",
+        "query": "Botanical Garden Medellin",
+        "kind": "visit",
+        "day": 9,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "메데인 출국",
+        "subtitle": "MDE · 귀국 항공편",
+        "query": "Jose Maria Cordova International Airport",
+        "kind": "return",
+        "day": 10,
+        "date": "2027-01-27"
+      }
+    ]
+  },
+  {
+    "slug": "cartagena",
+    "name": "카르타헤나",
+    "code": "CTG",
+    "start": "2027-01-18",
+    "end": "2027-01-27",
+    "region": "남미",
+    "outbound": {
+      "times24": [
+        "13:20",
+        "17:35+1"
+      ],
+      "airline": "에어프랑스, KLM",
+      "duration": "42시간 15분",
+      "route": "ICN–CTG",
+      "stops": "경유 3회",
+      "layover": "CDG, AMS, BOG",
+      "price": 2388600,
+      "raw": "오후 1:20\n – \n오후 5:35+1\n에어프랑스, KLM\n42시간 15분\nICN–CTG\n경유 3회\nCDG, AMS, BOG\nCO2e 1,088kg\n평균 배출량\n₩2,388,600\n왕복"
+    },
+    "return": {
+      "times24": [
+        "18:55",
+        "11:15+2"
+      ],
+      "airline": "KLM, 에어프랑스",
+      "duration": "26시간 20분",
+      "route": "CTG–ICN",
+      "stops": "경유 2회",
+      "layover": "AMS, CDG",
+      "price": 2388600,
+      "raw": "오후 6:55\n – \n오전 11:15+2\nKLM, 에어프랑스\n26시간 20분\nCTG–ICN\n경유 2회\nAMS, CDG\nCO2e 989kg\n-18% 배출\n₩2,388,600\n왕복"
+    },
+    "days": [
+      {
+        "title": "인천 출발",
+        "subtitle": "ICN → CTG · 경유 3회",
+        "query": "Incheon International Airport departure",
+        "kind": "outbound",
+        "day": 1,
+        "date": "2027-01-18"
+      },
+      {
+        "title": "카르타헤나 도착",
+        "subtitle": "CTG · 숙소 체크인 · 첫 산책",
+        "query": "cartagena skyline",
+        "kind": "arrival",
+        "day": 2,
+        "date": "2027-01-19"
+      },
+      {
+        "title": "카르타헤나 성곽도시",
+        "subtitle": "카르타헤나 성곽도시 · 주변 지역 · 현지 동선",
+        "query": "Cartagena walled city",
+        "kind": "visit",
+        "day": 3,
+        "date": "2027-01-20"
+      },
+      {
+        "title": "헤트세마니",
+        "subtitle": "헤트세마니 · 주변 지역 · 현지 동선",
+        "query": "Getsemani Cartagena",
+        "kind": "visit",
+        "day": 4,
+        "date": "2027-01-21"
+      },
+      {
+        "title": "산 펠리페 요새",
+        "subtitle": "산 펠리페 요새 · 주변 지역 · 현지 동선",
+        "query": "Castillo San Felipe de Barajas",
+        "kind": "visit",
+        "day": 5,
+        "date": "2027-01-22"
+      },
+      {
+        "title": "로사리오 제도",
+        "subtitle": "로사리오 제도 · 주변 지역 · 현지 동선",
+        "query": "Rosario Islands",
+        "kind": "visit",
+        "day": 6,
+        "date": "2027-01-23"
+      },
+      {
+        "title": "바루",
+        "subtitle": "바루 · 주변 지역 · 현지 동선",
+        "query": "Playa Blanca Baru",
+        "kind": "visit",
+        "day": 7,
+        "date": "2027-01-24"
+      },
+      {
+        "title": "라 포파",
+        "subtitle": "라 포파 · 주변 지역 · 현지 동선",
+        "query": "Convento de la Popa",
+        "kind": "visit",
+        "day": 8,
+        "date": "2027-01-25"
+      },
+      {
+        "title": "라 보키야",
+        "subtitle": "라 보키야 · 주변 지역 · 현지 동선",
+        "query": "La Boquilla Cartagena",
+        "kind": "visit",
+        "day": 9,
+        "date": "2027-01-26"
+      },
+      {
+        "title": "카르타헤나 출국",
+        "subtitle": "CTG · 귀국 항공편",
+        "query": "CTG airport",
+        "kind": "return",
+        "day": 10,
+        "date": "2027-01-27"
+      }
+    ]
+  }
+]

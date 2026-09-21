@@ -17,8 +17,8 @@
       "route": "ICN–SEA",
       "stops": "직항",
       "layover": null,
-      "price": 1368608,
-      "raw": "오후 7:35\n – \n오후 1:40\n알래스카항공\n10시간 5분\nICN–SEA\n직항\nCO2e 467kg\n-8% 배출\n₩1,368,608\n왕복"
+      "price": 1370400,
+      "raw": "오후 7:35\n – \n오후 1:40\n알래스카항공\n10시간 5분\nICN–SEA\n직항\nCO2e 467kg\n-8% 배출\n₩1,370,400\n왕복"
     },
     "return": {
       "times24": [
@@ -30,8 +30,8 @@
       "route": "SEA–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 1368608,
-      "raw": "오후 1:40\n – \n오후 5:35+1\n알래스카항공\n11시간 55분\nSEA–ICN\n직항\nCO2e 544kg\n평균 배출량\n₩1,368,608\n왕복"
+      "price": 1370400,
+      "raw": "오후 1:40\n – \n오후 5:35+1\n알래스카항공\n11시간 55분\nSEA–ICN\n직항\nCO2e 544kg\n평균 배출량\n₩1,370,400\n왕복"
     },
     "days": [
       {
@@ -105,26 +105,26 @@
         "08:45",
         "09:35"
       ],
-      "airline": "대한항공델타항공",
+      "airline": "대한항공·델타항공",
       "duration": "13시간 50분",
       "route": "ICN–ATL",
       "stops": "직항",
       "layover": null,
-      "price": 2733400,
-      "raw": "오전 8:45\n – \n오전 9:35\n대한항공델타항공\n13시간 50분\nICN–ATL\n직항\nCO2e 883kg\n+19% 배출\n₩2,733,400\n왕복"
+      "price": 2669834,
+      "raw": "오전 8:45\n – \n오전 9:35\n대한항공 · 델타항공\n13시간 50분\nICN–ATL\n직항\nCO2e 883kg\n+22% 배출\n₩2,669,834\n최저 총 가격"
     },
     "return": {
       "times24": [
         "09:20",
         "14:10+1"
       ],
-      "airline": "델타항공대한항공",
+      "airline": "델타항공·대한항공",
       "duration": "15시간 50분",
       "route": "ATL–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 2733400,
-      "raw": "오전 9:20\n – \n오후 2:10+1\n델타항공대한항공\n15시간 50분\nATL–ICN\n직항\nCO2e 909kg\n평균 배출량\n₩2,733,400\n왕복"
+      "price": 2669834,
+      "raw": "오전 9:20\n – \n오후 2:10+1\n델타항공 · 대한항공\n15시간 50분\nATL–ICN\n직항\nCO2e 909kg\n+6% 배출\n₩2,669,834\n최저 총 가격"
     },
     "days": [
       {
@@ -203,8 +203,8 @@
       "route": "ICN–ORD",
       "stops": "직항",
       "layover": null,
-      "price": 2233400,
-      "raw": "오전 10:40\n – \n오전 8:30\n대한항공델타항공\n12시간 50분\nICN–ORD\n직항\nCO2e 709kg\n평균 배출량\n₩2,233,400\n왕복"
+      "price": 2236300,
+      "raw": "오전 10:40\n – \n오전 8:30\n대한항공델타항공\n12시간 50분\nICN–ORD\n직항\nCO2e 709kg\n평균 배출량\n₩2,197,300\n왕복"
     },
     "return": {
       "times24": [
@@ -216,8 +216,8 @@
       "route": "ORD–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 2233400,
-      "raw": "오전 11:10\n – \n오후 5:15+1\n대한항공델타항공\n15시간 5분\nORD–ICN\n직항\nCO2e 740kg\n평균 배출량\n₩2,233,400\n왕복"
+      "price": 2236300,
+      "raw": "오전 11:10\n – \n오후 5:15+1\n대한항공델타항공\n15시간 5분\nORD–ICN\n직항\nCO2e 741kg\n평균 배출량\n₩2,236,300\n왕복"
     },
     "days": [
       {
@@ -284,7 +284,8 @@
         "day": 8,
         "date": "2027-03-01"
       }
-    ]
+    ],
+    "verified_at": "2026-09-21 17:57 KST"
   },
   {
     "slug": "vancouver",
@@ -304,21 +305,21 @@
       "route": "ICN–YVR",
       "stops": "직항",
       "layover": null,
-      "price": 1465386,
-      "raw": "오후 5:45\n – \n오전 11:30\n에어캐나다아시아나항공\n9시간 45분\nICN–YVR\n직항\nCO2e 444kg\n-15% 배출\n₩1,465,386\n왕복"
+      "price": 1471386,
+      "raw": "오후 5:45\n – \n오전 11:30\n에어캐나다아시아나항공\n9시간 45분\nICN–YVR\n직항\nCO2e 444kg\n-14% 배출\n₩1,471,386\n왕복"
     },
     "return": {
       "times24": [
         "01:15",
         "05:30+1"
       ],
-      "airline": "티웨이항공",
+      "airline": "Trinity Airways",
       "duration": "12시간 15분",
       "route": "YVR–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 1465386,
-      "raw": "오전 1:15\n – \n오전 5:30+1\n다구간 항공권\n티웨이항공\n12시간 15분\nYVR–ICN\n직항\nCO2e 481kg\n-20% 배출\n₩1,465,386\n왕복"
+      "price": 1471386,
+      "raw": "오전 1:15\n – \n오전 5:30+1\n다구간 항공권\nTrinity Airways\n12시간 15분\nYVR–ICN\n직항\nCO2e 481kg\n-15% 배출\n₩1,471,386\n왕복"
     },
     "days": [
       {
@@ -401,7 +402,8 @@
         "day": 10,
         "date": "2026-10-25"
       }
-    ]
+    ],
+    "verified_at": "2026-09-21 17:57 KST"
   },
   {
     "slug": "toronto",
@@ -421,8 +423,8 @@
       "route": "ICN–YYZ",
       "stops": "직항",
       "layover": null,
-      "price": 2009952,
-      "raw": "오전 10:20\n – \n오전 9:20\n대한항공\n13시간\nICN–YYZ\n직항\nCO2e 639kg\n-10% 배출\n₩2,009,952\n왕복"
+      "price": 2069011,
+      "raw": "오전 10:20\n – \n오전 9:20\n대한항공\n13시간\nICN–YYZ\n직항\nCO2e 639kg\n-10% 배출\n₩2,069,011\n왕복"
     },
     "return": {
       "times24": [
@@ -434,8 +436,8 @@
       "route": "YYZ–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 2009952,
-      "raw": "오후 1:15\n – \n오후 6:25+1\n다구간 항공권\n에어캐나다\n15시간 10분\nYYZ–ICN\n직항\nCO2e 501kg\n-28% 배출\n₩2,009,952\n왕복"
+      "price": 2069011,
+      "raw": "오후 1:15\n – \n오후 6:25+1\n다구간 항공권\n에어캐나다\n15시간 10분\nYYZ–ICN\n직항\nCO2e 501kg\n-28% 배출\n₩2,069,011\n왕복"
     },
     "days": [
       {
@@ -502,7 +504,8 @@
         "day": 8,
         "date": "2026-11-27"
       }
-    ]
+    ],
+    "verified_at": "2026-09-21 17:57 KST"
   },
   {
     "slug": "sydney",
@@ -522,21 +525,21 @@
       "route": "ICN–SYD",
       "stops": "직항",
       "layover": null,
-      "price": 912227,
-      "raw": "오후 9:50\n – \n오전 10:05+1\n젯스타콴타스항공\n10시간 15분\nICN–SYD\n직항\nCO2e 490kg\n-22% 배출\n₩912,227\n왕복"
+      "price": 934779,
+      "raw": "오후 9:50\n – \n오전 10:05+1\n함께 예약된 다구간 항공권\n젯스타콴타스항공\n10시간 15분\nICN–SYD\n직항\nCO2e 490kg\n-22% 배출\n₩889,700\n왕복"
     },
     "return": {
       "times24": [
         "12:15",
         "21:15"
       ],
-      "airline": "티웨이항공",
+      "airline": "Trinity Airways",
       "duration": "11시간",
       "route": "SYD–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 912227,
-      "raw": "오후 12:15\n – \n오후 9:15\n다구간 항공권\n티웨이항공\n11시간\nSYD–ICN\n직항\nCO2e 471kg\n-25% 배출\n₩912,227\n왕복"
+      "price": 934779,
+      "raw": "오후 12:15\n – \n오후 9:15\n다구간 항공권\nTrinity Airways\n11시간\nSYD–ICN\n직항\nCO2e 471kg\n-25% 배출\n₩934,779\n왕복"
     },
     "days": [
       {
@@ -611,7 +614,8 @@
         "day": 9,
         "date": "2026-11-18"
       }
-    ]
+    ],
+    "verified_at": "2026-09-21 17:57 KST"
   },
   {
     "slug": "auckland",
@@ -631,8 +635,8 @@
       "route": "ICN–AKL",
       "stops": "직항",
       "layover": null,
-      "price": 1495200,
-      "raw": "오후 6:25\n – \n오전 9:55+1\n대한항공\n11시간 30분\nICN–AKL\n직항\nCO2e 479kg\n-27% 배출\n₩1,495,200\n왕복"
+      "price": 1396300,
+      "raw": "오후 6:25\n – \n오전 9:55+1\n대한항공\n11시간 30분\nICN–AKL\n직항\nCO2e 479kg\n-27% 배출\n₩1,396,300\n왕복"
     },
     "return": {
       "times24": [
@@ -644,8 +648,8 @@
       "route": "AKL–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 1495200,
-      "raw": "오전 11:45\n – \n오후 7:40\n대한항공\n11시간 55분\nAKL–ICN\n직항\nCO2e 478kg\n-28% 배출\n₩1,495,200\n왕복"
+      "price": 1396300,
+      "raw": "오전 11:45\n – \n오후 7:40\n대한항공\n11시간 55분\nAKL–ICN\n직항\nCO2e 478kg\n-28% 배출\n₩1,396,300\n왕복"
     },
     "days": [
       {
@@ -720,7 +724,8 @@
         "day": 9,
         "date": "2026-11-18"
       }
-    ]
+    ],
+    "verified_at": "2026-09-21 17:57 KST"
   },
   {
     "slug": "guam",
@@ -740,21 +745,21 @@
       "route": "ICN–GUM",
       "stops": "직항",
       "layover": null,
-      "price": 278681,
-      "raw": "오후 7:25\n – \n오전 1:00+1\n에어서울\n4시간 35분\nICN–GUM\n직항\nCO2e 295kg\n-13% 배출\n₩278,681\n왕복"
+      "price": 367183,
+      "raw": "오후 7:25\n – \n오전 1:00+1\n에어서울\n4시간 35분\nICN–GUM\n직항\nCO2e 295kg\n-13% 배출\n₩367,183\n왕복"
     },
     "return": {
       "times24": [
-        "02:20",
-        "06:10"
+        "02:40",
+        "06:30"
       ],
-      "airline": "진에어",
+      "airline": "대한항공",
       "duration": "4시간 50분",
       "route": "GUM–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 278681,
-      "raw": "오전 2:20\n – \n오전 6:10\n다구간 항공권\n진에어\n4시간 50분\nGUM–ICN\n직항\nCO2e 266kg\n-21% 배출\n₩278,681\n왕복"
+      "price": 367183,
+      "raw": "오전 2:40\n – \n오전 6:30\n다구간 항공권\n대한항공\n4시간 50분\nGUM–ICN\n직항\nCO2e 243kg\n-28% 배출\n₩367,183\n왕복"
     },
     "days": [
       {
@@ -829,7 +834,8 @@
         "day": 9,
         "date": "2026-10-28"
       }
-    ]
+    ],
+    "verified_at": "2026-09-21 17:57 KST"
   },
   {
     "slug": "bali",
@@ -849,8 +855,8 @@
       "route": "ICN–DPS",
       "stops": "직항",
       "layover": null,
-      "price": 783900,
-      "raw": "오후 3:10\n – \n오후 9:50\n제주항공\n7시간 40분\nICN–DPS\n직항\nCO2e 339kg\n-19% 배출\n₩783,900\n왕복"
+      "price": 740800,
+      "raw": "오후 3:10\n – \n오후 9:50\n제주항공\n7시간 40분\nICN–DPS\n직항\nCO2e 339kg\n-18% 배출\n₩740,800\n왕복"
     },
     "return": {
       "times24": [
@@ -862,8 +868,8 @@
       "route": "DPS–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 783900,
-      "raw": "오후 11:05\n – \n오전 7:10+1\n제주항공\n7시간 5분\nDPS–ICN\n직항\nCO2e 340kg\n-28% 배출\n₩783,900\n왕복"
+      "price": 740800,
+      "raw": "오후 11:05\n – \n오전 7:10+1\n제주항공\n7시간 5분\nDPS–ICN\n직항\nCO2e 340kg\n-28% 배출\n₩740,800\n왕복"
     },
     "days": [
       {
@@ -938,7 +944,8 @@
         "day": 9,
         "date": "2026-11-26"
       }
-    ]
+    ],
+    "verified_at": "2026-09-21 17:57 KST"
   },
   {
     "slug": "cebu",
@@ -958,8 +965,8 @@
       "route": "ICN–CEB",
       "stops": "직항",
       "layover": null,
-      "price": 521600,
-      "raw": "오후 8:20\n – \n오전 12:10+1\n제주항공\n4시간 50분\nICN–CEB\n직항\nCO2e 239kg\n-11% 배출\n₩521,600\n왕복"
+      "price": 467300,
+      "raw": "오후 8:20\n – \n오전 12:10+1\n제주항공\n4시간 50분\nICN–CEB\n직항\nCO2e 203kg\n-25% 배출\n₩467,300\n왕복"
     },
     "return": {
       "times24": [
@@ -971,8 +978,8 @@
       "route": "CEB–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 521600,
-      "raw": "오전 1:20\n – \n오전 6:55\n제주항공\n4시간 35분\nCEB–ICN\n직항\nCO2e 246kg\n-9% 배출\n₩521,600\n왕복"
+      "price": 467300,
+      "raw": "오전 1:20\n – \n오전 6:55\n제주항공\n4시간 35분\nCEB–ICN\n직항\nCO2e 208kg\n-23% 배출\n₩467,300\n왕복"
     },
     "days": [
       {
@@ -1047,7 +1054,8 @@
         "day": 9,
         "date": "2026-11-26"
       }
-    ]
+    ],
+    "verified_at": "2026-09-21 17:57 KST"
   },
   {
     "slug": "dubai",
@@ -1067,21 +1075,21 @@
       "route": "ICN–DXB",
       "stops": "직항",
       "layover": null,
-      "price": 1667500,
-      "raw": "오후 10:20\n – \n오전 3:40+1\n에미레이트항공\n10시간 20분\nICN–DXB\n직항\nCO2e 471kg\n-22% 배출\n₩1,667,500\n왕복"
+      "price": 1683000,
+      "raw": "오후 10:20\n – \n오전 3:40+1\n에미레이트항공\n10시간 20분\nICN–DXB\n직항\nCO2e 471kg\n-22% 배출\n₩1,683,000\n왕복"
     },
     "return": {
       "times24": [
         "03:30",
         "16:50"
       ],
-      "airline": "에미레이트항공",
+      "airline": "에미레이트항공대한항공",
       "duration": "8시간 20분",
       "route": "DXB–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 1667500,
-      "raw": "오전 3:30\n – \n오후 4:50\n에미레이트항공\n8시간 20분\nDXB–ICN\n직항\nCO2e 456kg\n-9% 배출\n₩1,667,500\n왕복"
+      "price": 1683000,
+      "raw": "오전 3:30\n – \n오후 4:50\n에미레이트항공대한항공\n8시간 20분\nDXB–ICN\n직항\nCO2e 456kg\n-9% 배출\n₩1,683,000\n왕복"
     },
     "days": [
       {
@@ -1156,7 +1164,8 @@
         "day": 9,
         "date": "2027-01-23"
       }
-    ]
+    ],
+    "verified_at": "2026-09-21 17:57 KST"
   },
   {
     "slug": "istanbul",
@@ -1176,8 +1185,8 @@
       "route": "ICN–IST",
       "stops": "직항",
       "layover": null,
-      "price": 1593400,
-      "raw": "오전 12:05\n – \n오전 5:55\n터키항공\n11시간 50분\nICN–IST\n직항\nCO2e 579kg\n-6% 배출\n₩1,593,400\n왕복"
+      "price": 1804800,
+      "raw": "오전 12:05\n – \n오전 5:55\n터키항공\n11시간 50분\nICN–IST\n직항\nCO2e 579kg\n-6% 배출\n₩1,804,800\n왕복"
     },
     "return": {
       "times24": [
@@ -1189,8 +1198,8 @@
       "route": "IST–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 1593400,
-      "raw": "오전 2:20\n – \n오후 6:20\n터키항공\n10시간\nIST–ICN\n직항\nCO2e 585kg\n평균 배출량\n₩1,593,400\n왕복"
+      "price": 1804800,
+      "raw": "오전 2:20\n – \n오후 6:20\n터키항공\n10시간\nIST–ICN\n직항\nCO2e 585kg\n평균 배출량\n₩1,804,800\n왕복"
     },
     "days": [
       {
@@ -1265,7 +1274,8 @@
         "day": 9,
         "date": "2027-01-23"
       }
-    ]
+    ],
+    "verified_at": "2026-09-21 17:57 KST"
   },
   {
     "slug": "calgary",
@@ -1285,8 +1295,8 @@
       "route": "ICN–YYC",
       "stops": "직항",
       "layover": null,
-      "price": 1297865,
-      "raw": "오후 8:45\n – \n오후 4:15\n웨스트젯대한항공\n10시간 30분\nICN–YYC\n직항\nCO2e 488kg\n-8% 배출\n₩1,297,865\n왕복"
+      "price": 1495640,
+      "raw": "오후 8:45\n – \n오후 4:15\n웨스트젯대한항공\n10시간 30분\nICN–YYC\n직항\nCO2e 488kg\n-8% 배출\n₩1,495,640\n왕복"
     },
     "return": {
       "times24": [
@@ -1298,8 +1308,8 @@
       "route": "YYC–ICN",
       "stops": "직항",
       "layover": null,
-      "price": 1485639,
-      "raw": "오후 4:00\n – \n오후 6:45+1\n다구간 항공권\n웨스트젯대한항공\n11시간 45분\nYYC–ICN\n직항\nCO2e 467kg\n-11% 배출\n₩1,485,639\n왕복"
+      "price": 1495640,
+      "raw": "오후 4:00\n – \n오후 6:45+1\n다구간 항공권\n웨스트젯대한항공\n11시간 45분\nYYC–ICN\n직항\nCO2e 467kg\n-11% 배출\n₩1,495,640\n왕복"
     },
     "days": [
       {
@@ -1366,6 +1376,7 @@
         "day": 8,
         "date": "2026-10-23"
       }
-    ]
+    ],
+    "verified_at": "2026-09-21 17:57 KST"
   }
 ]
